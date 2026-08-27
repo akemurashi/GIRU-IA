@@ -1,0 +1,39 @@
+
+# GRAIL project config (knowledge_base mode).
+# Drop source files into ./input/ and run `grail index <project>`.
+
+project_name: giru-normativa
+root_dir: .
+mode: knowledge_base
+
+llm:
+  endpoint: ollama
+  model: qwen2.5:14b
+
+embeddings:
+  endpoint: ollama
+  model: bge-m3
+
+indexing:
+  entity_types:
+    - person
+    - organization
+    - location
+    - event
+    - concept
+  extract_relationship_types: true
+  relationship_types:
+    - DEROGA
+    - MODIFICA
+    - COMPLEMENTA
+    - REEMPLAZA
+    - NOMBRA
+    - REGULA
+    - REFERENCIA
+
+vectorstore:
+  backend: lancedb
+
+storage:
+  backend: local
+  root: .
