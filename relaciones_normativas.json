@@ -1,0 +1,1712 @@
+{
+  "DEROGA": [
+    {
+      "source": "DECRETO DE RECTORIA Nº 023-D-81",
+      "target": "RECTORIA Nº 016-D-88",
+      "description": "Decree of Rectoria Nº 016-D-88 derogates Decree of Rectoria Nº 023-D-81.",
+      "documentos": [
+        {
+          "id": "07f5306d-39d5-4e52-8e54-b3d3fdadcc5f",
+          "titulo": "Nº 32 Reglamento Gral. Carrera Docente UTFSM.md",
+          "ruta": "input/1987/Nº 32 Reglamento Gral. Carrera Docente UTFSM.md"
+        },
+        {
+          "id": "6eb59acf-bb79-4ab5-8a66-24c23d358b75",
+          "titulo": "016.88 DECRETO - Dicta normas org sobre remuneraciones.md",
+          "ruta": "input/1988/016.88 DECRETO - Dicta normas org sobre remuneraciones.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORIA Nº19-D-86",
+      "target": "DECRETO DE RECTORIA Nº41/91",
+      "description": "The Decree of Rectoría Nº41/91 derogates the Decree of Rectoría Nº19-D-86.",
+      "documentos": [
+        {
+          "id": "73b2294f-4656-4cf3-a4f5-376b5c33bd1b",
+          "titulo": "042.1991 DECRETO Regl Prestamo a funcionarios.md",
+          "ruta": "input/1991/042.1991 DECRETO Regl Prestamo a funcionarios.md"
+        },
+        {
+          "id": "7bf587e6-4ef4-4c2e-9235-8869155cafe5",
+          "titulo": "D.R.41.91 Regl Org Transitorio Consejo Sede JMC.md",
+          "ruta": "input/1991/D.R.41.91 Regl Org Transitorio Consejo Sede JMC.md"
+        }
+      ]
+    },
+    {
+      "source": "REGLAMENTO GENERAL Nº39 ALUMNOS ESPECIALES Y OYENTES",
+      "target": "REGLAMENTO GENERAL Nº4 DE ALUMNOS ESPECIALES Y OYENTES",
+      "description": "The Reglamento General Nº39 Alumnos Especiales y Oyentes derogates the Reglamento General Nº4 de Alumnos Especiales y Oyentes.",
+      "documentos": [
+        {
+          "id": "40f35eed-52b5-48d6-840d-38c164695afb",
+          "titulo": "11.1992 DECRETO Fija remuneraciones Docentes.md",
+          "ruta": "input/1992/11.1992 DECRETO Fija remuneraciones Docentes.md"
+        },
+        {
+          "id": "8894fe82-04a2-408c-8782-ff914204cb51",
+          "titulo": "DEC.REC_42-92 Regl.Gral. N°39 Alum. Espec y oyentes.md",
+          "ruta": "input/1992/DEC.REC_42-92 Regl.Gral. N°39 Alum. Espec y oyentes.md"
+        }
+      ]
+    },
+    {
+      "source": "REGLAMENTO GENERAL NO. 44",
+      "target": "REGLAMENTO GENERAL NO. 6",
+      "description": "Reglamento General No. 44 derogates the previous Reglamento General No. 6 for thesis projects.",
+      "documentos": [
+        {
+          "id": "73f6a459-a30d-45eb-b348-1154b0544c73",
+          "titulo": "Decreto_23-92 Regl Gral 44 obtencion tit en cond esp.md",
+          "ruta": "input/1992/Decreto_23-92 Regl Gral 44 obtencion tit en cond esp.md"
+        },
+        {
+          "id": "c0e8ad00-9054-450c-b2e3-73dd16d14a32",
+          "titulo": "Decreto_02-92.md",
+          "ruta": "input/1992/Decreto_02-92.md"
+        }
+      ]
+    },
+    {
+      "source": "REGLAMENTO GENERAL NO. 44",
+      "target": "REGLAMENTO GENERAL NO. 8",
+      "description": "Reglamento General No. 44 derogates the previous Reglamento General No. 8 for obtaining an engineering title under special conditions.",
+      "documentos": [
+        {
+          "id": "73f6a459-a30d-45eb-b348-1154b0544c73",
+          "titulo": "Decreto_23-92 Regl Gral 44 obtencion tit en cond esp.md",
+          "ruta": "input/1992/Decreto_23-92 Regl Gral 44 obtencion tit en cond esp.md"
+        },
+        {
+          "id": "c0e8ad00-9054-450c-b2e3-73dd16d14a32",
+          "titulo": "Decreto_02-92.md",
+          "ruta": "input/1992/Decreto_02-92.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°012/2003",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "Decree of the Rector N°012/2003 is a document that deroga the previous regulation for Master's programs and promulgates Reglamento General N°45-A.",
+      "documentos": [
+        {
+          "id": "1db1168f-379c-4f70-81ac-6f8e2712a292",
+          "titulo": "Decreto-012-03.md",
+          "ruta": "input/2003/Decreto-012-03.md"
+        },
+        {
+          "id": "5cd81121-7166-46a1-881b-677c57e9b86e",
+          "titulo": "Decreto-013-03.md",
+          "ruta": "input/2003/Decreto-013-03.md"
+        },
+        {
+          "id": "7a8ab038-967b-4090-a2f3-eae153fd2535",
+          "titulo": "Decreto-009-03 Regl Carrera Academica version corregida.md",
+          "ruta": "input/2003/Decreto-009-03 Regl Carrera Academica version corregida.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°012/2003",
+      "target": "REGLAMENTO GENERAL N°45-A",
+      "description": "Decree of the Rector N°012/2003 deroga the previous regulation and promulgates Reglamento General N°45-A.",
+      "documentos": [
+        {
+          "id": "1db1168f-379c-4f70-81ac-6f8e2712a292",
+          "titulo": "Decreto-012-03.md",
+          "ruta": "input/2003/Decreto-012-03.md"
+        },
+        {
+          "id": "5cd81121-7166-46a1-881b-677c57e9b86e",
+          "titulo": "Decreto-013-03.md",
+          "ruta": "input/2003/Decreto-013-03.md"
+        },
+        {
+          "id": "7a8ab038-967b-4090-a2f3-eae153fd2535",
+          "titulo": "Decreto-009-03 Regl Carrera Academica version corregida.md",
+          "ruta": "input/2003/Decreto-009-03 Regl Carrera Academica version corregida.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°051/1991",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The Decree of Rectoría N°051/1991 is a previous decree that is being derogated by Universidad Técnica Federico Santa María concerning student rights and duties at the Viña del Mar campus.",
+      "documentos": [
+        {
+          "id": "559967a2-e333-4b32-afc5-2e2ed35647f3",
+          "titulo": "D.R.055.2008 DyD Sede JMC.md",
+          "ruta": "input/2008/D.R.055.2008 DyD Sede JMC.md"
+        },
+        {
+          "id": "f9a94889-af73-400e-8e76-bcc7e76bd676",
+          "titulo": "D.R.027.2008 Regl Organico Sede JMC.md",
+          "ruta": "input/2008/D.R.027.2008 Regl Organico Sede JMC.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°019/2013",
+      "target": "REGLAMENTO ORGÁNICO DEL CONSEJO SUPERIOR",
+      "description": "The Reglamento Orgánico del Consejo Superior derogates the Decree of Rectoría N°019/2013.",
+      "documentos": [
+        {
+          "id": "69fffc47-79b5-49ae-899a-bf5dc44bee47",
+          "titulo": "056.2025 DECRETO - Regl Organico del Consejo Superior_ROCS.md",
+          "ruta": "input/2025/056.2025 DECRETO - Regl Organico del Consejo Superior_ROCS.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°028/2010",
+      "target": "REGLAMENTO ORGÁNICO DEL CONSEJO SUPERIOR",
+      "description": "The Reglamento Orgánico del Consejo Superior derogates the Decree of Rectoría N°028/2010.",
+      "documentos": [
+        {
+          "id": "69fffc47-79b5-49ae-899a-bf5dc44bee47",
+          "titulo": "056.2025 DECRETO - Regl Organico del Consejo Superior_ROCS.md",
+          "ruta": "input/2025/056.2025 DECRETO - Regl Organico del Consejo Superior_ROCS.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°02/90",
+      "target": "REGLAMENTO ORGÁNICO DEL CONSEJO SUPERIOR",
+      "description": "The Reglamento Orgánico del Consejo Superior derogates the Decree of Rectoría N°02/90.",
+      "documentos": [
+        {
+          "id": "69fffc47-79b5-49ae-899a-bf5dc44bee47",
+          "titulo": "056.2025 DECRETO - Regl Organico del Consejo Superior_ROCS.md",
+          "ruta": "input/2025/056.2025 DECRETO - Regl Organico del Consejo Superior_ROCS.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°037/2025",
+      "target": "DECRETO DE RECTORÍA N°179/2026",
+      "description": "The Decree of the Rector N°179/2026 derogates the Decree of the Rector N°037/2025.",
+      "documentos": [
+        {
+          "id": "8f834513-a978-44cb-81e5-aa69058f4bb5",
+          "titulo": "176.2026 DECRETO - Regl Sala Consejo Academico.md",
+          "ruta": "input/2026/176.2026 DECRETO - Regl Sala Consejo Academico.md"
+        },
+        {
+          "id": "de2f152c-8801-4759-a02c-89c50595481d",
+          "titulo": "179.2026 DECRETO - Nombra Dir.de AcompañamientoTrayectoriaAcadEstudiantil.md",
+          "ruta": "input/2026/179.2026 DECRETO - Nombra Dir.de AcompañamientoTrayectoriaAcadEstudiantil.md"
+        }
+      ]
+    }
+  ],
+  "REEMPLAZA": [
+    {
+      "source": "CREACIÓN DE CARGO",
+      "target": "REEMPLAZO",
+      "description": "Both reemplazo and creación de cargo are types of positions, but reemplazo is a replacement for a vacant position and creación de cargo is a new position.",
+      "documentos": [
+        {
+          "id": "4ea9c411-6295-4ce0-96fb-4321ad6ba6fa",
+          "titulo": "Reglamento_Basico_6 Contratacion_personal.md",
+          "ruta": "input/1978/Reglamento_Basico_6 Contratacion_personal.md"
+        }
+      ]
+    },
+    {
+      "source": "REEMPLAZANTES",
+      "target": "UNIVERSIDAD",
+      "description": "The Universidad sets rules for instructing and authorizing reemplazantes.",
+      "documentos": [
+        {
+          "id": "1cf14ed9-01d4-4d29-a296-22d9dd31bef7",
+          "titulo": "REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07.md",
+          "ruta": "input/2007/REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07.md"
+        }
+      ]
+    },
+    {
+      "source": "REEMPLAZANTE",
+      "target": "TRABAJADOR",
+      "description": "El reemplazante debe ser instruido adecuadamente y autorizado para el cargo en caso de ausencia.",
+      "documentos": [
+        {
+          "id": "c47e6c88-826c-4ad8-81a4-c85172f09af1",
+          "titulo": "Reglamento InternoUTFSM al 12.09.2013.md",
+          "ruta": "input/2007/Reglamento InternoUTFSM al 12.09.2013.md"
+        }
+      ]
+    }
+  ],
+  "MODIFICA": [
+    {
+      "source": "CCEG (CONSEJO COORDINADOR DE ESCUELA DE GRADUADOS)",
+      "target": "ESCUELA DE GRADUADOS",
+      "description": "The CCEG coordinates and reviews admission and program modifications for the Escuela de Graduados.",
+      "documentos": [
+        {
+          "id": "01dbc1a8-c36b-4e5e-a482-ba69f2adfbbf",
+          "titulo": "Regl Nº 37-D Prog Escuela de Graduados.md",
+          "ruta": "input/1976/Regl Nº 37-D Prog Escuela de Graduados.md"
+        },
+        {
+          "id": "20448ac0-0375-4857-bda1-fd48ccc4c598",
+          "titulo": "Reglamento_General_22 usuarios_biblioteca.md",
+          "ruta": "input/1975/Reglamento_General_22 usuarios_biblioteca.md"
+        }
+      ]
+    },
+    {
+      "source": "ESCUELA DE GRADUADOS",
+      "target": "UNIDAD ACADEMICA",
+      "description": "The Unidad Académica evaluates and approves admission and program modifications for the Escuela de Graduados.",
+      "documentos": [
+        {
+          "id": "01dbc1a8-c36b-4e5e-a482-ba69f2adfbbf",
+          "titulo": "Regl Nº 37-D Prog Escuela de Graduados.md",
+          "ruta": "input/1976/Regl Nº 37-D Prog Escuela de Graduados.md"
+        },
+        {
+          "id": "20448ac0-0375-4857-bda1-fd48ccc4c598",
+          "titulo": "Reglamento_General_22 usuarios_biblioteca.md",
+          "ruta": "input/1975/Reglamento_General_22 usuarios_biblioteca.md"
+        }
+      ]
+    },
+    {
+      "source": "CCEG",
+      "target": "UNIDAD ACADEMICA",
+      "description": "The CCEG and the Unidad Académica collaborate in evaluating and recommending students for academic progress and credit transfers, and in making decisions regarding their admission and program modifications.",
+      "documentos": [
+        {
+          "id": "01dbc1a8-c36b-4e5e-a482-ba69f2adfbbf",
+          "titulo": "Regl Nº 37-D Prog Escuela de Graduados.md",
+          "ruta": "input/1976/Regl Nº 37-D Prog Escuela de Graduados.md"
+        },
+        {
+          "id": "832fbae0-da86-49ac-8a96-aba6c41af90f",
+          "titulo": "Reglamento_General_13 Programa de Magister 1978.md",
+          "ruta": "input/1980/Reglamento_General_13 Programa de Magister 1978.md"
+        },
+        {
+          "id": "f394ffe8-6676-4075-8539-8591b9113aee",
+          "titulo": "Reglamento_General_2(131-D-80).md",
+          "ruta": "input/1980/Reglamento_General_2(131-D-80).md"
+        }
+      ]
+    },
+    {
+      "source": "FONDO DE RENTA VITALICIA",
+      "target": "REGLAMENTO BASICO Nº 1",
+      "description": "The Reglamento Básico Nº 1 includes modifications introduced by the Academic Council related to the Fondo de Renta Vitalicia.",
+      "documentos": [
+        {
+          "id": "9d4901b4-64c4-4173-8c18-e4629db52121",
+          "titulo": "Regl.Gral. N°8 Fondo Renta Vitalicia Obreros.md",
+          "ruta": "input/1978/Regl.Gral. N°8 Fondo Renta Vitalicia Obreros.md"
+        },
+        {
+          "id": "a65baa1e-b449-4b59-a8c8-870f3349543a",
+          "titulo": "Regl.Gral. N°7 Planta Servcicios sde Adm. Académica y Secret.md",
+          "ruta": "input/1978/Regl.Gral. N°7 Planta Servcicios sde Adm. Académica y Secret.md"
+        },
+        {
+          "id": "ef098acd-a9ae-49fb-979b-fd0f24e25aee",
+          "titulo": "Reglamento_Basico_1 Normas Internas.md",
+          "ruta": "input/1978/Reglamento_Basico_1 Normas Internas.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ADMINISTRATIVO",
+      "target": "PLANTAS DE FUNCIONARIOS",
+      "description": "The Consejo Administrativo is responsible for studying and proposing modifications to the Plantas de Funcionarios.",
+      "documentos": [
+        {
+          "id": "04a36ccb-5c2a-490a-b988-60b0bf723c6d",
+          "titulo": "Reglamento_Basico_4 Consejo Académico.md",
+          "ruta": "input/1978/Reglamento_Basico_4 Consejo Académico.md"
+        },
+        {
+          "id": "4ea9c411-6295-4ce0-96fb-4321ad6ba6fa",
+          "titulo": "Reglamento_Basico_6 Contratacion_personal.md",
+          "ruta": "input/1978/Reglamento_Basico_6 Contratacion_personal.md"
+        },
+        {
+          "id": "9b68f73d-8687-49c0-b53c-dbf3526e49f1",
+          "titulo": "Reglamento_Basico_5 Consejo Administrativo.md",
+          "ruta": "input/1978/Reglamento_Basico_5 Consejo Administrativo.md"
+        }
+      ]
+    },
+    {
+      "source": "UNIVERSIDAD DE VALPARAISO",
+      "target": "VICE-RECTOR DE ASUNTOS ECONOMICOS Y ADMINISTRATIVOS",
+      "description": "The Vicerrector de Asuntos Económicos y Administrativos proposes modifications for the University of Valparaiso.",
+      "documentos": [
+        {
+          "id": "0e334ad6-1c8a-45ee-aa3c-0874d6b4ddd2",
+          "titulo": "Decreto_01-D-82. Regl Cuota Mortuoria func.md",
+          "ruta": "input/1982/Decreto_01-D-82. Regl Cuota Mortuoria func.md"
+        },
+        {
+          "id": "27c8ab8a-ef78-4c11-9823-a6bac20ba2fa",
+          "titulo": "Decreto_02-D-81 Regl Investigaciones Sumarias y Sumarios.md",
+          "ruta": "input/1981/Decreto_02-D-81 Regl Investigaciones Sumarias y Sumarios.md"
+        },
+        {
+          "id": "763d7c9e-3014-44e2-866f-032ef1b3b9c2",
+          "titulo": "Decreto_40-D-81. Modifica fondo renta vitalicia.md",
+          "ruta": "input/1981/Decreto_40-D-81. Modifica fondo renta vitalicia.md"
+        }
+      ]
+    },
+    {
+      "source": "DIRECCION DE ABASTECIMIENTO",
+      "target": "JEFE DE UNIDAD",
+      "description": "The Jefe de Unidad must communicate any modifications in the unit's structure to the Dirección de Abastecimiento for inventory adjustments.",
+      "documentos": [
+        {
+          "id": "4beb2ed6-6dec-46b6-8d9f-440fa59a4580",
+          "titulo": "Reglamento_General_31. Ayudantias Sedes.md",
+          "ruta": "input/1985/Reglamento_General_31. Ayudantias Sedes.md"
+        },
+        {
+          "id": "5d1e87ab-1b9a-4a0e-b291-d105e21f8173",
+          "titulo": "Regl. Inventario (D.R.027.1985) DEROGADO_DR.079.2024.md",
+          "ruta": "input/1985/Regl. Inventario (D.R.027.1985) DEROGADO_DR.079.2024.md"
+        }
+      ]
+    },
+    {
+      "source": "DIRECCIÓN DE RELACIONES ESTUDIANTILES",
+      "target": "DIRECTOR DE RELACIONES ESTUDIANTILES",
+      "description": "The Director of Student Relations is responsible for proposing modifications to the credit regulation text within the Dirección de Relaciones Estudiantiles.",
+      "documentos": [
+        {
+          "id": "7b79b3c8-454a-4152-9b1e-edec16d558c6",
+          "titulo": "DR 20-D-87 Promulga Reglamento de Crédito Universitario.md",
+          "ruta": "input/1987/DR 20-D-87 Promulga Reglamento de Crédito Universitario.md"
+        },
+        {
+          "id": "cf0dcee6-a063-43f9-850a-e325a6e5faea",
+          "titulo": "Decreto_09-D-87 Reg_Permiso_sabatico.md",
+          "ruta": "input/1987/Decreto_09-D-87 Reg_Permiso_sabatico.md"
+        }
+      ]
+    },
+    {
+      "source": "DIRECTOR DE RELACIONES ESTUDIANTILES",
+      "target": "VICE RECTOR ACADÉMICO",
+      "description": "The Vice Rector Académico resolves modifications to the credit regulation text proposed by the Director of Student Relations in the first year of application.",
+      "documentos": [
+        {
+          "id": "7b79b3c8-454a-4152-9b1e-edec16d558c6",
+          "titulo": "DR 20-D-87 Promulga Reglamento de Crédito Universitario.md",
+          "ruta": "input/1987/DR 20-D-87 Promulga Reglamento de Crédito Universitario.md"
+        },
+        {
+          "id": "cf0dcee6-a063-43f9-850a-e325a6e5faea",
+          "titulo": "Decreto_09-D-87 Reg_Permiso_sabatico.md",
+          "ruta": "input/1987/Decreto_09-D-87 Reg_Permiso_sabatico.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO",
+      "target": "DIRECTOR GENERAL DE ASUNTOS ACADÉMICOS",
+      "description": "The Director General de Asuntos Académicos proposed modifications to the Reglamento de la Carrera Docente, which were agreed upon by the Consejo Académico.",
+      "documentos": [
+        {
+          "id": "07f5306d-39d5-4e52-8e54-b3d3fdadcc5f",
+          "titulo": "Nº 32 Reglamento Gral. Carrera Docente UTFSM.md",
+          "ruta": "input/1987/Nº 32 Reglamento Gral. Carrera Docente UTFSM.md"
+        },
+        {
+          "id": "84f11271-c3b4-457e-b68a-607a060410b3",
+          "titulo": "Nº 32 Reglamento Gral. Carrera Docente UTFSM 2.md",
+          "ruta": "input/1987/Nº 32 Reglamento Gral. Carrera Docente UTFSM 2.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO",
+      "target": "REGISTRO DE LA CARRERA DOCENTE",
+      "description": "The Consejo Académico agreed to modifications in the Reglamento de la Carrera Docente, which regulates the academic career of faculty members.",
+      "documentos": [
+        {
+          "id": "07f5306d-39d5-4e52-8e54-b3d3fdadcc5f",
+          "titulo": "Nº 32 Reglamento Gral. Carrera Docente UTFSM.md",
+          "ruta": "input/1987/Nº 32 Reglamento Gral. Carrera Docente UTFSM.md"
+        },
+        {
+          "id": "84f11271-c3b4-457e-b68a-607a060410b3",
+          "titulo": "Nº 32 Reglamento Gral. Carrera Docente UTFSM 2.md",
+          "ruta": "input/1987/Nº 32 Reglamento Gral. Carrera Docente UTFSM 2.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO DE ADMINISTRACIÓN DEL FONDO DEL CONVENIO DE INDEMNIZACIÓN POR DESAHUCIO O RETIRO DE LOS ACADÉMICOS DE LA UNIVERSIDAD",
+      "target": "DECRETO DE RECTORÍA Nº 20-D-88",
+      "description": "The council's decision influenced the modification of the Indemnization Agreement Regulation.",
+      "documentos": [
+        {
+          "id": "6eb59acf-bb79-4ab5-8a66-24c23d358b75",
+          "titulo": "016.88 DECRETO - Dicta normas org sobre remuneraciones.md",
+          "ruta": "input/1988/016.88 DECRETO - Dicta normas org sobre remuneraciones.md"
+        },
+        {
+          "id": "fcc890b3-41a2-42d1-9a5c-ba4454432222",
+          "titulo": "Decreto_20-D-88 (No_Vigente).md",
+          "ruta": "input/1988/Decreto_20-D-88 (No_Vigente).md"
+        }
+      ]
+    },
+    {
+      "source": "RECTORIA",
+      "target": "SR. VICERRECTOR DE ASUNTOS ECONOMICOS Y ADMINISTRATIVOS",
+      "description": "The Vicerrector de Asuntos Económicos y Administrativos is part of the Rectoría and makes final decisions on modifications to the regulation.",
+      "documentos": [
+        {
+          "id": "ac837382-5afa-44b4-80ca-1e81c89af58a",
+          "titulo": "Decreto_24-D-88 Admin. Fondo Cred. Univ.md",
+          "ruta": "input/1988/Decreto_24-D-88 Admin. Fondo Cred. Univ.md"
+        },
+        {
+          "id": "dd1edc2b-5b61-4e8d-a1af-2f568d4ad94b",
+          "titulo": "Reg Sala de Junta Directiva 1988.md",
+          "ruta": "input/1988/Reg Sala de Junta Directiva 1988.md"
+        }
+      ]
+    },
+    {
+      "source": "CREACIÓN, MODIFICACIÓN O SUPRESIÓN DE FACULTADES Y UNIDADES ACADEMICAS",
+      "target": "JUNTA DIRECTIVA",
+      "description": "The creación, modificación o supresión de facultades y unidades académicas is approved by the Junta Directiva.",
+      "documentos": [
+        {
+          "id": "b3181fa2-ff42-46bb-867d-974b4f85c3d0",
+          "titulo": "004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md",
+          "ruta": "input/1990/004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md"
+        }
+      ]
+    },
+    {
+      "source": "CREACIÓN, MODIFICACIÓN O SUPRESIÓN DE PLANES DE ESTUDIO Y PROGRAMAS",
+      "target": "JUNTA DIRECTIVA",
+      "description": "The creación, modificación o supresión de planes de estudio y programas is approved by the Junta Directiva.",
+      "documentos": [
+        {
+          "id": "b3181fa2-ff42-46bb-867d-974b4f85c3d0",
+          "titulo": "004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md",
+          "ruta": "input/1990/004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md"
+        }
+      ]
+    },
+    {
+      "source": "CREACIÓN, MODIFICACIÓN O SUPRESIÓN DE TÍTULOS Y GRADOS ACADEMICOS U HONORÍFICOS",
+      "target": "JUNTA DIRECTIVA",
+      "description": "The creación, modificación o supresión de títulos y grados académicos u honoríficos is approved by the Junta Directiva.",
+      "documentos": [
+        {
+          "id": "b3181fa2-ff42-46bb-867d-974b4f85c3d0",
+          "titulo": "004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md",
+          "ruta": "input/1990/004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md"
+        }
+      ]
+    },
+    {
+      "source": "CREACIÓN, MODIFICACIÓN O SUPRESIÓN DE PLANES Y PROGRAMAS GENERALES DE ESTUDIO",
+      "target": "JUNTA DIRECTIVA",
+      "description": "The creación, modificación o supresión de planes y programas generales de estudio is approved by the Junta Directiva.",
+      "documentos": [
+        {
+          "id": "b3181fa2-ff42-46bb-867d-974b4f85c3d0",
+          "titulo": "004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md",
+          "ruta": "input/1990/004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md"
+        }
+      ]
+    },
+    {
+      "source": "CREACIÓN, MODIFICACIÓN O SUPRESIÓN DE FACULTADES, ESCUELAS U OTROS ORGANISMOS ACADEMICOS",
+      "target": "JUNTA DIRECTIVA",
+      "description": "The creación, modificación o supresión de facultades, escuelas u otros organismos académicos is approved by the Junta Directiva.",
+      "documentos": [
+        {
+          "id": "b3181fa2-ff42-46bb-867d-974b4f85c3d0",
+          "titulo": "004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md",
+          "ruta": "input/1990/004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md"
+        }
+      ]
+    },
+    {
+      "source": "CREACIÓN, MODIFICACIÓN O SUPRESIÓN DE PLANES Y PROGRAMAS GENERALES DE ESTUDIO, DIPLOMAS, CERTIFICADOS, TÍTULOS Y GRADOS ACADEMICO U HONORÍFICOS Y DE FACULTADES, ESCUELAS U OTROS ORGANISMOS ACADEMICOS",
+      "target": "JUNTA DIRECTIVA",
+      "description": "The creación, modificación o supresión de planes y programas generales de estudio, diplomas, certificados, títulos y grados académico u honoríficos y de facultades, escuelas u otros organismos académicos is approved by the Junta Directiva.",
+      "documentos": [
+        {
+          "id": "b3181fa2-ff42-46bb-867d-974b4f85c3d0",
+          "titulo": "004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md",
+          "ruta": "input/1990/004.1990 DECRETO Regl Org Estatutos Univ A.Ibañez.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO SUPERIOR",
+      "target": "DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR Nº001/93",
+      "description": "The Consejo Superior issued the decree related to the modification of the Patent Regulation.",
+      "documentos": [
+        {
+          "id": "0df7d96e-de0d-43aa-86ba-453c9eedab65",
+          "titulo": "Decreto 008.1994 Regl Org Acad de CCentral.md",
+          "ruta": "input/1994/Decreto 008.1994 Regl Org Acad de CCentral.md"
+        },
+        {
+          "id": "e98942fd-4b79-4153-9da5-8909c23ebf7b",
+          "titulo": "Decreto 016.1994 Modif Art.4to Regl Gral 46 Patente de Invencion.md",
+          "ruta": "input/1994/Decreto 016.1994 Modif Art.4to Regl Gral 46 Patente de Invencion.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA (UTFSM)",
+      "description": "The Consejo Académico of the Universidad Técnica Federico Santa María approves modifications to student regulations and participates in the designation of professors as members of the Comisión Universitaria.",
+      "documentos": [
+        {
+          "id": "0d161661-9aa6-473b-bc07-198ae2f2678a",
+          "titulo": "182.2016 DECRETO - Regl DyD Alumnos CCentral y CSantiago.md",
+          "ruta": "input/2016/182.2016 DECRETO - Regl DyD Alumnos CCentral y CSantiago.md"
+        },
+        {
+          "id": "6e8f5978-3fb2-4196-9d74-039d9e1917dd",
+          "titulo": "DEC.REC_27-95 Regl Gral Nº38 Eval Planta Apoyo Acad y Doc.md",
+          "ruta": "input/1995/DEC.REC_27-95 Regl Gral Nº38 Eval Planta Apoyo Acad y Doc.md"
+        },
+        {
+          "id": "9c48e4db-1bbc-4591-8061-d4ae8267b09e",
+          "titulo": "175.2023 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado.md",
+          "ruta": "input/2023/175.2023 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado.md"
+        },
+        {
+          "id": "afbb84ec-bf10-42f4-8cab-e10200935c23",
+          "titulo": "216.2023 DECRETO - Regl General de Elecciones VF.md",
+          "ruta": "input/2023/216.2023 DECRETO - Regl General de Elecciones VF.md"
+        },
+        {
+          "id": "d39142b2-9d4e-4f68-bb03-42f2ec333718",
+          "titulo": "144.2016 DECRETO - Regl ROAS.md",
+          "ruta": "input/2016/144.2016 DECRETO - Regl ROAS.md"
+        },
+        {
+          "id": "d7d72010-ca76-4ee1-af48-1007958febd3",
+          "titulo": "133.2018 DECRETO - Modif Regl Gral. Votaciones y Elecciones.md",
+          "ruta": "input/2018/133.2018 DECRETO - Modif Regl Gral. Votaciones y Elecciones.md"
+        }
+      ]
+    },
+    {
+      "source": "CONVENIO DE GARANTÍA",
+      "target": "NOTARIO",
+      "description": "The Notario witnesses the signing of the Convenio de Garantía and any modifications or additions to it.",
+      "documentos": [
+        {
+          "id": "efc2bc67-fada-47a8-8a5e-c32f84736fe8",
+          "titulo": "DEC.REC_31-95 Perfeccionamiento Docente.md",
+          "ruta": "input/1995/DEC.REC_31-95 Perfeccionamiento Docente.md"
+        }
+      ]
+    },
+    {
+      "source": "MODIFICACIONES Y CAMBIOS A LAS PAGINAS WWW (FASE 3)",
+      "target": "SERVICIO WWW DE LA DCSC - UTFSM",
+      "description": "The Web Page Modification Service is part of the WWW service provided by DCSC.",
+      "documentos": [
+        {
+          "id": "40e98a88-d220-4df7-b149-2fb41656cc6c",
+          "titulo": "DEC.REC_044.96 Aprueba y Promulga Reg Org Dir Cen.Serv Comput.md",
+          "ruta": "input/1996/DEC.REC_044.96 Aprueba y Promulga Reg Org Dir Cen.Serv Comput.md"
+        }
+      ]
+    },
+    {
+      "source": "RECTOR DE LA U.T.F.S.M.",
+      "target": "SEMTRA-2",
+      "description": "The Rector of U.T.F.S.M. has the authority to approve certain decisions and modifications to SEMTRA-2's regulations, such as proposing extraordinary quotas and appointing members to the Comisión Revisora de Cuentas.",
+      "documentos": [
+        {
+          "id": "6a6482e9-c319-4201-a410-f16ef09f2196",
+          "titulo": "005.97 DECRETO - Regl SEMTRA-2.md",
+          "ruta": "input/1997/005.97 DECRETO - Regl SEMTRA-2.md"
+        }
+      ]
+    },
+    {
+      "source": "SEMTRA-2",
+      "target": "UTFSM",
+      "description": "SEMTRA-2 is a benefit program managed by UTFSM, providing medical and economic assistance to its members and their families. UTFSM oversees SEMTRA-2's financial policies and can approve certain actions and modifications.",
+      "documentos": [
+        {
+          "id": "1f66b1e0-7ec4-4f55-923e-9ed8d49a2a46",
+          "titulo": "Pag 8 Regl Organico Sede JMC.md",
+          "ruta": "input/2008/Pag 8 Regl Organico Sede JMC.md"
+        },
+        {
+          "id": "3adf2e78-9789-4186-a14f-540008c7d9c9",
+          "titulo": "Reglamento_Servicio_medico_SEMTRA.md",
+          "ruta": "input/2008/Reglamento_Servicio_medico_SEMTRA.md"
+        },
+        {
+          "id": "6a6482e9-c319-4201-a410-f16ef09f2196",
+          "titulo": "005.97 DECRETO - Regl SEMTRA-2.md",
+          "ruta": "input/1997/005.97 DECRETO - Regl SEMTRA-2.md"
+        },
+        {
+          "id": "6ca476a3-bee3-4464-913c-073049a677c3",
+          "titulo": "316.2017 DECRETO - Regl SEMTRA.md",
+          "ruta": "input/2017/316.2017 DECRETO - Regl SEMTRA.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO NORMATIVO DE SEDES",
+      "target": "SUBDIRECCION O DIRECCION DE DOCENCIA",
+      "description": "The Subdirección or Dirección de Docencia proposes modifications to study plans which are then approved by the Consejo Normativo de Sedes.",
+      "documentos": [
+        {
+          "id": "f6d06274-a82b-431c-b1b6-6b7a94d914d9",
+          "titulo": "038.97 DECRETO - Regl Regimen Curricular de las carreras de Ing Ejec en Sedes.md",
+          "ruta": "input/1997/038.97 DECRETO - Regl Regimen Curricular de las carreras de Ing Ejec en Sedes.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°047/97",
+      "target": "DIRECTOR GENERAL DE ADMINISTRACIÓN Y FINANZAS",
+      "description": "The DIRECTOR GENERAL DE ADMINISTRACIÓN Y FINANZAS requested the modification of the responsibility assignment.",
+      "documentos": [
+        {
+          "id": "41a3e1c0-b29a-440a-8039-4382d55f43e0",
+          "titulo": "Decreto_28-97.md",
+          "ruta": "input/1997/Decreto_28-97.md"
+        },
+        {
+          "id": "ad5c0283-78d4-4715-90fa-ad1bc52afe7c",
+          "titulo": "Decreto_47-97.md",
+          "ruta": "input/1997/Decreto_47-97.md"
+        },
+        {
+          "id": "dc3c092b-11be-472e-8427-e9e62662c26b",
+          "titulo": "039.1998 DECRETO Modif Art.1 primer parrafo Regl Sala CA.md",
+          "ruta": "input/1998/039.1998 DECRETO Modif Art.1 primer parrafo Regl Sala CA.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADEMICO",
+      "target": "DEPARTAMENTO ACADEMICO",
+      "description": "The Consejo Académico approves study plans and their modifications based on proposals from the Departamento Académico.",
+      "documentos": [
+        {
+          "id": "28049d69-20e5-4afd-950b-9b64b9aa59f0",
+          "titulo": "01Reglamento_1 ok.md",
+          "ruta": "input/2003/01Reglamento_1 ok.md"
+        },
+        {
+          "id": "74f343dd-54f0-49e9-ab92-1815ecf8f3ef",
+          "titulo": "DECRETO 002.99 ReglGral N1 Regimen Curricular CCentral.md",
+          "ruta": "input/1999/DECRETO 002.99 ReglGral N1 Regimen Curricular CCentral.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO DE LA UNIVERSIDAD",
+      "target": "PLAN DE ESTUDIO",
+      "description": "El Consejo Académico de la Universidad aprueba los planes de estudio para cada carrera y sus modificaciones.",
+      "documentos": [
+        {
+          "id": "165e2bd5-bf83-4949-9ee2-9ab06f40c213",
+          "titulo": "Decreto-014-03 Reg. Curricular C.C. - N°1.md",
+          "ruta": "input/2003/Decreto-014-03 Reg. Curricular C.C. - N°1.md"
+        },
+        {
+          "id": "44c23d37-50e0-4542-8718-02de99579765",
+          "titulo": "01Reglamento_1.md",
+          "ruta": "input/2003/01Reglamento_1.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO DE DOCENCIA",
+      "target": "CONSEJO DE SEDES",
+      "description": "<summaries>\n[\n  {{\"index\": 1, \"summary\": \"Consejo de Docencia studies and proposes modifications to academic plans, programs, and the opening or closing of careers and departments to Consejo de Sede.\"}}\n]\n</summaries>",
+      "documentos": [
+        {
+          "id": "0fb6c72a-101a-4d21-a024-10dc97d5667f",
+          "titulo": "Decreto-023-03 Proc.creación títulos grados etc. 1.md",
+          "ruta": "input/2003/Decreto-023-03 Proc.creación títulos grados etc. 1.md"
+        },
+        {
+          "id": "b33f3031-0418-41bb-8c08-2d346c54074a",
+          "titulo": "Decreto-032-03 Esfuerzo es Progreso 1.md",
+          "ruta": "input/2003/Decreto-032-03 Esfuerzo es Progreso 1.md"
+        },
+        {
+          "id": "fa541c66-16a9-4d41-afab-dccd73ec2052",
+          "titulo": "DECRER023.03 Prom Creacion Titulos Grados etc.md",
+          "ruta": "input/2003/DECRER023.03 Prom Creacion Titulos Grados etc.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO DE DOCENCIA",
+      "target": "DIRECCION GENERAL DE DOCENCIA (CCDD)",
+      "description": "The Dirección General de Docencia studies and proposes modifications to academic plans and programs for the Consejo de Docencia.",
+      "documentos": [
+        {
+          "id": "0fb6c72a-101a-4d21-a024-10dc97d5667f",
+          "titulo": "Decreto-023-03 Proc.creación títulos grados etc. 1.md",
+          "ruta": "input/2003/Decreto-023-03 Proc.creación títulos grados etc. 1.md"
+        },
+        {
+          "id": "b33f3031-0418-41bb-8c08-2d346c54074a",
+          "titulo": "Decreto-032-03 Esfuerzo es Progreso 1.md",
+          "ruta": "input/2003/Decreto-032-03 Esfuerzo es Progreso 1.md"
+        }
+      ]
+    },
+    {
+      "source": "CARRERAS DE PREGRADO",
+      "target": "CONSEJO DE DOCENCIA",
+      "description": "The Consejo de Docencia studies and proposes modifications to undergraduate programs offered by the university.",
+      "documentos": [
+        {
+          "id": "0fb6c72a-101a-4d21-a024-10dc97d5667f",
+          "titulo": "Decreto-023-03 Proc.creación títulos grados etc. 1.md",
+          "ruta": "input/2003/Decreto-023-03 Proc.creación títulos grados etc. 1.md"
+        },
+        {
+          "id": "b33f3031-0418-41bb-8c08-2d346c54074a",
+          "titulo": "Decreto-032-03 Esfuerzo es Progreso 1.md",
+          "ruta": "input/2003/Decreto-032-03 Esfuerzo es Progreso 1.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO",
+      "target": "CURRICULUM",
+      "description": "The Consejo approves modifications to the curriculum of the joint doctoral program.",
+      "documentos": [
+        {
+          "id": "06bcc144-6d1d-4167-b784-f163ebc79cd1",
+          "titulo": "Reglamento_Doctorado_Quimica(33-03).md",
+          "ruta": "input/2003/Reglamento_Doctorado_Quimica(33-03).md"
+        },
+        {
+          "id": "373c1170-6b9f-499a-893f-2b646745635c",
+          "titulo": "Reglamento_Carrera_Academica(09-03).md",
+          "ruta": "input/2003/Reglamento_Carrera_Academica(09-03).md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO",
+      "target": "PROYECTOS DE MODIFICACIÓN DE CURRICULUM",
+      "description": "The Consejo proposes modifications to the curriculum of the joint doctoral program.",
+      "documentos": [
+        {
+          "id": "06bcc144-6d1d-4167-b784-f163ebc79cd1",
+          "titulo": "Reglamento_Doctorado_Quimica(33-03).md",
+          "ruta": "input/2003/Reglamento_Doctorado_Quimica(33-03).md"
+        },
+        {
+          "id": "373c1170-6b9f-499a-893f-2b646745635c",
+          "titulo": "Reglamento_Carrera_Academica(09-03).md",
+          "ruta": "input/2003/Reglamento_Carrera_Academica(09-03).md"
+        }
+      ]
+    },
+    {
+      "source": "JOSÉ RODRIGUEZ PÉREZ",
+      "target": "UNIVERSIDAD",
+      "description": "José Rodríguez Pérez is the Rector of the University and promulgated modifications to the Organic Regulation.",
+      "documentos": [
+        {
+          "id": "559967a2-e333-4b32-afc5-2e2ed35647f3",
+          "titulo": "D.R.055.2008 DyD Sede JMC.md",
+          "ruta": "input/2008/D.R.055.2008 DyD Sede JMC.md"
+        },
+        {
+          "id": "63533cfe-bf3a-4bb1-90e9-5844fe341379",
+          "titulo": "DECRER052.08 Modif.ROAS.md",
+          "ruta": "input/2008/DECRER052.08 Modif.ROAS.md"
+        }
+      ]
+    },
+    {
+      "source": "JEROME MAC AULIFFE FRANKLIN",
+      "target": "UNIVERSIDAD",
+      "description": "Jerome Mac Auliffe Franklin is the Secretary General of the University and communicated the promulgation of the modifications.",
+      "documentos": [
+        {
+          "id": "559967a2-e333-4b32-afc5-2e2ed35647f3",
+          "titulo": "D.R.055.2008 DyD Sede JMC.md",
+          "ruta": "input/2008/D.R.055.2008 DyD Sede JMC.md"
+        },
+        {
+          "id": "63533cfe-bf3a-4bb1-90e9-5844fe341379",
+          "titulo": "DECRER052.08 Modif.ROAS.md",
+          "ruta": "input/2008/DECRER052.08 Modif.ROAS.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORIA N°052/2008",
+      "target": "UNIVERSIDAD",
+      "description": "The University is the subject of the modifications promulgated by the Decree of Rectorship N°052/2008.",
+      "documentos": [
+        {
+          "id": "559967a2-e333-4b32-afc5-2e2ed35647f3",
+          "titulo": "D.R.055.2008 DyD Sede JMC.md",
+          "ruta": "input/2008/D.R.055.2008 DyD Sede JMC.md"
+        },
+        {
+          "id": "63533cfe-bf3a-4bb1-90e9-5844fe341379",
+          "titulo": "DECRER052.08 Modif.ROAS.md",
+          "ruta": "input/2008/DECRER052.08 Modif.ROAS.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO SUPERIOR",
+      "target": "DECRETO DE RECTORIA N°052/2008",
+      "description": "The Superior Council approved the modifications to the Organic Regulation promulgated by the Decree of Rectorship N°052/2008.",
+      "documentos": [
+        {
+          "id": "559967a2-e333-4b32-afc5-2e2ed35647f3",
+          "titulo": "D.R.055.2008 DyD Sede JMC.md",
+          "ruta": "input/2008/D.R.055.2008 DyD Sede JMC.md"
+        },
+        {
+          "id": "63533cfe-bf3a-4bb1-90e9-5844fe341379",
+          "titulo": "DECRER052.08 Modif.ROAS.md",
+          "ruta": "input/2008/DECRER052.08 Modif.ROAS.md"
+        }
+      ]
+    },
+    {
+      "source": "ACUERDO N° 691",
+      "target": "CONSEJO SUPERIOR",
+      "description": "The Superior Council adopted Agreement N° 691, which approved the modifications to the Organic Regulation.",
+      "documentos": [
+        {
+          "id": "559967a2-e333-4b32-afc5-2e2ed35647f3",
+          "titulo": "D.R.055.2008 DyD Sede JMC.md",
+          "ruta": "input/2008/D.R.055.2008 DyD Sede JMC.md"
+        },
+        {
+          "id": "63533cfe-bf3a-4bb1-90e9-5844fe341379",
+          "titulo": "DECRER052.08 Modif.ROAS.md",
+          "ruta": "input/2008/DECRER052.08 Modif.ROAS.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO DE ADMINISTRACIÓN",
+      "target": "REGLAMENTO",
+      "description": "The Consejo de Administración is responsible for modifying the reglamento when necessary and calling assemblies for such modifications.",
+      "documentos": [
+        {
+          "id": "3adf2e78-9789-4186-a14f-540008c7d9c9",
+          "titulo": "Reglamento_Servicio_medico_SEMTRA.md",
+          "ruta": "input/2008/Reglamento_Servicio_medico_SEMTRA.md"
+        }
+      ]
+    },
+    {
+      "source": "REGLAMENTO",
+      "target": "SOCIOS",
+      "description": "The REGLAMENTO defines the rights and responsibilities of socios within SEMTRA-2, including their voting rights on modifications.",
+      "documentos": [
+        {
+          "id": "3adf2e78-9789-4186-a14f-540008c7d9c9",
+          "titulo": "Reglamento_Servicio_medico_SEMTRA.md",
+          "ruta": "input/2008/Reglamento_Servicio_medico_SEMTRA.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO",
+      "target": "PROGRAMAS DE POSTGRADO",
+      "description": "The Academic Council decides on modifications to the program's format and competencies.",
+      "documentos": [
+        {
+          "id": "4b3e4984-6652-473a-a19c-16ac5a2dcbbe",
+          "titulo": "DECRETO 055.2010 Promulga Regl Gral Estudios de Postgrado N°47.md",
+          "ruta": "input/2010/DECRETO 055.2010 Promulga Regl Gral Estudios de Postgrado N°47.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°022/2014",
+      "target": "REGLAMENTO DE CARRERA ACADÉMICA",
+      "description": "The Decree of the Rector N°022/2014 promulgates modifications to the Academic Career Regulation.",
+      "documentos": [
+        {
+          "id": "0cf5e041-e651-4135-b343-a31c68f3f10a",
+          "titulo": "062.2013 DECRETO - Aprueba Prog. especial TU para Trabajadores PET.md",
+          "ruta": "input/2013/062.2013 DECRETO - Aprueba Prog. especial TU para Trabajadores PET.md"
+        },
+        {
+          "id": "63b85d76-2e80-4a5d-beb3-db1514c73b38",
+          "titulo": "061.2013 DECRETO - Actualiza Regl.Serv.Medico de Operarios.md",
+          "ruta": "input/2013/061.2013 DECRETO - Actualiza Regl.Serv.Medico de Operarios.md"
+        },
+        {
+          "id": "b3652485-439f-4fdc-add5-fbb744ae2d00",
+          "titulo": "022.2014 DECRETO - Mod. Regl Carrera Acad Arts 42 y 43.md",
+          "ruta": "input/2014/022.2014 DECRETO - Mod. Regl Carrera Acad Arts 42 y 43.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO",
+      "target": "REGLAMENTO DE CARRERA ACADÉMICA",
+      "description": "The Consejo Académico approved modifications to the Academic Career Regulation.",
+      "documentos": [
+        {
+          "id": "23c1dbf5-3a9b-4625-8b54-aca1605a4f6a",
+          "titulo": "011.2015 DECRETO - Mod Carrera Academica Art 34.md",
+          "ruta": "input/2015/011.2015 DECRETO - Mod Carrera Academica Art 34.md"
+        },
+        {
+          "id": "97d6ee14-5a7e-4964-8298-ccadea5ca59d",
+          "titulo": "003.2015 DECRETO - Creación Depto Ing Comercial.md",
+          "ruta": "input/2015/003.2015 DECRETO - Creación Depto Ing Comercial.md"
+        },
+        {
+          "id": "eccfa016-78e3-4cac-b8fd-42ae65bbcaaf",
+          "titulo": "070.2015 DECRETO - Mod Regl Gral N°1 refundido ok.md",
+          "ruta": "input/2015/070.2015 DECRETO - Mod Regl Gral N°1 refundido ok.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO",
+      "target": "REGLAMENTO GENERAL N°1",
+      "description": "The Consejo Académico approved modifications to the General Regulation N°1.",
+      "documentos": [
+        {
+          "id": "23c1dbf5-3a9b-4625-8b54-aca1605a4f6a",
+          "titulo": "011.2015 DECRETO - Mod Carrera Academica Art 34.md",
+          "ruta": "input/2015/011.2015 DECRETO - Mod Carrera Academica Art 34.md"
+        },
+        {
+          "id": "97d6ee14-5a7e-4964-8298-ccadea5ca59d",
+          "titulo": "003.2015 DECRETO - Creación Depto Ing Comercial.md",
+          "ruta": "input/2015/003.2015 DECRETO - Creación Depto Ing Comercial.md"
+        },
+        {
+          "id": "eccfa016-78e3-4cac-b8fd-42ae65bbcaaf",
+          "titulo": "070.2015 DECRETO - Mod Regl Gral N°1 refundido ok.md",
+          "ruta": "input/2015/070.2015 DECRETO - Mod Regl Gral N°1 refundido ok.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO DE DEPARTAMENTO",
+      "target": "JEFES DE CARRERA",
+      "description": "Jefes de Carrera propose improvements and modifications to the curriculum to the Council of Department.",
+      "documentos": [
+        {
+          "id": "61352aca-6a2b-44fa-8495-2c68178a3aec",
+          "titulo": "375.2015 DECRETO - Regl Organico Sedes ROS derogado con DR_755.2025.md",
+          "ruta": "input/2015/375.2015 DECRETO - Regl Organico Sedes ROS derogado con DR_755.2025.md"
+        }
+      ]
+    },
+    {
+      "source": "DIRECTOR DE LA UNIDAD",
+      "target": "PERSONAL DE LA UNIVERSIDAD",
+      "description": "The Director of the Unit authorizes university personnel to participate in spin-off companies, provides permission for their absence or modification of work schedule, and allows them to engage in such activities.",
+      "documentos": [
+        {
+          "id": "d312b27e-8f6a-4913-b0cb-6db6b6a946f7",
+          "titulo": "260.2017 DECRETO - Regl Propiedad Intelectual e Ind y TT.md",
+          "ruta": "input/2017/260.2017 DECRETO - Regl Propiedad Intelectual e Ind y TT.md"
+        }
+      ]
+    },
+    {
+      "source": "ASAMBLEA DE SOCIOS",
+      "target": "CONSEJO DE ADMINISTRACIÓN",
+      "description": "The Consejo de Administración can propose modifications to the regulations and present them to the Asamblea de Socios for approval.",
+      "documentos": [
+        {
+          "id": "6ca476a3-bee3-4464-913c-073049a677c3",
+          "titulo": "316.2017 DECRETO - Regl SEMTRA.md",
+          "ruta": "input/2017/316.2017 DECRETO - Regl SEMTRA.md"
+        }
+      ]
+    },
+    {
+      "source": "PERMISO DE AUSENCIA O MODIFICACIÓN DE JORNADA",
+      "target": "PERSONAL DE LA UNIVERSIDAD",
+      "description": "University personnel can request permission for absence or modification of work schedule to participate in spin-offs.",
+      "documentos": [
+        {
+          "id": "d312b27e-8f6a-4913-b0cb-6db6b6a946f7",
+          "titulo": "260.2017 DECRETO - Regl Propiedad Intelectual e Ind y TT.md",
+          "ruta": "input/2017/260.2017 DECRETO - Regl Propiedad Intelectual e Ind y TT.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORIA N° 393/2021",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The Decree of Rectoria N° 393/2021 is issued by the University of Federico Santa María to promulgate modifications to its Organic Regulation.",
+      "documentos": [
+        {
+          "id": "61eb5712-a46e-4787-9faa-d331c8292005",
+          "titulo": "290.2021 DECRETO - Regl Programa Incentivos publ - derogado DR048.2025.md",
+          "ruta": "input/2021/290.2021 DECRETO - Regl Programa Incentivos publ - derogado DR048.2025.md"
+        },
+        {
+          "id": "6964ef89-f759-4708-b29c-bdf65f07dc82",
+          "titulo": "393.2021 DECRETO - Promulga Modif ROAS 2021.md",
+          "ruta": "input/2021/393.2021 DECRETO - Promulga Modif ROAS 2021.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N° 497/2022",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA (UTFSM)",
+      "description": "UTFSM issued Decree of Rectoría N° 497/2022 to promulgate modifications to the Organic Regulation of the Superior Administration.",
+      "documentos": [
+        {
+          "id": "2532891c-d16b-4058-9480-86ed0bf69c97",
+          "titulo": "497.2022 DECRETO - Reglamento ROAS fija texto refundido.md",
+          "ruta": "input/2022/497.2022 DECRETO - Reglamento ROAS fija texto refundido.md"
+        },
+        {
+          "id": "7a7f838f-1699-4034-af56-eadce3c357c1",
+          "titulo": "405.2022 DECRETO - Reglamento investigación y sanción acoso sexual violencia y discriminación de género.md",
+          "ruta": "input/2022/405.2022 DECRETO - Reglamento investigación y sanción acoso sexual violencia y discriminación de género.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N° 445//2021",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA (UTFSM)",
+      "description": "UTFSM issued Decree of Rectoría N° 445//2021 to promulgate modifications to the Organic Regulation of the Superior Administration.",
+      "documentos": [
+        {
+          "id": "2532891c-d16b-4058-9480-86ed0bf69c97",
+          "titulo": "497.2022 DECRETO - Reglamento ROAS fija texto refundido.md",
+          "ruta": "input/2022/497.2022 DECRETO - Reglamento ROAS fija texto refundido.md"
+        },
+        {
+          "id": "7a7f838f-1699-4034-af56-eadce3c357c1",
+          "titulo": "405.2022 DECRETO - Reglamento investigación y sanción acoso sexual violencia y discriminación de género.md",
+          "ruta": "input/2022/405.2022 DECRETO - Reglamento investigación y sanción acoso sexual violencia y discriminación de género.md"
+        }
+      ]
+    },
+    {
+      "source": "ACUERDO N°1765",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA (UTFSM)",
+      "description": "UTFSM's Consejo Superior adopted Acuerdo N°1765 to approve modifications to the Organic Regulation of the Superior Administration.",
+      "documentos": [
+        {
+          "id": "2532891c-d16b-4058-9480-86ed0bf69c97",
+          "titulo": "497.2022 DECRETO - Reglamento ROAS fija texto refundido.md",
+          "ruta": "input/2022/497.2022 DECRETO - Reglamento ROAS fija texto refundido.md"
+        },
+        {
+          "id": "7a7f838f-1699-4034-af56-eadce3c357c1",
+          "titulo": "405.2022 DECRETO - Reglamento investigación y sanción acoso sexual violencia y discriminación de género.md",
+          "ruta": "input/2022/405.2022 DECRETO - Reglamento investigación y sanción acoso sexual violencia y discriminación de género.md"
+        }
+      ]
+    },
+    {
+      "source": "CLAUSTRO PLENO",
+      "target": "CONSEJO ACADEMICO",
+      "description": "The Consejo Académico can propose modifications to statutes and the removal of the Rector to the Claustro Pleno.",
+      "documentos": [
+        {
+          "id": "f6098f82-80ce-42c4-8202-b65ebef667e1",
+          "titulo": "106.2023 DECRETO - Promulga modificaciones al Estatuto USM.md",
+          "ruta": "input/2023/106.2023 DECRETO - Promulga modificaciones al Estatuto USM.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO Y CONSEJO NORMATIVO DE SEDES",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA (UTFSM)",
+      "description": "The Consejo Académico y Consejo Normativo de Sedes is a council within UTFSM that suggests modifications to regulations to improve their application and compliance.",
+      "documentos": [
+        {
+          "id": "9c48e4db-1bbc-4591-8061-d4ae8267b09e",
+          "titulo": "175.2023 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado.md",
+          "ruta": "input/2023/175.2023 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado.md"
+        }
+      ]
+    },
+    {
+      "source": "CÓDIGO DEL TRABAJO",
+      "target": "LEY KARIN",
+      "description": "Ley Karin introduces modifications to the Código del Trabajo to strengthen regulations regarding workplace harassment and violence.",
+      "documentos": [
+        {
+          "id": "45c41337-19a6-4bcc-a5c2-1a946ce6620f",
+          "titulo": "346.2024 DECRETO_RIOHS modificaciones.md",
+          "ruta": "input/2024/346.2024 DECRETO_RIOHS modificaciones.md"
+        },
+        {
+          "id": "9fee4bca-0feb-434c-83b3-9ee9b2838c78",
+          "titulo": "056.2024 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado modif.md",
+          "ruta": "input/2024/056.2024 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado modif.md"
+        },
+        {
+          "id": "df092611-3a19-4cbd-9fcd-ba1be55e98f9",
+          "titulo": "079.2024 DECRETO - Deroga DR 027.1985 Regl de Inventario.md",
+          "ruta": "input/2024/079.2024 DECRETO - Deroga DR 027.1985 Regl de Inventario.md"
+        }
+      ]
+    },
+    {
+      "source": "COMITÉ DE SEGURIDAD DE LA INFORMACIÓN",
+      "target": "COMITÉ EJECUTIVO DE TECNOLOGÍAS",
+      "description": "The Executive Committee of Technologies proposes modifications to the regulation to ensure its compatibility with the university's organic structure and current standards, as suggested by the Committee for Information Security.",
+      "documentos": [
+        {
+          "id": "22f40a73-81e2-4673-a500-1011864a2a44",
+          "titulo": "001.2025 DECRETO de la Presidenta de CS - Modif Regl Sala del Consejo Superior YC.md",
+          "ruta": "input/2025/001.2025 DECRETO de la Presidenta de CS - Modif Regl Sala del Consejo Superior YC.md"
+        },
+        {
+          "id": "b03432d7-bc2a-4397-bb3b-6140f2f8c0f0",
+          "titulo": "583.2024 DECRETO - Regl_Interno del Comite de Seguridad_V2.md",
+          "ruta": "input/2024/583.2024 DECRETO - Regl_Interno del Comite de Seguridad_V2.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°056/2024",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The Decree of the Rectoría N°056/2024 is a formal document issued by the Universidad Técnica Federico Santa María that introduced modifications to the Institutional Regulation of Student Rights, Duties, and Discipline.",
+      "documentos": [
+        {
+          "id": "c54eb926-5eab-47bf-ac5e-3e692d162161",
+          "titulo": "129.2026 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado VF (1).md",
+          "ruta": "input/2026/129.2026 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado VF (1).md"
+        },
+        {
+          "id": "e42f30b4-5c19-433e-b3d8-26dd9f944ba5",
+          "titulo": "125.2026 DECRETO - Bonificación marzo 2026_VF.md",
+          "ruta": "input/2026/125.2026 DECRETO - Bonificación marzo 2026_VF.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO ACADÉMICO",
+      "target": "REGLAMENTO DE LA CARRERA ACADÉMICA",
+      "description": "The Consejo Académico approves modifications to the Academic Career Regulation.",
+      "documentos": [
+        {
+          "id": "59113fd6-b3ac-4c3d-b259-7f4e0234da68",
+          "titulo": "443.2026 DECRETO - Regl Carrera Academica_modif.Art.49_firmado.md",
+          "ruta": "input/2026/443.2026 DECRETO - Regl Carrera Academica_modif.Art.49_firmado.md"
+        },
+        {
+          "id": "9a2e18f1-405c-4922-affe-54aac0ebfcf8",
+          "titulo": "443.2026 DECRETO - Regl Carrera Academica_modif.Art.49_firmado (1).md",
+          "ruta": "input/2026/443.2026 DECRETO - Regl Carrera Academica_modif.Art.49_firmado (1).md"
+        }
+      ]
+    }
+  ],
+  "COMPLEMENTA": [
+    {
+      "source": "RECTORÍA N°24/94",
+      "target": "REGULACIÓN ORGÁNICA ACADÉMICA N°08/94",
+      "description": "The Regulation of the Committee of Coordination and Development of Teaching Staff complements the Academic Organic Regulation N°08/94.",
+      "documentos": [
+        {
+          "id": "06c6f854-eea2-4376-b16e-69aa71c1ccb1",
+          "titulo": "DEC.REC_24-94 Regl Comité Coordinac y Desarroll Docente.md",
+          "ruta": "input/1994/DEC.REC_24-94 Regl Comité Coordinac y Desarroll Docente.md"
+        },
+        {
+          "id": "1c7c4718-9f87-431e-8007-db198a363dd2",
+          "titulo": "DEC.REC_17-94 Regl. Período Sabático Docente.md",
+          "ruta": "input/1994/DEC.REC_17-94 Regl. Período Sabático Docente.md"
+        }
+      ]
+    },
+    {
+      "source": "COMITE DE COORDINACION Y DESARROLLO DOCENTE",
+      "target": "REGLAMENTO ORGANICO ACADEMICO",
+      "description": "The Comité de Coordinación y Desarrollo Docente complements the Reglamento Orgánico Académico.",
+      "documentos": [
+        {
+          "id": "06c6f854-eea2-4376-b16e-69aa71c1ccb1",
+          "titulo": "DEC.REC_24-94 Regl Comité Coordinac y Desarroll Docente.md",
+          "ruta": "input/1994/DEC.REC_24-94 Regl Comité Coordinac y Desarroll Docente.md"
+        },
+        {
+          "id": "9f10fbd4-9004-473f-9fe6-3292b473ccf1",
+          "titulo": "DEC.REC_27-94 Reg Doc para planes especiales tit Ing Ejec para TU.md",
+          "ruta": "input/1994/DEC.REC_27-94 Reg Doc para planes especiales tit Ing Ejec para TU.md"
+        }
+      ]
+    },
+    {
+      "source": "ACTIVIDAD",
+      "target": "PLAN DE ESTUDIOS",
+      "description": "A Plan de Estudios includes a set of Actividades that complement the Asignaturas, required for the student's professional and human formation.",
+      "documentos": [
+        {
+          "id": "142a6d4d-282a-498c-8fcd-357622e38c3b",
+          "titulo": "220.2015 DECRETO - Regl Regimen Curricular Carreras TU.md",
+          "ruta": "input/2015/220.2015 DECRETO - Regl Regimen Curricular Carreras TU.md"
+        },
+        {
+          "id": "34128045-ca28-490c-90f2-4c7f89a5f0cc",
+          "titulo": "219.2015 DECRETO - Regl de Sala CNS.md",
+          "ruta": "input/2015/219.2015 DECRETO - Regl de Sala CNS.md"
+        },
+        {
+          "id": "b0be7a1d-a764-4dfb-aaec-799f643eb9c9",
+          "titulo": "Decreto_12-98.md",
+          "ruta": "input/1998/Decreto_12-98.md"
+        }
+      ]
+    },
+    {
+      "source": "COMITÉ DE ÉTICA",
+      "target": "NORMAS ESPECÍFICAS COMPLEMENTARIAS (NECS)",
+      "description": "<summaries>\n[\n  {{\"index\": 1, \"summary\": \"El Comité de Ética aplica sanciones basadas en las Normas Específicas Complementarias (NECs) para las violaciones del Código de Ética e interpreta y hace cumplir las NECs como parte del Código de Ética Institucional.\"}}\n]\n</summaries>",
+      "documentos": [
+        {
+          "id": "190f204e-1eee-4fd8-823a-122a06596147",
+          "titulo": "Codigo_etica_institucional_2.md",
+          "ruta": "input/2007/Codigo_etica_institucional_2.md"
+        },
+        {
+          "id": "737a71da-df61-4ea5-b6cc-314f848df08e",
+          "titulo": "Codigo_etica_institucional_1.md",
+          "ruta": "input/2007/Codigo_etica_institucional_1.md"
+        }
+      ]
+    },
+    {
+      "source": "COMITÉ DE ÉTICA",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The Comité de Ética is an organization within the Universidad Técnica Federico Santa María that enforces the Code of Ethics and its Specific Complementary Norms (NECs) and determines sanctions for non-compliance.",
+      "documentos": [
+        {
+          "id": "190f204e-1eee-4fd8-823a-122a06596147",
+          "titulo": "Codigo_etica_institucional_2.md",
+          "ruta": "input/2007/Codigo_etica_institucional_2.md"
+        },
+        {
+          "id": "737a71da-df61-4ea5-b6cc-314f848df08e",
+          "titulo": "Codigo_etica_institucional_1.md",
+          "ruta": "input/2007/Codigo_etica_institucional_1.md"
+        }
+      ]
+    },
+    {
+      "source": "FUNCIONARIOS",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The Universidad Técnica Federico Santa María requires all its employees to adhere to the Code of Ethics and its Specific Complementary Norms (NECs).",
+      "documentos": [
+        {
+          "id": "737a71da-df61-4ea5-b6cc-314f848df08e",
+          "titulo": "Codigo_etica_institucional_1.md",
+          "ruta": "input/2007/Codigo_etica_institucional_1.md"
+        }
+      ]
+    },
+    {
+      "source": "ARTÍCULO N° 4",
+      "target": "NORMAS ESPECÍFICAS COMPLEMENTARIAS (NECS)",
+      "description": "The Specific Complementary Norms (NECs) are included in the Code of Ethics as outlined in Article 4.",
+      "documentos": [
+        {
+          "id": "737a71da-df61-4ea5-b6cc-314f848df08e",
+          "titulo": "Codigo_etica_institucional_1.md",
+          "ruta": "input/2007/Codigo_etica_institucional_1.md"
+        }
+      ]
+    },
+    {
+      "source": "ARTÍCULO N° 5",
+      "target": "NORMAS ESPECÍFICAS COMPLEMENTARIAS (NECS)",
+      "description": "The Specific Complementary Norms (NECs) are referenced in Article 5 for the application of sanctions by the Comité de Ética.",
+      "documentos": [
+        {
+          "id": "737a71da-df61-4ea5-b6cc-314f848df08e",
+          "titulo": "Codigo_etica_institucional_1.md",
+          "ruta": "input/2007/Codigo_etica_institucional_1.md"
+        }
+      ]
+    },
+    {
+      "source": "ARTÍCULO N° 4",
+      "target": "ARTÍCULO N° 5",
+      "description": "Article 4 sets the stage for the inclusion of Specific Complementary Norms (NECs) which are further detailed in Article 5.",
+      "documentos": [
+        {
+          "id": "737a71da-df61-4ea5-b6cc-314f848df08e",
+          "titulo": "Codigo_etica_institucional_1.md",
+          "ruta": "input/2007/Codigo_etica_institucional_1.md"
+        }
+      ]
+    },
+    {
+      "source": "FUNCIONARIO",
+      "target": "UNIDADES DE FOMENTO",
+      "description": "The threshold for exceptions to the Norma Específica Complementaria is based on Unidades de Fomento.",
+      "documentos": [
+        {
+          "id": "190f204e-1eee-4fd8-823a-122a06596147",
+          "titulo": "Codigo_etica_institucional_2.md",
+          "ruta": "input/2007/Codigo_etica_institucional_2.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N° 22/93",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The Decret of Rectoría N° 22/93 is being replaced by the current Norma Específica Complementaria.",
+      "documentos": [
+        {
+          "id": "190f204e-1eee-4fd8-823a-122a06596147",
+          "titulo": "Codigo_etica_institucional_2.md",
+          "ruta": "input/2007/Codigo_etica_institucional_2.md"
+        }
+      ]
+    },
+    {
+      "source": "APROBACIÓN EN CONSEJO SUPERIOR",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The Aprobación en Consejo Superior refers to the approval of the Norma Específica Complementaria in the Consejo Superior meeting on July 12, 2007.",
+      "documentos": [
+        {
+          "id": "190f204e-1eee-4fd8-823a-122a06596147",
+          "titulo": "Codigo_etica_institucional_2.md",
+          "ruta": "input/2007/Codigo_etica_institucional_2.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°032/2007",
+      "target": "ESTATUTO DE LA UNIVERSIDAD",
+      "description": "Decreto de Rectoría N°032/2007 rectifies and complements the Internal Regulation on Order, Hygiene, and Safety based on the regulations in the Estatuto de la Universidad.",
+      "documentos": [
+        {
+          "id": "26229a07-1c00-44dd-accf-7ad12bde331f",
+          "titulo": "DECRER032.07 Regl Interno de O e H y Seguridad.md",
+          "ruta": "input/2007/DECRER032.07 Regl Interno de O e H y Seguridad.md"
+        },
+        {
+          "id": "57658047-cc3d-429f-b7cd-031bedaafd8d",
+          "titulo": "DEC.REC.005.2007 Modifica asignac responsab cargos DGIP-DGC-DGD.DGAT.md",
+          "ruta": "input/2007/DEC.REC.005.2007 Modifica asignac responsab cargos DGIP-DGC-DGD.DGAT.md"
+        },
+        {
+          "id": "79ad83b8-9069-4a02-977c-ff04eee1debe",
+          "titulo": "DECRER030.07.md",
+          "ruta": "input/2007/DECRER030.07.md"
+        },
+        {
+          "id": "cb6b92b5-bdab-4cc0-be11-be4565823a9d",
+          "titulo": "DEC.REC.012.2007 Modifica DR N°034.2001 nivel secret.md",
+          "ruta": "input/2007/DEC.REC.012.2007 Modifica DR N°034.2001 nivel secret.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°032/2007",
+      "target": "REGISTRO INTERNO DE ORDEN Y SEGURIDAD INDUSTRIAL",
+      "description": "Decreto de Rectoría N°032/2007 rectifies and complements the Registro Interno de Orden y Seguridad Industrial.",
+      "documentos": [
+        {
+          "id": "26229a07-1c00-44dd-accf-7ad12bde331f",
+          "titulo": "DECRER032.07 Regl Interno de O e H y Seguridad.md",
+          "ruta": "input/2007/DECRER032.07 Regl Interno de O e H y Seguridad.md"
+        },
+        {
+          "id": "57658047-cc3d-429f-b7cd-031bedaafd8d",
+          "titulo": "DEC.REC.005.2007 Modifica asignac responsab cargos DGIP-DGC-DGD.DGAT.md",
+          "ruta": "input/2007/DEC.REC.005.2007 Modifica asignac responsab cargos DGIP-DGC-DGD.DGAT.md"
+        },
+        {
+          "id": "79ad83b8-9069-4a02-977c-ff04eee1debe",
+          "titulo": "DECRER030.07.md",
+          "ruta": "input/2007/DECRER030.07.md"
+        },
+        {
+          "id": "cb6b92b5-bdab-4cc0-be11-be4565823a9d",
+          "titulo": "DEC.REC.012.2007 Modifica DR N°034.2001 nivel secret.md",
+          "ruta": "input/2007/DEC.REC.012.2007 Modifica DR N°034.2001 nivel secret.md"
+        }
+      ]
+    },
+    {
+      "source": "CÓDIGO DE ÉTICA INSTITUCIONAL",
+      "target": "NORMAS ESPECÍFICAS COMPLEMENTARIAS",
+      "description": "The Normas Específicas Complementarias are part of the Código de Ética Institucional.",
+      "documentos": [
+        {
+          "id": "26229a07-1c00-44dd-accf-7ad12bde331f",
+          "titulo": "DECRER032.07 Regl Interno de O e H y Seguridad.md",
+          "ruta": "input/2007/DECRER032.07 Regl Interno de O e H y Seguridad.md"
+        },
+        {
+          "id": "2ba6897c-8e67-4fb4-9be7-212b22e5be45",
+          "titulo": "DECRER050.07.md",
+          "ruta": "input/2007/DECRER050.07.md"
+        },
+        {
+          "id": "8ff434b6-fe65-4bc0-86d2-ecd775d55aed",
+          "titulo": "DECRER032.07.md",
+          "ruta": "input/2007/DECRER032.07.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°030/2007",
+      "target": "DECRETO DE RECTORÍA N°032/2007",
+      "description": "The Decreto de Rectoría N°032/2007 rectifies and complements the Decreto de Rectoría N°030/2007.",
+      "documentos": [
+        {
+          "id": "190775f5-0bf6-4769-8ba2-461dea455559",
+          "titulo": "REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md",
+          "ruta": "input/2007/REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md"
+        },
+        {
+          "id": "5c9daf48-01f7-4821-8453-8900a55733fb",
+          "titulo": "REGLAMENTO EXCELENCIA DOCENTE 2007-SEDE VIÑA.md",
+          "ruta": "input/2007/REGLAMENTO EXCELENCIA DOCENTE 2007-SEDE VIÑA.md"
+        }
+      ]
+    },
+    {
+      "source": "DECRETO DE RECTORÍA N°032/2007",
+      "target": "REGLEMENTO INTERNO DE ORDEN, HIGIENE Y SEGURIDAD",
+      "description": "The Decreto de Rectoría N°032/2007 rectifies and complements the Reglamento Interno de Orden, Higiene y Seguridad.",
+      "documentos": [
+        {
+          "id": "190775f5-0bf6-4769-8ba2-461dea455559",
+          "titulo": "REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md",
+          "ruta": "input/2007/REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md"
+        },
+        {
+          "id": "5c9daf48-01f7-4821-8453-8900a55733fb",
+          "titulo": "REGLAMENTO EXCELENCIA DOCENTE 2007-SEDE VIÑA.md",
+          "ruta": "input/2007/REGLAMENTO EXCELENCIA DOCENTE 2007-SEDE VIÑA.md"
+        }
+      ]
+    },
+    {
+      "source": "LEY 16.744",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "La Universidad Técnica Federico Santa María está sujeta a las disposiciones de la Ley 16.744 y sus decretos complementarios vigentes o que se dicten a futuro.",
+      "documentos": [
+        {
+          "id": "190775f5-0bf6-4769-8ba2-461dea455559",
+          "titulo": "REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md",
+          "ruta": "input/2007/REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md"
+        }
+      ]
+    },
+    {
+      "source": "REGLAMENTO INTERNO",
+      "target": "UNIVERSIDAD",
+      "description": "The Universidad enforces its internal regulations, complementing the Código del Trabajo, for managing employee benefits and disciplinary actions.",
+      "documentos": [
+        {
+          "id": "190775f5-0bf6-4769-8ba2-461dea455559",
+          "titulo": "REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md",
+          "ruta": "input/2007/REGLAMENTOHIGIENEYSEGURINDUSTRIAL.07 completo.md"
+        },
+        {
+          "id": "c47e6c88-826c-4ad8-81a4-c85172f09af1",
+          "titulo": "Reglamento InternoUTFSM al 12.09.2013.md",
+          "ruta": "input/2007/Reglamento InternoUTFSM al 12.09.2013.md"
+        }
+      ]
+    },
+    {
+      "source": "ASIGNATURAS COMPLEMENTARIAS",
+      "target": "REGLAMENTO DE TITULACIÓN",
+      "description": "The Reglamento de Titulación also outlines the requirements for Asignaturas Complementarias.",
+      "documentos": [
+        {
+          "id": "c6a8d46e-729f-4cce-bb13-b3e62680d22b",
+          "titulo": "DECRER010.2009 Regl Titulación y Deroga 41.92.md",
+          "ruta": "input/2009/DECRER010.2009 Regl Titulación y Deroga 41.92.md"
+        }
+      ]
+    },
+    {
+      "source": "ASIGNATURAS COMPLEMENTARIAS",
+      "target": "UNIDAD ACADEMICA",
+      "description": "The Unidad Académica offers an alternative to the Memoria de Titulación through Asignaturas Complementarias.",
+      "documentos": [
+        {
+          "id": "c6a8d46e-729f-4cce-bb13-b3e62680d22b",
+          "titulo": "DECRER010.2009 Regl Titulación y Deroga 41.92.md",
+          "ruta": "input/2009/DECRER010.2009 Regl Titulación y Deroga 41.92.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO SUPERIOR",
+      "target": "ELECCIÓN COMPLEMENTARIA",
+      "description": "<summaries>\n[\n  {{\"index\": 1, \"summary\": \"The elección complementaria, or supplementary election, is held to fill vacancies in the Consejo Superior, also referred to as the Superior Council.\"}}\n]\n</summaries>",
+      "documentos": [
+        {
+          "id": "11d7b988-0e31-4e04-b509-01e185edef61",
+          "titulo": "DECRETO 025.2010 Modif Regl Votaciones.md",
+          "ruta": "input/2010/DECRETO 025.2010 Modif Regl Votaciones.md"
+        },
+        {
+          "id": "afbb84ec-bf10-42f4-8cab-e10200935c23",
+          "titulo": "216.2023 DECRETO - Regl General de Elecciones VF.md",
+          "ruta": "input/2023/216.2023 DECRETO - Regl General de Elecciones VF.md"
+        }
+      ]
+    },
+    {
+      "source": "REGLEMENTO DE GRADUACIÓN PARA GRADOS DE DOCTOR Y MAGÍSTER",
+      "target": "REGLEMENTO GENERAL DE LOS ESTUDIOS DE POSTGRADO",
+      "description": "El Reglamento General de los Estudios de Postgrado y el Reglamento de Graduación para Grados de Doctor y Magíster son complementarios en algunas materias.",
+      "documentos": [
+        {
+          "id": "4b3e4984-6652-473a-a19c-16ac5a2dcbbe",
+          "titulo": "DECRETO 055.2010 Promulga Regl Gral Estudios de Postgrado N°47.md",
+          "ruta": "input/2010/DECRETO 055.2010 Promulga Regl Gral Estudios de Postgrado N°47.md"
+        }
+      ]
+    },
+    {
+      "source": "REGLEMENTO GENERAL DE LOS ESTUDIOS DE POSTGRADO",
+      "target": "REGLEMENTO GENERAL N°1",
+      "description": "El Reglamento General de los Estudios de Postgrado y el Reglamento General N°1 son complementarios en algunas materias.",
+      "documentos": [
+        {
+          "id": "4b3e4984-6652-473a-a19c-16ac5a2dcbbe",
+          "titulo": "DECRETO 055.2010 Promulga Regl Gral Estudios de Postgrado N°47.md",
+          "ruta": "input/2010/DECRETO 055.2010 Promulga Regl Gral Estudios de Postgrado N°47.md"
+        }
+      ]
+    },
+    {
+      "source": "CÓDIGO DE ÉTICA INSTITUCIONAL",
+      "target": "REGLAMENTO DE FUNCIONAMIENTO DE LA COMISIÓN DE ÉTICA",
+      "description": "The Regulation of the Ethics Commission complements the Code of Institutional Ethics.",
+      "documentos": [
+        {
+          "id": "de3d7228-c8a2-4abc-8748-fee8f17cdacc",
+          "titulo": "DECRETO 056.2010 Promulga Regl Graduacion Doctor y Magister.md",
+          "ruta": "input/2010/DECRETO 056.2010 Promulga Regl Graduacion Doctor y Magister.md"
+        },
+        {
+          "id": "e18f8894-94f9-4709-8e11-909681db1699",
+          "titulo": "DECRETO 060.2010 Modifica Cod Etica y Regl Funcionam.md",
+          "ruta": "input/2010/DECRETO 060.2010 Modifica Cod Etica y Regl Funcionam.md"
+        }
+      ]
+    },
+    {
+      "source": "ELECCIONES COMPLEMENTARIAS",
+      "target": "ELECCIONES DEL CONSEJO SUPERIOR",
+      "description": "Complementaria elections are held to fill vacancies in the Consejo Superior.",
+      "documentos": [
+        {
+          "id": "e4f7acb0-5f39-4cd2-b82e-9c6586492ab5",
+          "titulo": "Regl Gral sobre Votaciones y Elecciones D.R.025.2010 16.06.2010.md",
+          "ruta": "input/2010/Regl Gral sobre Votaciones y Elecciones D.R.025.2010 16.06.2010.md"
+        }
+      ]
+    },
+    {
+      "source": "ELECCIONES COMPLEMENTARIAS",
+      "target": "ELECCIONES DEL CONSEJO ACADEMICO",
+      "description": "Complementaria elections are held to fill vacancies in the Consejo Académico.",
+      "documentos": [
+        {
+          "id": "e4f7acb0-5f39-4cd2-b82e-9c6586492ab5",
+          "titulo": "Regl Gral sobre Votaciones y Elecciones D.R.025.2010 16.06.2010.md",
+          "ruta": "input/2010/Regl Gral sobre Votaciones y Elecciones D.R.025.2010 16.06.2010.md"
+        }
+      ]
+    },
+    {
+      "source": "ELECCIONES COMPLEMENTARIAS",
+      "target": "ELECCIONES DEL CONSEJO NORMATIVO DE SEDES",
+      "description": "Complementaria elections are held to fill vacancies in the Consejo Normativo de Sedes.",
+      "documentos": [
+        {
+          "id": "e4f7acb0-5f39-4cd2-b82e-9c6586492ab5",
+          "titulo": "Regl Gral sobre Votaciones y Elecciones D.R.025.2010 16.06.2010.md",
+          "ruta": "input/2010/Regl Gral sobre Votaciones y Elecciones D.R.025.2010 16.06.2010.md"
+        }
+      ]
+    },
+    {
+      "source": "CONSEJO SUPERIOR",
+      "target": "VOTACIÓN COMPLEMENTARIA",
+      "description": "Votación complementaria is a supplementary voting process held to fill vacancies in the Consejo Superior.",
+      "documentos": [
+        {
+          "id": "fbbda58b-c2e3-4f94-9f90-f0a2e76e40c5",
+          "titulo": "015.2013 DECRETO - Modif Regl Gral. Vot y Elecciones.md",
+          "ruta": "input/2013/015.2013 DECRETO - Modif Regl Gral. Vot y Elecciones.md"
+        }
+      ]
+    },
+    {
+      "source": "ASIGNATURA ELECTIVA",
+      "target": "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA",
+      "description": "Asignatura Electiva is an elective course that complements the study plan at Universidad Técnica Federico Santa María.",
+      "documentos": [
+        {
+          "id": "186bdfad-a51e-4910-80c2-ce514c5ad2c0",
+          "titulo": "017.2016 DECRETO - Regl Regimen Curricular TU e Ing con Base Tecnologica.md",
+          "ruta": "input/2016/017.2016 DECRETO - Regl Regimen Curricular TU e Ing con Base Tecnologica.md"
+        }
+      ]
+    },
+    {
+      "source": "ELECCIÓN COMPLEMENTARIA",
+      "target": "UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA",
+      "description": "The election complementaria is held to fill vacancies in the Consejo Academico or Consejo Normativo de Sedes at the Universidad Técnica Federico Santa María.",
+      "documentos": [
+        {
+          "id": "afbb84ec-bf10-42f4-8cab-e10200935c23",
+          "titulo": "216.2023 DECRETO - Regl General de Elecciones VF.md",
+          "ruta": "input/2023/216.2023 DECRETO - Regl General de Elecciones VF.md"
+        }
+      ]
+    },
+    {
+      "source": "FOROS, TALLERES, SEMINARIOS, CONVERSATORIOS Y GRUPOS DE REFLEXIÓN",
+      "target": "SANCIONES COMPLEMENTARIAS",
+      "description": "Sanciones complementarias involve participation in educational activities such as foros, talleres, seminarios, conversatorios, and grupos de reflexión.",
+      "documentos": [
+        {
+          "id": "5491ae8f-9d46-4e7c-a0a9-0da13fafd508",
+          "titulo": "129.2026 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado VF.md",
+          "ruta": "input/2026/129.2026 DECRETO - Regl Inst Derechos Deberes y Discip Estudiantado VF.md"
+        }
+      ]
+    }
+  ]
+}
