@@ -1,0 +1,5864 @@
+[
+  {
+    "source":"DECRETO 09\/1992",
+    "target":"DECRETO 25\/1990",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 09\/1992 reemplaza el guarismo 1,6% por 1,8% del sueldo nivel 28 USM como Asignación de Antigüedad y establece un tope máximo de 10 bienes, modificando el Decreto 25\/1990.",
+    "document_ids":[
+      "54b90847-b5ff-41aa-ae3c-19ad67f89add",
+      "c9972abe-1794-4717-bc0c-4200dcd7aa98",
+      "e61fd042-fdfe-477e-9659-c5c0f66d9f7a"
+    ],
+    "text_unit_ids":[
+      "2267d02f-2f19-4669-bf4a-4c9ae437b837"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 23\/1992",
+    "target":"REGLAMENTO GENERAL 8\/1977",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 23\/1992 deroga el Reglamento General 8\/1977 a contar de su promulgación.",
+    "document_ids":[
+      "4304453f-2a3f-42a2-8925-a21773608d25",
+      "5b1227c8-1079-4fd2-a7d8-ede7c8f6c70a"
+    ],
+    "text_unit_ids":[
+      "980a419f-1f7c-46ef-a0ed-ebed218c76ce"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 09\/1993",
+    "target":"DECRETO 15\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 15\/1993 hace referencia al Decreto 09\/1993 como antecedente.",
+    "document_ids":[
+      "48d053e3-9b11-4082-b501-5c461fc49467",
+      "50777f93-b7ca-4dfb-b9ca-ff3354a8622c"
+    ],
+    "text_unit_ids":[
+      "13fd2a90-1954-4e22-9b6d-b076798a6899"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 24\/1993",
+    "target":"DECRETO 42\/1991",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 24\/1993 deroga el Decreto 42\/1991 y todas las disposiciones relativas a la misma materia.",
+    "document_ids":[
+      "4bce8712-c41e-41a0-9dd9-8bf96d23ad35",
+      "95bdad7f-3ef2-4d3d-923c-404949a68a6e",
+      "a1f2ab86-32df-4a39-b55a-5a005bffb274"
+    ],
+    "text_unit_ids":[
+      "96d8b749-f89f-4578-94fa-ace22771c220"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 09\/1993",
+    "target":"DECRETO 14\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 14\/1993 se basa en el Decreto 09\/1993 como antecedente.",
+    "document_ids":[
+      "422ca868-9205-44c9-8e02-6f42433d4ab5",
+      "636ad8d1-1fa6-4d5f-9449-34b6c670ac72"
+    ],
+    "text_unit_ids":[
+      "05dd5324-3061-483d-b44c-edc523dfc445"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 19\/1993",
+    "target":"DECRETO 22\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 22\/1993 se basa en el Decreto 19\/1993, del 11 de mayo de 1993.",
+    "document_ids":[
+      "1afdf4e1-f9ea-44b9-899d-3184c196223c",
+      "422ca868-9205-44c9-8e02-6f42433d4ab5"
+    ],
+    "text_unit_ids":[
+      "441b37cf-d164-40c7-955c-9f31f85b4a9d"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 17\/1994",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 17\/1994 menciona el Decreto 001\/1993 como antecedente.",
+    "document_ids":[
+      "1afdf4e1-f9ea-44b9-899d-3184c196223c",
+      "d254ae20-0bd3-4e4e-aea7-52101655bccd"
+    ],
+    "text_unit_ids":[
+      "16a3c76c-e573-48a6-8032-a5bcd983e250"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 27\/1994",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 27\/1994 menciona el Decreto 001\/1993 como base legal para la promulgación del reglamento.",
+    "document_ids":[
+      "b016ac12-0e49-4bf7-b46e-63532e8940eb"
+    ],
+    "text_unit_ids":[
+      "da862966-3b6d-415d-b84e-eaa2e78452ad"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 28\/1994",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 28\/1994 menciona el Decreto 001\/1993 como antecedente.",
+    "document_ids":[
+      "8c6eeedb-9291-43ec-86a8-29da722884b5",
+      "b016ac12-0e49-4bf7-b46e-63532e8940eb"
+    ],
+    "text_unit_ids":[
+      "be07d15f-d79e-42a7-9cce-e9f18398d44f"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 08\/1994",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR N°001\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 08\/94 se basa en el Decreto del Presidente del Consejo Superior N°001\/93, del 26 de octubre de 1993, que se menciona como antecedente.",
+    "document_ids":[
+      "0ab272ec-02ac-4900-85f2-d400b26469ef",
+      "3c10ac4f-7a08-4325-a45c-5c5010612e8e"
+    ],
+    "text_unit_ids":[
+      "396e591c-8d85-4945-aca9-ba46081328d0"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 16\/1994",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 16\/1994 menciona el Decreto 001\/93 como antecedente en el VISTOS.",
+    "document_ids":[
+      "0ab272ec-02ac-4900-85f2-d400b26469ef",
+      "f644b47d-765d-4dae-8db9-8238ae32c8ad"
+    ],
+    "text_unit_ids":[
+      "60d738ce-972f-4bdd-871a-5afd19583d5f"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 08\/1994",
+    "target":"DECRETO 41\/1994",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 41\/1994 menciona al Decreto 08\/1994 como antecedente del Reglamento Orgánico Académico que modifica.",
+    "document_ids":[
+      "a374babf-db7d-411b-ac52-eb37af099e88",
+      "b0df65cb-175d-44c3-a81a-5048aabe5eaa",
+      "f644b47d-765d-4dae-8db9-8238ae32c8ad"
+    ],
+    "text_unit_ids":[
+      "7fa46820-b614-4fdf-997d-da98572ee22c"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 11\/1995",
+    "target":"DECRETO 22\/1992",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 11\/1995 deroga la antigua versión del Reglamento General N°11, aprobada por el Decreto 22\/1992.",
+    "document_ids":[
+      "20f16b89-6598-4ffd-b158-f019968708e8",
+      "3fa5ad82-d865-4947-b804-18801c7fee37",
+      "b0df65cb-175d-44c3-a81a-5048aabe5eaa"
+    ],
+    "text_unit_ids":[
+      "5d440855-45f4-4144-8a72-d400918cdea1"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 029\/1995",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 029\/1995 se basa en el Decreto 001\/1993 para su promulgación.",
+    "document_ids":[
+      "db03ec99-c10b-4183-9333-6e163d67da03",
+      "e183f258-4997-4eb7-ae49-4fe02a0993ca",
+      "f86dc7bc-ff96-4974-adb3-1358216b2e2e"
+    ],
+    "text_unit_ids":[
+      "ee958a0a-394d-47d5-80c8-508e8cf816e1"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 031\/1995",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 031\/1995 se basa en el Decreto 001\/1993 para su promulgación.",
+    "document_ids":[
+      "db03ec99-c10b-4183-9333-6e163d67da03",
+      "e183f258-4997-4eb7-ae49-4fe02a0993ca",
+      "f86dc7bc-ff96-4974-adb3-1358216b2e2e"
+    ],
+    "text_unit_ids":[
+      "ee958a0a-394d-47d5-80c8-508e8cf816e1"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 047\/1995",
+    "target":"DECRETO 27\/1993",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 047\/1995 deroga el Decreto 27\/1993 a contar de su fecha.",
+    "document_ids":[
+      "617fee9f-8977-4da9-8d0c-d1c8aa488887",
+      "f86dc7bc-ff96-4974-adb3-1358216b2e2e"
+    ],
+    "text_unit_ids":[
+      "54123278-affa-410a-bef5-6cdd8eef779f"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 1748\/1993",
+    "target":"DECRETO 1753\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 1753\/1993 se basa en el Decreto 1748\/1993, que aprueba la Normativa General para la Organización de la Sede.",
+    "document_ids":[
+      "617fee9f-8977-4da9-8d0c-d1c8aa488887"
+    ],
+    "text_unit_ids":[
+      "cebed672-1f66-4509-8a2d-eac9807dc77a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 1753\/1993",
+    "target":"RESOLUCIÓN 1750\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 1753\/1993 se basa en la Resolución 1750\/1993, que aprueba la Normativa de la Sede para la Organización de la Sede.",
+    "document_ids":[
+      "617fee9f-8977-4da9-8d0c-d1c8aa488887"
+    ],
+    "text_unit_ids":[
+      "cebed672-1f66-4509-8a2d-eac9807dc77a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 1753\/1993",
+    "target":"RESOLUCIÓN 1751\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 1753\/1993 se basa en la Resolución 1751\/1993, que aprueba la Normativa de la Sede para la Organización de la Sede.",
+    "document_ids":[
+      "617fee9f-8977-4da9-8d0c-d1c8aa488887"
+    ],
+    "text_unit_ids":[
+      "cebed672-1f66-4509-8a2d-eac9807dc77a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 1752\/1993",
+    "target":"DECRETO 1753\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 1753\/1993 se basa en el Decreto 1752\/1993, que aprueba la Normativa de la Sede para la Organización de la Sede.",
+    "document_ids":[
+      "617fee9f-8977-4da9-8d0c-d1c8aa488887"
+    ],
+    "text_unit_ids":[
+      "cebed672-1f66-4509-8a2d-eac9807dc77a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 048\/1995",
+    "target":"DECRETO 23\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 048\/1995 hace referencia al Decreto 23\/1993 como antecedente.",
+    "document_ids":[
+      "617fee9f-8977-4da9-8d0c-d1c8aa488887",
+      "6c875b71-3f2e-4dd2-98da-73fbd3b274b1"
+    ],
+    "text_unit_ids":[
+      "bcdbdc7f-a146-4739-a461-678ec090877a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 048\/1995",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR N°001\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 048\/1995 hace referencia al Decreto del Presidente del Consejo Superior 001\/1993 como antecedente.",
+    "document_ids":[
+      "617fee9f-8977-4da9-8d0c-d1c8aa488887",
+      "6c875b71-3f2e-4dd2-98da-73fbd3b274b1"
+    ],
+    "text_unit_ids":[
+      "bcdbdc7f-a146-4739-a461-678ec090877a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 045\/1995",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR N°001\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 045\/1995 se basa en el Decreto del Presidente del Consejo Superior N°001\/1993.",
+    "document_ids":[
+      "656eccfd-40db-4345-9320-e57edeb18466",
+      "6c875b71-3f2e-4dd2-98da-73fbd3b274b1"
+    ],
+    "text_unit_ids":[
+      "73363117-7655-4c6b-b2bc-0fec4daf3ce1"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 05\/1995",
+    "target":"DECRETO 53\/1992",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 05\/1995 otorga carácter permanente y plena vigencia al Decreto 53\/1992, que promulgó en forma transitoria el Instructivo titulado 'La Contraloría de la Universidad Técnica Federico Santa María'.",
+    "document_ids":[
+      "1f6c196e-048a-4e2c-b7e0-1323d0db315b",
+      "656eccfd-40db-4345-9320-e57edeb18466"
+    ],
+    "text_unit_ids":[
+      "5163c790-51af-4786-9050-d342fe81ad37"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 018\/1995",
+    "target":"RESOLUCIÓN 54\/1992",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 018\/1995 deroga la Resolución 54\/1992 en lo que se refiere a asignaciones especiales.",
+    "document_ids":[
+      "1f6c196e-048a-4e2c-b7e0-1323d0db315b",
+      "511203ec-fb8f-44c6-9c27-935b40a5bead",
+      "a4cc2400-245f-46d2-852d-6ebd79203415"
+    ],
+    "text_unit_ids":[
+      "b959814d-ef69-4561-b618-bf97e5c9f92c"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 018\/1995",
+    "target":"RESOLUCIÓN 31\/1993",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 018\/1995 deroga la Resolución 31\/1993 en lo que se refiere a asignaciones especiales.",
+    "document_ids":[
+      "1f6c196e-048a-4e2c-b7e0-1323d0db315b",
+      "511203ec-fb8f-44c6-9c27-935b40a5bead",
+      "a4cc2400-245f-46d2-852d-6ebd79203415"
+    ],
+    "text_unit_ids":[
+      "b959814d-ef69-4561-b618-bf97e5c9f92c"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 038\/1996",
+    "target":"DECRETO 05\/1995",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 038\/1996 referencia el Decreto 05\/1995 como antecedente normativo, específicamente el Reglamento Orgánico de la Administración Superior promulgado por este último.",
+    "document_ids":[
+      "1f6c196e-048a-4e2c-b7e0-1323d0db315b",
+      "2224e57f-ea82-4b45-bec4-ceff5e071f55",
+      "511203ec-fb8f-44c6-9c27-935b40a5bead",
+      "64952994-37c7-4a0f-8d9e-9066db84e1c0",
+      "a0177038-bb4a-4056-93b4-da8b671d1604",
+      "a4cc2400-245f-46d2-852d-6ebd79203415"
+    ],
+    "text_unit_ids":[
+      "b959814d-ef69-4561-b618-bf97e5c9f92c",
+      "e52d393e-7278-4ce0-a16c-6e6cfa77eb6c"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 038\/1996",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 038\/1996 referencia el Decreto 001\/1993 como antecedente normativo.",
+    "document_ids":[
+      "1f6c196e-048a-4e2c-b7e0-1323d0db315b",
+      "511203ec-fb8f-44c6-9c27-935b40a5bead",
+      "a4cc2400-245f-46d2-852d-6ebd79203415"
+    ],
+    "text_unit_ids":[
+      "b959814d-ef69-4561-b618-bf97e5c9f92c"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 019\/1996",
+    "target":"DECRETO 044\/1996",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 044\/1996 menciona el Decreto 019\/1996 como antecedente.",
+    "document_ids":[
+      "1b9fdd2c-402a-44e2-a5fe-3ca216af9c8b",
+      "a4cc2400-245f-46d2-852d-6ebd79203415"
+    ],
+    "text_unit_ids":[
+      "9410358c-b8e4-467d-ae75-9e72b2369a78"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 044\/1996",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR N°001\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 044\/1996 menciona el Decreto del Presidente del Consejo Superior 001\/1993 como antecedente.",
+    "document_ids":[
+      "1b9fdd2c-402a-44e2-a5fe-3ca216af9c8b",
+      "a4cc2400-245f-46d2-852d-6ebd79203415"
+    ],
+    "text_unit_ids":[
+      "9410358c-b8e4-467d-ae75-9e72b2369a78"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1993",
+    "target":"DECRETO 029\/1996",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 029\/1996 menciona el Decreto 001\/1993 como antecedente en la sección VISTOS.",
+    "document_ids":[
+      "f89254e7-5f2b-47a8-87f1-7bd614e24e29"
+    ],
+    "text_unit_ids":[
+      "fd6f034a-b05a-4a2f-bd0a-e05b0484dcb9"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 050\/1996",
+    "target":"DECRETO 27\/1994",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 050\/1996 modifica el Reglamento General de Régimen Docente para Planes Especiales, Título de Ingeniero de Ejecución para Técnicos Universitarios, promulgado por el Decreto 27\/1994, sustituyendo la letra b. del art. 11, Título II.",
+    "document_ids":[
+      "2224e57f-ea82-4b45-bec4-ceff5e071f55",
+      "64952994-37c7-4a0f-8d9e-9066db84e1c0",
+      "a0177038-bb4a-4056-93b4-da8b671d1604"
+    ],
+    "text_unit_ids":[
+      "e52d393e-7278-4ce0-a16c-6e6cfa77eb6c"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 005\/1997",
+    "target":"DECRETO 09\/1990",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 005\/1997 deroga el Decreto 09\/1990 a contar de su fecha.",
+    "document_ids":[
+      "05417df0-3cc8-4f16-ab78-357d10803d8f",
+      "a0177038-bb4a-4056-93b4-da8b671d1604"
+    ],
+    "text_unit_ids":[
+      "ca6961be-0d4b-49d9-bd53-33783f76c7db"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/1997",
+    "target":"DECRETO 034\/1997",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 034\/1997 menciona al Decreto 032\/1997 como antecedente en su sección VISTOS.",
+    "document_ids":[
+      "05417df0-3cc8-4f16-ab78-357d10803d8f",
+      "90befbbc-228a-4772-985a-e5da7c38ceb2",
+      "95867eb1-cb2e-4964-86bd-43a214b7c483"
+    ],
+    "text_unit_ids":[
+      "448d3444-2728-4ee6-93e0-b7f5abe827ed"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 018\/1995",
+    "target":"DECRETO 047\/1997",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 047\/1997 menciona el Decreto 018\/1995 como antecedente, pero no ejerce ninguna acción sobre él.",
+    "document_ids":[
+      "36e53335-fb66-40e0-b259-026d54332c37",
+      "7c2bbdfc-22cc-4b81-bbac-a045e0bc4433",
+      "e5979ad4-e012-44ea-893e-1e69b3f68963"
+    ],
+    "text_unit_ids":[
+      "02d15533-ecf1-461d-988d-c0a635645440"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1997",
+    "target":"DECRETO 047\/1997",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 047\/1997 menciona el Decreto 001\/1997 como antecedente, pero no ejerce ninguna acción sobre él.",
+    "document_ids":[
+      "36e53335-fb66-40e0-b259-026d54332c37",
+      "7c2bbdfc-22cc-4b81-bbac-a045e0bc4433",
+      "e5979ad4-e012-44ea-893e-1e69b3f68963"
+    ],
+    "text_unit_ids":[
+      "02d15533-ecf1-461d-988d-c0a635645440"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1997",
+    "target":"DECRETO 039\/1998",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 039\/1998 menciona el Decreto 001\/1997 como antecedente, pero no ejerce ninguna acción sobre él.",
+    "document_ids":[
+      "36e53335-fb66-40e0-b259-026d54332c37",
+      "7c2bbdfc-22cc-4b81-bbac-a045e0bc4433",
+      "e5979ad4-e012-44ea-893e-1e69b3f68963"
+    ],
+    "text_unit_ids":[
+      "02d15533-ecf1-461d-988d-c0a635645440"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1997",
+    "target":"DECRETO 025\/1998",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 025\/1998 menciona el Decreto 001\/1997 como antecedente, sin realizar ninguna acción sobre él.",
+    "document_ids":[
+      "6d3c38a0-258e-482d-bc34-b207f6d01ccd",
+      "e5979ad4-e012-44ea-893e-1e69b3f68963"
+    ],
+    "text_unit_ids":[
+      "9547d435-f777-46d3-96fd-a6d8d511e307"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/1997",
+    "target":"DECRETO 025\/1998",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 025\/1998 menciona el Decreto 016\/1997 como antecedente, sin realizar ninguna acción sobre él.",
+    "document_ids":[
+      "6d3c38a0-258e-482d-bc34-b207f6d01ccd",
+      "e5979ad4-e012-44ea-893e-1e69b3f68963"
+    ],
+    "text_unit_ids":[
+      "9547d435-f777-46d3-96fd-a6d8d511e307"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 029\/1998",
+    "target":"DECRETO 038\/1997",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 029\/1998 modifica y corrige el Reglamento del Régimen Curricular promulgado por el Decreto 038\/1997.",
+    "document_ids":[
+      "15de082e-52e7-4971-9ee1-43e43040af74",
+      "6d3c38a0-258e-482d-bc34-b207f6d01ccd"
+    ],
+    "text_unit_ids":[
+      "5d0286ab-ec2f-4ce3-bced-1b9deb8ae64a"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/1997",
+    "target":"DECRETO 012\/1998",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 012\/1998 se basa en el Decreto 001\/1997 del Presidente del Consejo Superior, que sirve como antecedente para la promulgación del Reglamento de Régimen Curricular.",
+    "document_ids":[
+      "15de082e-52e7-4971-9ee1-43e43040af74",
+      "451043a6-0f7b-4b67-a796-3cd8b1a644c8"
+    ],
+    "text_unit_ids":[
+      "262b1861-44e4-49b2-816a-20e23cabf86a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 023\/1999",
+    "target":"DECRETO 042\/1996",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 023\/1999 modifica el Decreto 042\/1996, ajustando los porcentajes de asignación por Título Profesional para el personal paraacadémico.",
+    "document_ids":[
+      "106e8d2b-f043-43ff-999c-38890613c52b",
+      "380ffebe-0b62-4654-8852-2d2b335dcdbe",
+      "893b330b-34ed-48c4-b58e-cd06f864520e"
+    ],
+    "text_unit_ids":[
+      "864b961b-de1d-42ab-ac47-a6379c55069e"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 033\/1999",
+    "target":"ACUERDO 163\/1994",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 033\/1999 deja sin efecto la distribución de fondos generados por Asistencia Técnica establecida en el Acuerdo 163\/1994.",
+    "document_ids":[
+      "380ffebe-0b62-4654-8852-2d2b335dcdbe",
+      "48ebe21f-7be8-43c2-99b3-33deefd8c388"
+    ],
+    "text_unit_ids":[
+      "c6f87274-8f90-49c3-b66e-9180cc440f1d"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"ACUERDO 001\/1997",
+    "target":"DECRETO 033\/1999",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 033\/1999 menciona el Acuerdo 001\/1997 como antecedente.",
+    "document_ids":[
+      "380ffebe-0b62-4654-8852-2d2b335dcdbe",
+      "48ebe21f-7be8-43c2-99b3-33deefd8c388"
+    ],
+    "text_unit_ids":[
+      "c6f87274-8f90-49c3-b66e-9180cc440f1d"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 002\/2000",
+    "target":"DECRETO 13\/1992",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 002\/2000 deroga el Decreto 13\/92 a contar de su fecha.",
+    "document_ids":[
+      "10ff504f-bf6a-40ef-8ef8-5d2f9eab21d8",
+      "fd282b92-f206-43d7-a228-8d52a12b0012"
+    ],
+    "text_unit_ids":[
+      "2593a1d5-c6b8-4e43-8d1f-89c44a5a8b0b"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 028\/2000",
+    "target":"DECRETO 039\/1998",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 028\/2000 deja sin efecto la modificación del Reglamento de Sala del Consejo Académico dispuesta por el Decreto 039\/98.",
+    "document_ids":[
+      "556ce57d-02bd-42d3-9161-5dc078e473f2",
+      "5a833dc1-ccd8-4b2f-8071-463aa47aa6aa",
+      "9e740e6b-7354-49d9-9629-5330fb03a788"
+    ],
+    "text_unit_ids":[
+      "a421f345-c8a8-450f-844f-70427be76afb"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 028\/2000",
+    "target":"DECRETO 36\/1992",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 028\/2000 modifica el Reglamento de Sala del Consejo Académico promulgado por el Decreto 36\/1992, agregando una disposición al artículo 1º.",
+    "document_ids":[
+      "556ce57d-02bd-42d3-9161-5dc078e473f2",
+      "5a833dc1-ccd8-4b2f-8071-463aa47aa6aa",
+      "9e740e6b-7354-49d9-9629-5330fb03a788"
+    ],
+    "text_unit_ids":[
+      "a421f345-c8a8-450f-844f-70427be76afb"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 033\/2000",
+    "target":"DECRETO 050\/1997",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 033\/2000 deroga el Reglamento Operativo para la Asignación de Crédito Universitario, Fondo Solidario de Crédito Universitario, promulgado por el Decreto 050\/1997.",
+    "document_ids":[
+      "556ce57d-02bd-42d3-9161-5dc078e473f2",
+      "5a833dc1-ccd8-4b2f-8071-463aa47aa6aa",
+      "9e740e6b-7354-49d9-9629-5330fb03a788"
+    ],
+    "text_unit_ids":[
+      "a421f345-c8a8-450f-844f-70427be76afb"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 026\/1999",
+    "target":"DECRETO 029\/2001",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 029\/2001 se basa en el Decreto 026\/1999, que promulgó el Reglamento Fondo Institucional de Apoyo por Enfermedades Catastróficas o Fallecimiento.",
+    "document_ids":[
+      "a863ddac-a142-4c1c-ae5d-0a3f4841c9e6",
+      "b60ad9ff-9288-436d-92bb-485da0eccca3"
+    ],
+    "text_unit_ids":[
+      "d645f8f0-82fb-4e90-b78d-a37b3dcbcff0"
+    ],
+    "weight":4.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 034\/2001",
+    "target":"DECRETO 024\/1995",
+    "relationship_type":"REEMPLAZA",
+    "description":"El Decreto 034\/2001 reemplaza al Decreto 024\/1995, estableciendo nuevos niveles de remuneraciones y responsabilidad.",
+    "document_ids":[
+      "2d869ac9-1b4e-4b16-af7f-442d1420c325",
+      "b60ad9ff-9288-436d-92bb-485da0eccca3"
+    ],
+    "text_unit_ids":[
+      "61c7970e-7ccd-4561-afc6-37fe44ff4a0b"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 034\/2001",
+    "target":"DECRETO 033\/1995",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 034\/2001 modifica las modificaciones introducidas por el Decreto 033\/1995 al Decreto 024\/1995.",
+    "document_ids":[
+      "2d869ac9-1b4e-4b16-af7f-442d1420c325",
+      "b60ad9ff-9288-436d-92bb-485da0eccca3"
+    ],
+    "text_unit_ids":[
+      "61c7970e-7ccd-4561-afc6-37fe44ff4a0b"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 034\/2001",
+    "target":"DECRETO 010\/1996",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 034\/2001 modifica las modificaciones introducidas por el Decreto 010\/1996 al Decreto 024\/1995.",
+    "document_ids":[
+      "2d869ac9-1b4e-4b16-af7f-442d1420c325",
+      "b60ad9ff-9288-436d-92bb-485da0eccca3"
+    ],
+    "text_unit_ids":[
+      "61c7970e-7ccd-4561-afc6-37fe44ff4a0b"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 034\/2001",
+    "target":"DECRETO 040\/1996",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 034\/2001 modifica las modificaciones introducidas por el Decreto 040\/1996 al Decreto 024\/1995.",
+    "document_ids":[
+      "2d869ac9-1b4e-4b16-af7f-442d1420c325",
+      "b60ad9ff-9288-436d-92bb-485da0eccca3"
+    ],
+    "text_unit_ids":[
+      "61c7970e-7ccd-4561-afc6-37fe44ff4a0b"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 002\/2001",
+    "target":"DECRETO 034\/2001",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 034\/2001 modifica las modificaciones introducidas por el Decreto 002\/2001 al Decreto 024\/1995.",
+    "document_ids":[
+      "2d869ac9-1b4e-4b16-af7f-442d1420c325",
+      "b60ad9ff-9288-436d-92bb-485da0eccca3"
+    ],
+    "text_unit_ids":[
+      "61c7970e-7ccd-4561-afc6-37fe44ff4a0b"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 034\/2001",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR 001\/1997",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 034\/2001 referencia el Decreto del Presidente del Consejo Superior 001\/1997, que otorga facultades para su acción.",
+    "document_ids":[
+      "2d869ac9-1b4e-4b16-af7f-442d1420c325",
+      "b60ad9ff-9288-436d-92bb-485da0eccca3"
+    ],
+    "text_unit_ids":[
+      "61c7970e-7ccd-4561-afc6-37fe44ff4a0b"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 006\/2002",
+    "target":"DECRETO 35\/1992",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 006\/2002 deroga el Decreto 35\/92, que promulgó el Reglamento General N°43 de Prácticas Universitarias.",
+    "document_ids":[
+      "2d869ac9-1b4e-4b16-af7f-442d1420c325",
+      "b8d9c083-219c-4bbd-a081-2f2eabc2d760",
+      "e478192d-c2e0-4ff9-ae9b-3bbeac71a39c"
+    ],
+    "text_unit_ids":[
+      "f055d161-6d52-4684-b809-d8e32e032f80"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2002",
+    "target":"DECRETO 015\/1995",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 032\/2002 deroga el Decreto 015\/1995 a contar de su fecha.",
+    "document_ids":[
+      "b8d9c083-219c-4bbd-a081-2f2eabc2d760",
+      "ec37e66d-c9c7-48af-9d34-45224019723a"
+    ],
+    "text_unit_ids":[
+      "c3ea6200-7e5f-4292-bcde-8d801fd04ba8"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 023\/2003",
+    "target":"DECRETO 05\/1995",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 023\/2003 menciona el Decreto 05\/1995 como antecedente.",
+    "document_ids":[
+      "43d77344-f175-4e99-9f88-148773791f43",
+      "d3cd9de5-ca1e-420b-a75f-4cad7eb2d403"
+    ],
+    "text_unit_ids":[
+      "f6d96272-9933-4acd-aedb-f2daec1226f6"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 023\/2003",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR N°001\/2001",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 023\/2003 menciona el Decreto del Presidente del Consejo Superior N°001\/2001 como antecedente.",
+    "document_ids":[
+      "43d77344-f175-4e99-9f88-148773791f43",
+      "d3cd9de5-ca1e-420b-a75f-4cad7eb2d403"
+    ],
+    "text_unit_ids":[
+      "f6d96272-9933-4acd-aedb-f2daec1226f6"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 009\/2003",
+    "target":"DECRETO 002\/2000",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 009\/2003 deroga el Decreto 002\/2000 y promulga una nueva versión del Reglamento de Carrera Académica.",
+    "document_ids":[
+      "3beb1e94-a35e-4123-99a1-2b4396b44c55",
+      "43d77344-f175-4e99-9f88-148773791f43"
+    ],
+    "text_unit_ids":[
+      "792ebe05-802c-441b-973f-53c30f0ea681"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 012\/2003",
+    "target":"DECRETO 05\/1994",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 012\/2003 deroga el Reglamento General N°45 promulgado por el Decreto 05\/1994.",
+    "document_ids":[
+      "3beb1e94-a35e-4123-99a1-2b4396b44c55",
+      "a4be0385-5268-41c0-84f5-fb2bff057469",
+      "b10a157e-f404-4a08-9927-a7537ca97a6a"
+    ],
+    "text_unit_ids":[
+      "4c77f029-1be3-4545-827b-7b16395109e7"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2003",
+    "target":"MEMORÁNDUM 255\/2003",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 032\/2003 menciona el Memorándum 255\/2003 como antecedente para la promulgación del reglamento.",
+    "document_ids":[
+      "117a4ec2-c159-4cf5-802c-8cf2fb568cdc",
+      "571268b4-5b6b-4794-9951-4ba5d40c2f41",
+      "aba72fe0-1b3c-4d75-984f-9c5eb47288f2",
+      "e5daddf9-7a26-4f96-930d-19d875b5520d"
+    ],
+    "text_unit_ids":[
+      "5ca8f378-1e8f-4cc3-9aff-060dbe1cce33"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2003",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR 001\/2001",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 032\/2003 menciona el Decreto del Presidente del Consejo Superior 001\/2001 como antecedente para la promulgación del reglamento.",
+    "document_ids":[
+      "117a4ec2-c159-4cf5-802c-8cf2fb568cdc",
+      "571268b4-5b6b-4794-9951-4ba5d40c2f41",
+      "aba72fe0-1b3c-4d75-984f-9c5eb47288f2",
+      "e5daddf9-7a26-4f96-930d-19d875b5520d"
+    ],
+    "text_unit_ids":[
+      "5ca8f378-1e8f-4cc3-9aff-060dbe1cce33"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2003",
+    "target":"RESOLUCIÓN DE VICERRECTORÍA ACADÉMICA N° 04\/2013",
+    "relationship_type":"REFERENCIA",
+    "description":"La Resolución de Vicerrectoría Académica N° 04\/2013 se basa en el Reglamento del Premio 'Esfuerzo es Progreso' promulgado por el Decreto 032\/2003.",
+    "document_ids":[
+      "75638279-f8bb-412f-9d9e-6ce851c85df6",
+      "a87c5d2a-d19d-426b-ad3d-0565ceb089dd"
+    ],
+    "text_unit_ids":[
+      "8b9f4a31-4557-4a97-b484-d52929f48829"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"RESOLUCIÓN DE VICERRECTORÍA ACADÉMICA N° 04\/2013",
+    "target":"RESOLUCIÓN VRA-952\/2011",
+    "relationship_type":"REFERENCIA",
+    "description":"La Resolución de Vicerrectoría Académica N° 04\/2013 se basa en la Resolución VRA-952\/2011.",
+    "document_ids":[
+      "75638279-f8bb-412f-9d9e-6ce851c85df6",
+      "a87c5d2a-d19d-426b-ad3d-0565ceb089dd"
+    ],
+    "text_unit_ids":[
+      "8b9f4a31-4557-4a97-b484-d52929f48829"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"RESOLUCIÓN DE VICERRECTORÍA ACADÉMICA N° 04\/2013",
+    "target":"RESOLUCIÓN VRA-066\/2012",
+    "relationship_type":"REFERENCIA",
+    "description":"La Resolución de Vicerrectoría Académica N° 04\/2013 se basa en la Resolución VRA-066\/2012.",
+    "document_ids":[
+      "75638279-f8bb-412f-9d9e-6ce851c85df6",
+      "a87c5d2a-d19d-426b-ad3d-0565ceb089dd"
+    ],
+    "text_unit_ids":[
+      "8b9f4a31-4557-4a97-b484-d52929f48829"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2003",
+    "target":"RESOLUCIÓN DE VICERRECTORÍA ACADÉMICA N° 21\/2015",
+    "relationship_type":"REFERENCIA",
+    "description":"La Resolución de Vicerrectoría Académica N° 21\/2015 se basa en el Reglamento del Premio 'Esfuerzo es Progreso' promulgado por el Decreto 032\/2003.",
+    "document_ids":[
+      "75638279-f8bb-412f-9d9e-6ce851c85df6",
+      "a87c5d2a-d19d-426b-ad3d-0565ceb089dd"
+    ],
+    "text_unit_ids":[
+      "8b9f4a31-4557-4a97-b484-d52929f48829"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"RESOLUCIÓN DE VICERRECTORÍA ACADÉMICA N° 21\/2015",
+    "target":"RESOLUCIÓN N°83\/2014",
+    "relationship_type":"REFERENCIA",
+    "description":"La Resolución de Vicerrectoría Académica N° 21\/2015 se basa en la Resolución N°83\/2014.",
+    "document_ids":[
+      "75638279-f8bb-412f-9d9e-6ce851c85df6",
+      "a87c5d2a-d19d-426b-ad3d-0565ceb089dd"
+    ],
+    "text_unit_ids":[
+      "8b9f4a31-4557-4a97-b484-d52929f48829"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2001",
+    "target":"DECRETO 020\/2004",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 020\/2004 se basa en las facultades conferidas por el Decreto 001\/2001 para promulgar el Reglamento General N°40 Ingresos Especiales a Primer Año.",
+    "document_ids":[
+      "a71b6bdf-2d23-435b-a08c-8058ec22edd2",
+      "b6e1daa2-4109-46ef-b859-22af59f91605",
+      "e11ee6fc-1ed4-4e4f-98c3-bfd591604e6f",
+      "f87e7846-e569-4f30-b225-fd6aac6c21e4"
+    ],
+    "text_unit_ids":[
+      "6b582f85-d7dd-4fd5-9a51-da30dc8dcd89"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2001",
+    "target":"DECRETO 035\/2004",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 035\/2004 se basa en las facultades conferidas por el Decreto 001\/2001 para modificar y reemplazar el Reglamento General N°40 Ingresos Especiales a Primer Año.",
+    "document_ids":[
+      "a71b6bdf-2d23-435b-a08c-8058ec22edd2",
+      "b6e1daa2-4109-46ef-b859-22af59f91605",
+      "e11ee6fc-1ed4-4e4f-98c3-bfd591604e6f",
+      "f87e7846-e569-4f30-b225-fd6aac6c21e4"
+    ],
+    "text_unit_ids":[
+      "6b582f85-d7dd-4fd5-9a51-da30dc8dcd89"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 020\/2004",
+    "target":"DECRETO 035\/2004",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 035\/2004 modifica y reemplaza el Reglamento General N°40 Ingresos Especiales a Primer Año promulgado por el Decreto 020\/2004, dejándolo sin efecto.",
+    "document_ids":[
+      "a71b6bdf-2d23-435b-a08c-8058ec22edd2",
+      "b6e1daa2-4109-46ef-b859-22af59f91605",
+      "e11ee6fc-1ed4-4e4f-98c3-bfd591604e6f",
+      "f87e7846-e569-4f30-b225-fd6aac6c21e4"
+    ],
+    "text_unit_ids":[
+      "6b582f85-d7dd-4fd5-9a51-da30dc8dcd89"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/2005",
+    "target":"DECRETO 032\/2002",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 016\/2005 promulga el Reglamento de Ayudantías y deja sin efecto toda otra normativa al respecto, incluyendo el Decreto 032\/2002.",
+    "document_ids":[
+      "2bbd05fa-3010-4d80-af09-6286916368ff",
+      "b24b7b9f-ed32-4084-a3f1-3c3e169f2c66",
+      "cabcae6d-4ad2-4285-b3d2-e2798a410300",
+      "f67c3bd7-51d7-42de-8059-059ff7995491"
+    ],
+    "text_unit_ids":[
+      "5da07b1b-c054-439e-964c-83ea853d8c2b"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2005",
+    "target":"DECRETO 032\/2002",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 032\/2005 modifica el Reglamento de Deberes y Derechos de los Alumnos de la Casa Central y Campus Santiago, promulgado por el Decreto 032\/2002, incorporando un tercer párrafo al artículo 31.",
+    "document_ids":[
+      "2bbd05fa-3010-4d80-af09-6286916368ff",
+      "b24b7b9f-ed32-4084-a3f1-3c3e169f2c66",
+      "cabcae6d-4ad2-4285-b3d2-e2798a410300",
+      "f67c3bd7-51d7-42de-8059-059ff7995491"
+    ],
+    "text_unit_ids":[
+      "5da07b1b-c054-439e-964c-83ea853d8c2b"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 003\/2006",
+    "target":"DECRETO 018\/1995",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 003\/2006 modifica el Decreto 018\/1995, fijando una nueva asignación de responsabilidad para el Director General de Administración y Finanzas.",
+    "document_ids":[
+      "6d92bda5-4b3c-46d4-8249-23cb78bc83c0",
+      "70eaed34-ae42-4c2d-967f-891afb34a2ed",
+      "7aaf93a3-7b8b-44b0-af9d-5b82243cf3b9",
+      "b7de5d82-eed6-4b4c-add3-c5db6caa7e7f"
+    ],
+    "text_unit_ids":[
+      "50c2c933-7142-4aae-8389-031adfc3d7fe"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 003\/2006",
+    "target":"DECRETO 028\/2001",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 003\/2006 modifica el Decreto 028\/2001, fijando una nueva asignación de responsabilidad para el Director General del Campus Santiago.",
+    "document_ids":[
+      "6d92bda5-4b3c-46d4-8249-23cb78bc83c0",
+      "70eaed34-ae42-4c2d-967f-891afb34a2ed",
+      "7aaf93a3-7b8b-44b0-af9d-5b82243cf3b9",
+      "b7de5d82-eed6-4b4c-add3-c5db6caa7e7f"
+    ],
+    "text_unit_ids":[
+      "50c2c933-7142-4aae-8389-031adfc3d7fe"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2005",
+    "target":"DECRETO 013\/2006",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 013\/2006 menciona el Decreto 001\/2005 como antecedente, sin realizar ninguna acción sobre él.",
+    "document_ids":[
+      "6d92bda5-4b3c-46d4-8249-23cb78bc83c0",
+      "70eaed34-ae42-4c2d-967f-891afb34a2ed",
+      "7aaf93a3-7b8b-44b0-af9d-5b82243cf3b9",
+      "b7de5d82-eed6-4b4c-add3-c5db6caa7e7f"
+    ],
+    "text_unit_ids":[
+      "50c2c933-7142-4aae-8389-031adfc3d7fe"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2005",
+    "target":"DECRETO 003\/2006",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 003\/2006 menciona el Decreto 001\/2005 como antecedente, sin realizar ninguna acción sobre él.",
+    "document_ids":[
+      "6d92bda5-4b3c-46d4-8249-23cb78bc83c0",
+      "70eaed34-ae42-4c2d-967f-891afb34a2ed",
+      "7aaf93a3-7b8b-44b0-af9d-5b82243cf3b9",
+      "b7de5d82-eed6-4b4c-add3-c5db6caa7e7f"
+    ],
+    "text_unit_ids":[
+      "50c2c933-7142-4aae-8389-031adfc3d7fe"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 002\/2006",
+    "target":"DECRETO 014\/2006",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 014\/2006 modifica el Decreto 002\/2006, incorporando la firma del Rector a los diplomas de Maestro de Excelencia y Maestro Destacado.",
+    "document_ids":[
+      "ac0766ec-3608-471c-a0a3-ff0c7dcc26dd",
+      "b7de5d82-eed6-4b4c-add3-c5db6caa7e7f"
+    ],
+    "text_unit_ids":[
+      "bbc2acad-bf1a-4a1e-9885-1cf5611d89f0"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2005",
+    "target":"DECRETO 023\/2006",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 023\/2006 se refiere al Decreto 001\/2005 como antecedente normativo.",
+    "document_ids":[
+      "ac0766ec-3608-471c-a0a3-ff0c7dcc26dd",
+      "fc8c39ab-0a11-4392-abc4-784371a78acd"
+    ],
+    "text_unit_ids":[
+      "dd497bfe-2e67-4949-ad4e-82c33ca66d9c"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2006",
+    "target":"DECRETO 009\/2003",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 032\/2006 modifica el Decreto 009\/2003, corrigiendo un error en el artículo 47 del Reglamento de Carrera Académica.",
+    "document_ids":[
+      "0608cfca-a235-486f-b055-88d6bd10c4c5",
+      "3e567c14-5b13-4625-ab77-83f49b5af03c",
+      "fc8c39ab-0a11-4392-abc4-784371a78acd"
+    ],
+    "text_unit_ids":[
+      "e8d80d13-051f-417c-9f05-2dc15537c811"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2015",
+    "target":"DECRETO 016\/2011",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 089\/2015 se basa en el Decreto 016\/2011 para crear el Departamento de Ingeniería Comercial y menciona el Decreto 016\/2011 en el contexto de citar microformas.",
+    "document_ids":[
+      "026d47f1-b63f-49f2-8c41-d15282904cb2",
+      "02d114a0-7784-42e9-b594-25fd47b6ef6e",
+      "7dec4387-6662-4c58-9c2f-f1c4820a0a33",
+      "99da3c01-245f-49a0-9132-61eaaa77fb19",
+      "d3bae517-c013-445a-bafd-395bc500d2f9"
+    ],
+    "text_unit_ids":[
+      "05fa183d-5675-4807-978c-d6e782886f9b",
+      "91e8863f-c6b5-491d-aff9-573d47b99ccf",
+      "ce2858f2-bbce-4f79-9a45-85a05146fa5f"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 005\/2007",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR N°001\/2006",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 005\/2007 se basa en el Decreto del Presidente del Consejo Superior N°001\/2006 para establecer sus disposiciones.",
+    "document_ids":[
+      "55b59b53-56a2-429b-901a-712046ec1057",
+      "d3bae517-c013-445a-bafd-395bc500d2f9"
+    ],
+    "text_unit_ids":[
+      "dbd332c9-fabd-4fe1-9f77-419b27aaf58a"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 012\/2007",
+    "target":"DECRETO 034\/2001",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 012\/2007 modifica el Decreto 034\/2001, eliminando y reencasillando cargos de Secretaría.",
+    "document_ids":[
+      "55b59b53-56a2-429b-901a-712046ec1057",
+      "adaccbc7-9705-4945-8074-63fe24c7028e",
+      "dbc8921d-2213-42c3-86e4-463e7c5fdf80",
+      "e7790678-f30b-439d-8c57-a0b0cd6abb84"
+    ],
+    "text_unit_ids":[
+      "0d9b6abe-bea2-4f7a-b404-8a4a1856c0ce"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 030\/2007",
+    "target":"DECRETO 032\/2007",
+    "relationship_type":"COMPLEMENTA",
+    "description":"El Decreto 032\/2007 rectifica y complementa el Decreto 030\/2007, suprimiendo la palabra 'INDUSTRIAL' y reemplazando su parte resolutiva.",
+    "document_ids":[
+      "002db33c-bf48-4b9b-bbfe-bd2d63227f7f",
+      "20e3c51c-8291-4abf-b215-4f86095846b4",
+      "55b59b53-56a2-429b-901a-712046ec1057",
+      "8f796112-9752-4ac7-bcaa-c519d5fcaaec",
+      "adaccbc7-9705-4945-8074-63fe24c7028e",
+      "c8d21bec-2518-4e8b-b165-723c2dad6ed2",
+      "dbc8921d-2213-42c3-86e4-463e7c5fdf80",
+      "e7790678-f30b-439d-8c57-a0b0cd6abb84"
+    ],
+    "text_unit_ids":[
+      "0d9b6abe-bea2-4f7a-b404-8a4a1856c0ce",
+      "12840c29-715b-4911-94a2-010bf5ffd136",
+      "78a46c69-9621-4a49-bf3a-e20375e225af"
+    ],
+    "weight":7.6666666667,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 050\/2007",
+    "target":"DECRETO 22\/1993",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 050\/2007 deroga al Decreto 22\/1993 a contar del 16 de diciembre de 2007.",
+    "document_ids":[
+      "002db33c-bf48-4b9b-bbfe-bd2d63227f7f",
+      "adaccbc7-9705-4945-8074-63fe24c7028e",
+      "c8d21bec-2518-4e8b-b165-723c2dad6ed2"
+    ],
+    "text_unit_ids":[
+      "12840c29-715b-4911-94a2-010bf5ffd136"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 014\/2003",
+    "target":"DECRETO 058\/2007",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 058\/2007 referencia el Decreto 014\/2003, que promulgó el Reglamento General N°1, Régimen Curricular Casa Central.",
+    "document_ids":[
+      "002db33c-bf48-4b9b-bbfe-bd2d63227f7f",
+      "8f796112-9752-4ac7-bcaa-c519d5fcaaec",
+      "ae5b7566-1996-4b19-9be9-9aee643f5dc5"
+    ],
+    "text_unit_ids":[
+      "4da84911-2298-4e3a-9d21-f8148bd19c40"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO SUPREMO 50\/1988",
+    "target":"DECRETO SUPREMO 40\/1969",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto Supremo 50\/1988 modifica y actualiza las normas establecidas por el Decreto Supremo 40\/1969, introduciendo nuevas disposiciones en materia de seguridad y salud ocupacional.",
+    "document_ids":[
+      "075e53c3-3d2a-498c-b398-d7a7465d1b41",
+      "20e3c51c-8291-4abf-b215-4f86095846b4",
+      "6cd601ce-4d81-4e7b-a261-986f283b9c80"
+    ],
+    "text_unit_ids":[
+      "6d514ff2-ce13-429e-ba52-30dc1e4a032f",
+      "8a7b5407-9554-4c36-acb8-e093c007b1c7",
+      "9ac6815f-039f-4371-a7ce-8c8023fafacb"
+    ],
+    "weight":7.6666666667,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 027\/2008",
+    "target":"DECRETO 015\/1993",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 027\/2008 deroga al Decreto 015\/1993 a contar de su fecha.",
+    "document_ids":[
+      "6cd601ce-4d81-4e7b-a261-986f283b9c80",
+      "9fd26877-b9db-4cbd-9035-ffd9a695c251"
+    ],
+    "text_unit_ids":[
+      "c29bcb75-62a7-422c-886c-471394185dd6"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 027\/2008",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR N°001\/2006",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 027\/2008 menciona el Decreto del Presidente del Consejo Superior N°001\/2006 como base para la promulgación del Reglamento Orgánico.",
+    "document_ids":[
+      "6cd601ce-4d81-4e7b-a261-986f283b9c80",
+      "9fd26877-b9db-4cbd-9035-ffd9a695c251"
+    ],
+    "text_unit_ids":[
+      "c29bcb75-62a7-422c-886c-471394185dd6"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 055\/2008",
+    "target":"DECRETO 051\/1991",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 055\/2008 deroga el Decreto 051\/1991 en lo que se refiere a la Sede Viña del Mar 'José Miguel Carrera'.",
+    "document_ids":[
+      "987ca914-0dcc-4971-af96-3d2c9b861620",
+      "9fd26877-b9db-4cbd-9035-ffd9a695c251"
+    ],
+    "text_unit_ids":[
+      "8aa0eecf-cdc7-4790-8115-d0326d3a1a65"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 052\/2008",
+    "target":"DECRETO 05\/1995",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 052\/2008 modifica el Reglamento Orgánico promulgado por el Decreto 05\/1995, reemplazando los artículos 5°, 19°, 20 letra k), 49°, 50°, 51° y 52°.",
+    "document_ids":[
+      "987ca914-0dcc-4971-af96-3d2c9b861620",
+      "af41b686-8e80-4e3f-a127-52c7d3c1ddcf",
+      "b691b432-9954-4c08-8f93-e8f6d2cd857d",
+      "cd50abc6-c1c3-4e63-9caa-10f4edf8b668"
+    ],
+    "text_unit_ids":[
+      "2b108517-df0f-492e-a2b8-645cf6d126f6",
+      "70417549-d112-44be-833b-097b7cb3e1cb"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 013\/2008",
+    "target":"DECRETO 27\/1994",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 013\/2008 modifica el Reglamento General de Régimen Docente para Planes Especiales promulgado por el Decreto 027\/1994, reemplazando los artículos 24 y 25.",
+    "document_ids":[
+      "61202387-b191-4074-9909-8c8a0b838130",
+      "6c1b172e-5a94-420f-b0cc-0b7487ac5cb7",
+      "cd50abc6-c1c3-4e63-9caa-10f4edf8b668",
+      "d8427802-29cc-4052-b20b-333a9fdf4416"
+    ],
+    "text_unit_ids":[
+      "92df7938-cca2-41ff-81a7-381add5b2609"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 013\/2008",
+    "target":"DECRETO 050\/1996",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 013\/2008 modifica el Reglamento General de Régimen Docente para Planes Especiales, que fue previamente modificado por el Decreto 050\/1996, reemplazando los artículos 24 y 25.",
+    "document_ids":[
+      "61202387-b191-4074-9909-8c8a0b838130",
+      "6c1b172e-5a94-420f-b0cc-0b7487ac5cb7",
+      "cd50abc6-c1c3-4e63-9caa-10f4edf8b668",
+      "d8427802-29cc-4052-b20b-333a9fdf4416"
+    ],
+    "text_unit_ids":[
+      "92df7938-cca2-41ff-81a7-381add5b2609"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 045\/2008",
+    "target":"DECRETO 005\/1997",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 045\/2008 deroga el Decreto 005\/1997, que promulgó el Reglamento del Servicio Médico de Trabajadores SEMTRA-2.",
+    "document_ids":[
+      "61202387-b191-4074-9909-8c8a0b838130",
+      "6c1b172e-5a94-420f-b0cc-0b7487ac5cb7",
+      "cd50abc6-c1c3-4e63-9caa-10f4edf8b668",
+      "d8427802-29cc-4052-b20b-333a9fdf4416"
+    ],
+    "text_unit_ids":[
+      "92df7938-cca2-41ff-81a7-381add5b2609"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 019\/2009",
+    "target":"REGLAMENTO GENERAL N° 44\/1992",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 019\/2009 deroga el Reglamento General N° 44\/1992 a partir de su vigencia.",
+    "document_ids":[
+      "94df0605-ab67-4c92-8161-1493be5e7965",
+      "a5a38baf-3806-43f1-800f-ec3ba93bc5fa"
+    ],
+    "text_unit_ids":[
+      "57fce015-0920-4e91-884f-1bc6cfb4b0b1"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 003\/2010",
+    "target":"DECRETO 05\/1991",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 003\/2010 deroga al Decreto 05\/1991 a contar de su fecha.",
+    "document_ids":[
+      "92a51443-8d24-4878-9f07-26bf971b465a",
+      "c22cd64b-1656-4761-a225-0b43e5dc28af"
+    ],
+    "text_unit_ids":[
+      "27758fce-3e11-46fb-98cc-78785ec4bd22"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 003\/2010",
+    "target":"DECRETO 55\/2008",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 003\/2010 deroga al Decreto 55\/2008 a contar de su fecha.",
+    "document_ids":[
+      "92a51443-8d24-4878-9f07-26bf971b465a",
+      "c22cd64b-1656-4761-a225-0b43e5dc28af"
+    ],
+    "text_unit_ids":[
+      "27758fce-3e11-46fb-98cc-78785ec4bd22"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2006",
+    "target":"DECRETO 011\/2010",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 011\/2010 se basa en el Decreto 001\/2006 del Presidente del Consejo Superior, que confiere facultades a la Rectoría de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "c22cd64b-1656-4761-a225-0b43e5dc28af",
+      "e00486fc-6d4c-42b5-8f21-0be91eee2616"
+    ],
+    "text_unit_ids":[
+      "b0d7543b-1818-466c-88d2-f6f3869e8943"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 018\/2010",
+    "target":"DECRETO 36\/1992",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 018\/2010 deroga el Decreto 36\/92 a contar de su fecha.",
+    "document_ids":[
+      "dd2a57d6-58e8-4b3b-8fb1-fe51da3529ad",
+      "e00486fc-6d4c-42b5-8f21-0be91eee2616"
+    ],
+    "text_unit_ids":[
+      "7abbd62c-038f-4f11-87bb-c5f0cbe8f4f0"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 025\/2010",
+    "target":"DECRETO 08\/1993",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 025\/2010 modifica el Reglamento General sobre Votaciones y Elecciones promulgado por el Decreto 08\/93, reemplazando y agregando varios artículos.",
+    "document_ids":[
+      "61425c2b-f5e6-4574-8e67-c2d57934a4dc",
+      "dd2a57d6-58e8-4b3b-8fb1-fe51da3529ad"
+    ],
+    "text_unit_ids":[
+      "65bf85f7-084c-47fc-a5fb-831553ef2836"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 038\/2010",
+    "target":"DECRETO 50\/2007",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 038\/2010 deroga el Decreto 50\/2007, que promulgó el Código de Ética Institucional y Normas complementarias, a contar de la fecha del presente Decreto.",
+    "document_ids":[
+      "28784935-1832-446c-b8c4-2f4f78011898",
+      "61425c2b-f5e6-4574-8e67-c2d57934a4dc",
+      "6f2e3a13-05b9-4ab4-ba3a-c901bffa9d03",
+      "f8c539b5-6657-4ac2-890c-69dfb5b0686a"
+    ],
+    "text_unit_ids":[
+      "a0a556d7-5a25-4b6a-a794-0e92a7611d93",
+      "b91d69c0-c4a4-418b-a726-f74784b7a1c6"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 038\/2010",
+    "target":"DECRETO 060\/2010",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 060\/2010 modifica el Código de Ética Institucional y el Reglamento de Funcionamiento de la Comisión de Ética promulgados por el Decreto 038\/2010.",
+    "document_ids":[
+      "28784935-1832-446c-b8c4-2f4f78011898",
+      "f8c539b5-6657-4ac2-890c-69dfb5b0686a"
+    ],
+    "text_unit_ids":[
+      "a0a556d7-5a25-4b6a-a794-0e92a7611d93"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/2011",
+    "target":"DECRETO 05\/1995",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 016\/2011 deroga al Decreto 05\/1995 a contar de su fecha, con excepción del N°2 de su parte resolutiva.",
+    "document_ids":[
+      "af41b686-8e80-4e3f-a127-52c7d3c1ddcf",
+      "b691b432-9954-4c08-8f93-e8f6d2cd857d"
+    ],
+    "text_unit_ids":[
+      "70417549-d112-44be-833b-097b7cb3e1cb"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/2011",
+    "target":"DECRETO 052\/2008",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 016\/2011 deroga al Decreto 052\/2008 a contar de su fecha.",
+    "document_ids":[
+      "af41b686-8e80-4e3f-a127-52c7d3c1ddcf",
+      "b691b432-9954-4c08-8f93-e8f6d2cd857d"
+    ],
+    "text_unit_ids":[
+      "70417549-d112-44be-833b-097b7cb3e1cb"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/2011",
+    "target":"DECRETO 05\/1995",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 016\/2011 hace referencia al Decreto 05\/1995 en la sección VISTOS como antecedente y en el contexto de un ejemplo de cómo citar microformas.",
+    "document_ids":[
+      "0587be7c-1e83-4cf4-8dc2-604c520440cf",
+      "af41b686-8e80-4e3f-a127-52c7d3c1ddcf",
+      "b691b432-9954-4c08-8f93-e8f6d2cd857d"
+    ],
+    "text_unit_ids":[
+      "70417549-d112-44be-833b-097b7cb3e1cb",
+      "e3475af5-4201-4da0-aa34-f6e4a5250680"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/2011",
+    "target":"DECRETO 052\/2008",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 016\/2011 hace referencia al Decreto 052\/2008 en la sección VISTOS como antecedente y en el contexto de un ejemplo de cómo citar microformas.",
+    "document_ids":[
+      "0587be7c-1e83-4cf4-8dc2-604c520440cf",
+      "af41b686-8e80-4e3f-a127-52c7d3c1ddcf",
+      "b691b432-9954-4c08-8f93-e8f6d2cd857d"
+    ],
+    "text_unit_ids":[
+      "70417549-d112-44be-833b-097b7cb3e1cb",
+      "e3475af5-4201-4da0-aa34-f6e4a5250680"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 006\/2012",
+    "target":"DECRETO 018\/2010",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 006\/2012 modifica el Reglamento de Sala del Consejo Académico, promulgado por el Decreto 018\/2010, reemplazando los artículos 5, 14 y 19.",
+    "document_ids":[
+      "1d6fd99b-9692-49a0-9e6e-c97431bf62ea",
+      "27356426-8f22-453e-a224-db5497bda18f",
+      "75cae68f-337b-4388-bf14-c0e500423b25",
+      "af41b686-8e80-4e3f-a127-52c7d3c1ddcf"
+    ],
+    "text_unit_ids":[
+      "18852ed2-0948-423b-b098-8a5751f5406d",
+      "9025d244-3142-4ab5-b356-792e8f4217b3"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 015\/2013",
+    "target":"DECRETO 08\/1993",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 015\/2013 modifica el Reglamento General sobre Votaciones y Elecciones promulgado por el Decreto 08\/93.",
+    "document_ids":[
+      "27356426-8f22-453e-a224-db5497bda18f",
+      "56f328c2-3d30-49db-a6e2-36432a4e56e9"
+    ],
+    "text_unit_ids":[
+      "2f5bf2a8-c609-46eb-ac0b-6e114bc2d171"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 015\/2013",
+    "target":"DECRETO 025\/2010",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 015\/2013 modifica el texto refundido y actualizado del Reglamento General sobre Votaciones y Elecciones fijado por el Decreto 25\/2010.",
+    "document_ids":[
+      "27356426-8f22-453e-a224-db5497bda18f",
+      "56f328c2-3d30-49db-a6e2-36432a4e56e9"
+    ],
+    "text_unit_ids":[
+      "2f5bf2a8-c609-46eb-ac0b-6e114bc2d171"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2010",
+    "target":"DECRETO 023\/2013",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 023\/2013 menciona el Decreto 001\/2010, que confiere las facultades para la promulgación de la nueva normativa.",
+    "document_ids":[
+      "0587be7c-1e83-4cf4-8dc2-604c520440cf",
+      "56f328c2-3d30-49db-a6e2-36432a4e56e9"
+    ],
+    "text_unit_ids":[
+      "4900f96d-4519-419b-91cf-5e6c982a0830"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/2011",
+    "target":"DECRETO 089\/2015",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 089\/2015 se basa en el Decreto 016\/2011 para crear el Departamento de Ingeniería Comercial y menciona el Decreto 016\/2011 en el contexto de citar microformas.",
+    "document_ids":[
+      "0587be7c-1e83-4cf4-8dc2-604c520440cf",
+      "429b0109-be54-4d4c-b21c-30111f3c2856",
+      "4d991420-d8c9-431e-a826-6032d4ff44e3",
+      "99da3c01-245f-49a0-9132-61eaaa77fb19"
+    ],
+    "text_unit_ids":[
+      "1145c740-80a4-4052-a2de-f34cef917bcb",
+      "e3475af5-4201-4da0-aa34-f6e4a5250680"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 024\/2013",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR 001\/2010",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 024\/2013 se basa en el Decreto del Presidente del Consejo Superior N°001\/2010, mencionado en el VISTOS.",
+    "document_ids":[
+      "78eb6cbc-7697-4dd7-ad67-7990e2aa6aaa",
+      "f2ed0412-7936-409f-a1a2-d31d73c6f217"
+    ],
+    "text_unit_ids":[
+      "3afbaf31-f6b6-4ee8-accf-05af67e0f2ae"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 032\/2013",
+    "target":"DECRETO DEL PRESIDENTE DEL CONSEJO SUPERIOR 001\/2010",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto del Presidente del Consejo Superior N°001\/2010, del 27 de septiembre de 2010, confiere facultades al Rector para promulgar el decreto.",
+    "document_ids":[
+      "1c961c22-d5f8-4a35-8c65-93df9a47944b",
+      "78eb6cbc-7697-4dd7-ad67-7990e2aa6aaa",
+      "a8ba7030-d3cb-4781-ad97-b241cc564e4f"
+    ],
+    "text_unit_ids":[
+      "94df6c46-923d-4bfc-8b13-2e7d84617e82"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2010",
+    "target":"DECRETO 062\/2013",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 062\/2013 se basa en el Decreto 001\/2010 para establecer sus facultades.",
+    "document_ids":[
+      "28b4d798-5079-467c-a708-1ffce1620bf4",
+      "37882e4c-b661-4ff9-8da0-55075f329c89",
+      "a188ab30-1c67-4d5a-a13a-3e3b48d09562"
+    ],
+    "text_unit_ids":[
+      "96400488-6e12-41bb-8e2f-5499da2d565c"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 022\/2014",
+    "target":"DECRETO 009\/2003",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 022\/2014 modifica el Reglamento de Carrera Académica promulgado por el Decreto 09\/03.",
+    "document_ids":[
+      "28b4d798-5079-467c-a708-1ffce1620bf4",
+      "37882e4c-b661-4ff9-8da0-55075f329c89",
+      "a188ab30-1c67-4d5a-a13a-3e3b48d09562"
+    ],
+    "text_unit_ids":[
+      "96400488-6e12-41bb-8e2f-5499da2d565c"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 045\/2014",
+    "target":"DECRETO 08\/1993",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 045\/2014 referencia el Decreto 08\/93 como antecedente normativo.",
+    "document_ids":[
+      "409edeea-e4d1-4fc0-a3d7-e42e1c0917e8",
+      "a188ab30-1c67-4d5a-a13a-3e3b48d09562"
+    ],
+    "text_unit_ids":[
+      "560ce27a-c18b-4dcb-9894-fec440b0f990"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 015\/2013",
+    "target":"DECRETO 045\/2014",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 045\/2014 referencia el Decreto 015\/2013 como antecedente normativo.",
+    "document_ids":[
+      "409edeea-e4d1-4fc0-a3d7-e42e1c0917e8",
+      "a188ab30-1c67-4d5a-a13a-3e3b48d09562"
+    ],
+    "text_unit_ids":[
+      "560ce27a-c18b-4dcb-9894-fec440b0f990"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2014",
+    "target":"DECRETO 001\/2009",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 001\/2014 modifica el Decreto 001\/2009 reemplazando los artículos 4º y 5º del Reglamento de Sala del Consejo Superior.",
+    "document_ids":[
+      "409edeea-e4d1-4fc0-a3d7-e42e1c0917e8",
+      "41eb49c5-44a9-47f9-9e59-694ec034be9e"
+    ],
+    "text_unit_ids":[
+      "633c0148-4fd2-42c0-ba7a-bc371c527765"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 011\/2015",
+    "target":"DECRETO 009\/2003",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 011\/2015 modifica el Reglamento de Carrera Académica promulgado por el Decreto 09\/03, reemplazando el Artículo 34.",
+    "document_ids":[
+      "429b0109-be54-4d4c-b21c-30111f3c2856",
+      "4d991420-d8c9-431e-a826-6032d4ff44e3",
+      "99da3c01-245f-49a0-9132-61eaaa77fb19"
+    ],
+    "text_unit_ids":[
+      "1145c740-80a4-4052-a2de-f34cef917bcb"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 070\/2015",
+    "target":"DECRETO 14\/2003",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 070\/2015 modifica el Reglamento General N°1 promulgado por el Decreto 14\/2003, reemplazando el Artículo 1.",
+    "document_ids":[
+      "429b0109-be54-4d4c-b21c-30111f3c2856",
+      "4d991420-d8c9-431e-a826-6032d4ff44e3",
+      "99da3c01-245f-49a0-9132-61eaaa77fb19"
+    ],
+    "text_unit_ids":[
+      "1145c740-80a4-4052-a2de-f34cef917bcb"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 219\/2015",
+    "target":"DECRETO 30\/2009",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 219\/2015 deroga al Decreto 30\/2009 a contar de su fecha, el 3 de septiembre de 2015.",
+    "document_ids":[
+      "026d47f1-b63f-49f2-8c41-d15282904cb2",
+      "700a4c6e-846d-4093-bea6-246a1dda659f"
+    ],
+    "text_unit_ids":[
+      "7c7f4bee-999e-4792-bc0c-374bec8e39b2"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 220\/2015",
+    "target":"DECRETO 012\/1998",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 220\/2015 deroga al Decreto 012\/1998 a contar de su fecha.",
+    "document_ids":[
+      "700a4c6e-846d-4093-bea6-246a1dda659f",
+      "e892f796-7485-4015-a2fa-6960d57084b9"
+    ],
+    "text_unit_ids":[
+      "3b7a472e-7283-47b6-a75b-e1a5c39a0941"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 220\/2015",
+    "target":"DECRETO DE NOMBRAMIENTO DEL RECTOR N°02\/2014",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 220\/2015 se basa en el Decreto de nombramiento del Rector N°02\/2014.",
+    "document_ids":[
+      "700a4c6e-846d-4093-bea6-246a1dda659f",
+      "e892f796-7485-4015-a2fa-6960d57084b9"
+    ],
+    "text_unit_ids":[
+      "3b7a472e-7283-47b6-a75b-e1a5c39a0941"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 375\/2015",
+    "target":"DECRETO 14\/1993",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 375\/2015 deroga al Decreto 14\/1993 a contar de su fecha.",
+    "document_ids":[
+      "6912c263-83e9-4427-a521-6d76208d79a1",
+      "75385d69-d4df-46cc-a357-776f8a1675b5"
+    ],
+    "text_unit_ids":[
+      "aab7b4d6-5ca5-44bf-90d5-0720401f2748"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 375\/2015",
+    "target":"DECRETO 027\/2008",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 375\/2015 deroga al Decreto 027\/2008 a contar de su fecha.",
+    "document_ids":[
+      "6912c263-83e9-4427-a521-6d76208d79a1",
+      "75385d69-d4df-46cc-a357-776f8a1675b5"
+    ],
+    "text_unit_ids":[
+      "aab7b4d6-5ca5-44bf-90d5-0720401f2748"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 017\/2016",
+    "target":"DECRETO 14\/1993",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 017\/2016 deroga el Decreto 14\/1993 a contar de su fecha.",
+    "document_ids":[
+      "75385d69-d4df-46cc-a357-776f8a1675b5",
+      "bdbbf28e-3e66-4605-8d9e-8f7b74af125c"
+    ],
+    "text_unit_ids":[
+      "bc313ca0-73be-4824-81f9-725c5044d73b"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 017\/2016",
+    "target":"DECRETO 027\/2008",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 017\/2016 deroga el Decreto 027\/2008 a contar de su fecha.",
+    "document_ids":[
+      "75385d69-d4df-46cc-a357-776f8a1675b5",
+      "bdbbf28e-3e66-4605-8d9e-8f7b74af125c"
+    ],
+    "text_unit_ids":[
+      "bc313ca0-73be-4824-81f9-725c5044d73b"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 017\/2016",
+    "target":"DECRETO 064\/2016",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 064\/2016 modifica el Reglamento de Régimen Curricular para Carreras de Técnico Universitario e Ingeniero con Base Tecnológica promulgado por el Decreto 017\/2016, reemplazando los artículos 27, 28 y 30.",
+    "document_ids":[
+      "b3dc78ac-fc26-4a03-8b56-a8e9ba875b6a",
+      "bdbbf28e-3e66-4605-8d9e-8f7b74af125c"
+    ],
+    "text_unit_ids":[
+      "e965256f-453c-4815-804d-71bb54c89b01"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 131\/2016",
+    "target":"DECRETO 018\/2004",
+    "relationship_type":"DEROGA",
+    "description":"El DECRETO 131\/2016 deroga el DECRETO 018\/2004 a contar de su fecha de entrada en vigor.",
+    "document_ids":[
+      "1b2b6873-3607-4542-b6cb-0c1055735165",
+      "2fc2bc1b-6691-4bb1-b271-7093428e52c3",
+      "7b5caeb2-8c01-4e14-8cc8-4c621f0e7acc",
+      "b3dc78ac-fc26-4a03-8b56-a8e9ba875b6a"
+    ],
+    "text_unit_ids":[
+      "375cc8dc-61ec-46e0-9c00-6e746ae8feb3",
+      "bb655eaa-5656-450d-ab8f-fbe61110e0e3"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 018\/2023",
+    "target":"DECRETO 018\/2004",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 018\/2023 deroga el Decreto 018\/2004 a contar de su fecha.",
+    "document_ids":[
+      "7b5caeb2-8c01-4e14-8cc8-4c621f0e7acc"
+    ],
+    "text_unit_ids":[
+      "3f37801b-7f25-4c1c-9911-491a97eb2d28"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 018\/2023",
+    "target":"DECRETO 02\/2014",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 018\/2023 menciona el Decreto 02\/2014 en el VISTOS, pero no lo modifica ni deroga.",
+    "document_ids":[
+      "7b5caeb2-8c01-4e14-8cc8-4c621f0e7acc"
+    ],
+    "text_unit_ids":[
+      "3f37801b-7f25-4c1c-9911-491a97eb2d28"
+    ],
+    "weight":1.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 144\/2016",
+    "target":"DECRETO 089\/2015",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 144\/2016 deroga al Decreto 089\/2015 a contar de su fecha.",
+    "document_ids":[
+      "2ab6f90d-afe2-49ff-bfd4-4593b88044d5",
+      "7b5caeb2-8c01-4e14-8cc8-4c621f0e7acc"
+    ],
+    "text_unit_ids":[
+      "8e4cc267-011e-442a-813b-09cbc3846a3e"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 182\/2016",
+    "target":"DECRETO 032\/2002",
+    "relationship_type":"REEMPLAZA",
+    "description":"El Decreto 182\/2016 promulga el texto refundido y actualizado del Reglamento de Deberes y Derechos de los Alumnos, reemplazando el texto original promulgado por el Decreto 032\/2002.",
+    "document_ids":[
+      "2ab6f90d-afe2-49ff-bfd4-4593b88044d5",
+      "d6ef6b51-2235-4ab7-bfd6-794d90998f40"
+    ],
+    "text_unit_ids":[
+      "23a88a37-5b61-44e8-bf2e-f4fb49fb1d0f"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 182\/2016",
+    "target":"DECRETO 032\/2005",
+    "relationship_type":"REEMPLAZA",
+    "description":"El Decreto 182\/2016 promulga el texto refundido y actualizado del Reglamento de Deberes y Derechos de los Alumnos, reemplazando las modificaciones introducidas por el Decreto 032\/2005.",
+    "document_ids":[
+      "2ab6f90d-afe2-49ff-bfd4-4593b88044d5",
+      "d6ef6b51-2235-4ab7-bfd6-794d90998f40"
+    ],
+    "text_unit_ids":[
+      "23a88a37-5b61-44e8-bf2e-f4fb49fb1d0f"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 131\/2016",
+    "target":"DECRETO 318\/2016",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 318\/2016 deroga al Decreto 131\/2016 a contar de su fecha.",
+    "document_ids":[
+      "1b2b6873-3607-4542-b6cb-0c1055735165",
+      "2fc2bc1b-6691-4bb1-b271-7093428e52c3"
+    ],
+    "text_unit_ids":[
+      "bb655eaa-5656-450d-ab8f-fbe61110e0e3"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 026\/2017",
+    "target":"DECRETO 023\/2012",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 026\/2017 deroga al Decreto 023\/2012 a contar de su fecha.",
+    "document_ids":[
+      "1b3e3d60-1a11-42f3-95d1-4413754b90f2",
+      "abb752fc-1c8a-4657-9c76-ec959350f995"
+    ],
+    "text_unit_ids":[
+      "cf7c652f-d69f-4e60-9e02-5b502cfe2fc6"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 02\/2014",
+    "target":"DECRETO 260\/2017",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 260\/2017 menciona el Decreto de nombramiento del Rector N°02\/2014 como antecedente legal.",
+    "document_ids":[
+      "a4b5dcd0-1fee-4c9e-938c-169947354213",
+      "abb752fc-1c8a-4657-9c76-ec959350f995"
+    ],
+    "text_unit_ids":[
+      "07090709-e984-4b0e-ae3d-415811701f3d"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 291\/2017",
+    "target":"DECRETO 002\/2006",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 291\/2017 deroga el Decreto 002\/2006 a contar de su fecha.",
+    "document_ids":[
+      "57e9b154-3a1e-4616-9bc3-9460e73b09c3",
+      "a4b5dcd0-1fee-4c9e-938c-169947354213"
+    ],
+    "text_unit_ids":[
+      "92202a4c-4272-4029-a60e-aa5191306567"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 014\/2006",
+    "target":"DECRETO 291\/2017",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 291\/2017 menciona el Decreto 014\/2006 como antecedente.",
+    "document_ids":[
+      "57e9b154-3a1e-4616-9bc3-9460e73b09c3",
+      "a4b5dcd0-1fee-4c9e-938c-169947354213"
+    ],
+    "text_unit_ids":[
+      "92202a4c-4272-4029-a60e-aa5191306567"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 316\/2017",
+    "target":"DECRETO 045\/2008",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 316\/2017 modifica el Reglamento del Servicio Médico de Trabajadores N°2 promulgado por el Decreto 045\/2008.",
+    "document_ids":[
+      "57e9b154-3a1e-4616-9bc3-9460e73b09c3",
+      "71dc6b99-5110-473e-bbc9-4b8f29e64c05"
+    ],
+    "text_unit_ids":[
+      "b33d33ca-3dff-4ec3-a987-d233ea5ad2e8"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 507\/2017",
+    "target":"DECRETO 009\/2003",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 507\/2017 integra la versión corregida del Reglamento de Carrera Académica promulgada por el Decreto 009\/2003.",
+    "document_ids":[
+      "3e088d7b-34e4-454e-b6fc-82c634e32b0d",
+      "71dc6b99-5110-473e-bbc9-4b8f29e64c05"
+    ],
+    "text_unit_ids":[
+      "60d93a5b-197c-4ee0-aced-6095e4bbbab7"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 507\/2017",
+    "target":"DECRETO 032\/2006",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 507\/2017 integra la corrección del error involuntario en el artículo 47 del Reglamento de Carrera Académica promulgada por el Decreto 032\/2006.",
+    "document_ids":[
+      "3e088d7b-34e4-454e-b6fc-82c634e32b0d",
+      "71dc6b99-5110-473e-bbc9-4b8f29e64c05"
+    ],
+    "text_unit_ids":[
+      "60d93a5b-197c-4ee0-aced-6095e4bbbab7"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 507\/2017",
+    "target":"DECRETO 022\/2014",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 507\/2017 integra las modificaciones a los artículos 42 y 43 del Reglamento de Carrera Académica promulgadas por el Decreto 022\/2014.",
+    "document_ids":[
+      "3e088d7b-34e4-454e-b6fc-82c634e32b0d",
+      "71dc6b99-5110-473e-bbc9-4b8f29e64c05"
+    ],
+    "text_unit_ids":[
+      "60d93a5b-197c-4ee0-aced-6095e4bbbab7"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 507\/2017",
+    "target":"DECRETO 011\/2015",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 507\/2017 integra la modificación a la conformación de la Comisión Central de Evaluación (CCE) promulgada por el Decreto 011\/2015.",
+    "document_ids":[
+      "3e088d7b-34e4-454e-b6fc-82c634e32b0d",
+      "71dc6b99-5110-473e-bbc9-4b8f29e64c05"
+    ],
+    "text_unit_ids":[
+      "60d93a5b-197c-4ee0-aced-6095e4bbbab7"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 02\/2014",
+    "target":"DECRETO 507\/2017",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 507\/2017 menciona el Decreto 02\/2014 que nombra al Rector como base legal.",
+    "document_ids":[
+      "3e088d7b-34e4-454e-b6fc-82c634e32b0d",
+      "71dc6b99-5110-473e-bbc9-4b8f29e64c05"
+    ],
+    "text_unit_ids":[
+      "60d93a5b-197c-4ee0-aced-6095e4bbbab7"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 056\/2018",
+    "target":"DECRETO 24\/1994",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 056\/2018 modifica el Reglamento del Comité de Coordinación y Desarrollo Docente promulgado por el Decreto 24\/1994.",
+    "document_ids":[
+      "650870dd-e480-422e-a4e7-8d8e42c68f8d",
+      "ad2360c1-44e8-4e05-85f5-d1e5848620a2"
+    ],
+    "text_unit_ids":[
+      "b85a68f1-9604-4378-984f-2df96720ec14"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 133\/2018",
+    "target":"DECRETO 045\/2014",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 133\/2018 modifica el Decreto 045\/2014, reemplazando el inciso segundo del Artículo 3º del Reglamento General de Votaciones y Elecciones.",
+    "document_ids":[
+      "7ec77a0f-dde8-44ac-9d23-99da85e8cad5",
+      "ad2360c1-44e8-4e05-85f5-d1e5848620a2"
+    ],
+    "text_unit_ids":[
+      "6cbe8583-e383-4a00-af44-d4ef2a50edb5"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 074\/2019",
+    "target":"DECRETO 144\/2016",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 074\/2019 modifica el Reglamento Orgánico de la Administración Superior promulgado por el Decreto 144\/2016, reemplazando y suprimiendo varias letras de los artículos 27.",
+    "document_ids":[
+      "487e90ac-5143-4c4a-a4b9-4d406e0fa000",
+      "7ec77a0f-dde8-44ac-9d23-99da85e8cad5"
+    ],
+    "text_unit_ids":[
+      "37788194-7abd-4fc3-805e-9b8213de0454"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 151\/2019",
+    "target":"DECRETO 144\/2016",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 151\/2019 deroga al Decreto 144\/2016 a contar de su fecha.",
+    "document_ids":[
+      "0ca8ec1c-23dd-45cf-9210-97f4517a2355",
+      "487e90ac-5143-4c4a-a4b9-4d406e0fa000"
+    ],
+    "text_unit_ids":[
+      "f0453f9f-9cbd-4434-8267-d758950c73ee"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 074\/2019",
+    "target":"DECRETO 151\/2019",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 151\/2019 referencia el Decreto 074\/2019 como antecedente de las modificaciones al Reglamento Orgánico de la Administración Superior.",
+    "document_ids":[
+      "0ca8ec1c-23dd-45cf-9210-97f4517a2355",
+      "487e90ac-5143-4c4a-a4b9-4d406e0fa000"
+    ],
+    "text_unit_ids":[
+      "f0453f9f-9cbd-4434-8267-d758950c73ee"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 151\/2019",
+    "target":"DECRETO 333\/2019",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 333\/2019 introduce modificaciones al Reglamento Orgánico promulgado por el Decreto 151\/2019, fijando su texto refundido, sistematizado y actualizado.",
+    "document_ids":[
+      "0ca8ec1c-23dd-45cf-9210-97f4517a2355",
+      "95391726-105d-4666-8660-964a406a646a"
+    ],
+    "text_unit_ids":[
+      "4e7ffff1-433e-4458-9d31-be420c666efc"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 074\/2019",
+    "target":"DECRETO 333\/2019",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 333\/2019 deroga el Decreto 074\/2019 a contar de su fecha.",
+    "document_ids":[
+      "0ca8ec1c-23dd-45cf-9210-97f4517a2355",
+      "95391726-105d-4666-8660-964a406a646a"
+    ],
+    "text_unit_ids":[
+      "4e7ffff1-433e-4458-9d31-be420c666efc"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2019",
+    "target":"DECRETO 016\/2011",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 089\/2019 modifica el Reglamento Orgánico de la Administración Superior promulgado por el Decreto 016\/2011.",
+    "document_ids":[
+      "95391726-105d-4666-8660-964a406a646a"
+    ],
+    "text_unit_ids":[
+      "8ef08756-e86b-4c53-996f-2a96fdf6cf28"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2018",
+    "target":"DECRETO 089\/2019",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 089\/2019 se basa en el nombramiento del Rector establecido por el Decreto 01\/2018.",
+    "document_ids":[
+      "95391726-105d-4666-8660-964a406a646a"
+    ],
+    "text_unit_ids":[
+      "8ef08756-e86b-4c53-996f-2a96fdf6cf28"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 364\/2019",
+    "target":"DECRETO 018\/2010",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 364\/2019 deroga el Decreto 018\/2010 a contar de su fecha.",
+    "document_ids":[
+      "75cae68f-337b-4388-bf14-c0e500423b25",
+      "95391726-105d-4666-8660-964a406a646a"
+    ],
+    "text_unit_ids":[
+      "754ffa6c-c110-4ff7-b807-7500202ae147"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 364\/2019",
+    "target":"DECRETO 006\/2012",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 364\/2019 deroga el Decreto 006\/2012 a contar de su fecha.",
+    "document_ids":[
+      "75cae68f-337b-4388-bf14-c0e500423b25",
+      "95391726-105d-4666-8660-964a406a646a"
+    ],
+    "text_unit_ids":[
+      "754ffa6c-c110-4ff7-b807-7500202ae147"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 006\/2012",
+    "target":"DECRETO 018\/2010",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 018\/2010 y el Decreto 006\/2012 fueron derogados por el presente decreto.",
+    "document_ids":[
+      "75cae68f-337b-4388-bf14-c0e500423b25"
+    ],
+    "text_unit_ids":[
+      "18852ed2-0948-423b-b098-8a5751f5406d"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2020",
+    "target":"DECRETO 001\/2014",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 001\/2020 modifica el Decreto 001\/2014 reemplazando el artículo 1º y fijando el texto refundido y actualizado del Reglamento de Sala del Consejo Superior.",
+    "document_ids":[
+      "75cae68f-337b-4388-bf14-c0e500423b25",
+      "81a26d0f-4d17-4a77-924e-c13a5010b491"
+    ],
+    "text_unit_ids":[
+      "b6893c9e-4628-446b-a234-a5d0dc47e286"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2018",
+    "target":"DECRETO 182\/2020",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 182\/2020 complementa y referencia al Decreto 01\/2018, que confiere facultades al Rector para promulgar normas.",
+    "document_ids":[
+      "c7288a75-243b-4ee6-9b96-ca36d46e3fdd",
+      "ff7407fb-8e36-467d-89e6-67fa32c65367"
+    ],
+    "text_unit_ids":[
+      "d12959ab-92bf-47a6-b04b-ecf22a7dcaee"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 064\/2016",
+    "target":"DECRETO 182\/2020",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 182\/2020 complementa y referencia al Decreto 064\/2016, que promulgó el Reglamento Régimen Curricular para Carreras de Técnico Universitario e Ingeniero con Base Tecnológica.",
+    "document_ids":[
+      "c7288a75-243b-4ee6-9b96-ca36d46e3fdd",
+      "ff7407fb-8e36-467d-89e6-67fa32c65367"
+    ],
+    "text_unit_ids":[
+      "d12959ab-92bf-47a6-b04b-ecf22a7dcaee"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 288\/2020",
+    "target":"DECRETO 507\/2017",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 288\/2020 promulga el nuevo Reglamento de la Carrera Académica, actualizando la versión refundida y actualizada promulgada por el Decreto 507\/2017.",
+    "document_ids":[
+      "bfb4498d-4e9a-4e4b-8ced-0c34fb6f821b",
+      "ff7407fb-8e36-467d-89e6-67fa32c65367"
+    ],
+    "text_unit_ids":[
+      "efc6626c-0ed5-45b3-80a3-1c05217bef07"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 334\/2020",
+    "target":"DECRETO 133\/2018",
+    "relationship_type":"REEMPLAZA",
+    "description":"El Decreto 334\/2020 promulga la versión refundida y actualizada del Reglamento General sobre Votaciones y Elecciones, que fue fijado por el Decreto 133\/2018.",
+    "document_ids":[
+      "ae2e4ad5-7e4e-4f11-83ac-0a9a816d8fe3",
+      "bfb4498d-4e9a-4e4b-8ced-0c34fb6f821b"
+    ],
+    "text_unit_ids":[
+      "5a44ef84-c6eb-423c-b52e-9eebfbd5bf5a"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2018",
+    "target":"DECRETO 290\/2021",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 290\/2021 se basa en el Decreto de nombramiento del Rector, N°01\/2018, para promulgar el Reglamento del Programa de Incentivos.",
+    "document_ids":[
+      "ae2e4ad5-7e4e-4f11-83ac-0a9a816d8fe3",
+      "e6397715-ab8e-4ace-a72c-63e7c8892f37"
+    ],
+    "text_unit_ids":[
+      "0122bf97-68b0-45de-870d-6110c999455c"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 333\/2019",
+    "target":"DECRETO 393\/2021",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 393\/2021 se basa en el Decreto 333\/2019, que promulgó modificaciones anteriores al Reglamento Orgánico de la Administración Superior.",
+    "document_ids":[
+      "b3624670-0834-4b49-94b6-de1cfe265c6f",
+      "e6397715-ab8e-4ace-a72c-63e7c8892f37"
+    ],
+    "text_unit_ids":[
+      "df257917-f8c0-4ca0-967e-d24e756b2e76"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 393\/2021",
+    "target":"DECRETO 445\/2021",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 445\/2021 se basa en el Decreto 393\/2021 para promulgar modificaciones al Reglamento Orgánico de la Administración Superior.",
+    "document_ids":[
+      "57852ef4-55c0-4fe8-9f6b-310547f1bd09",
+      "b3624670-0834-4b49-94b6-de1cfe265c6f"
+    ],
+    "text_unit_ids":[
+      "75941c05-4b54-49ff-844b-588b7b489e66"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 445\/2021",
+    "target":"DECRETO 333\/2019",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 445\/2021 deroga el Decreto 333\/2019 a contar de su fecha.",
+    "document_ids":[
+      "57852ef4-55c0-4fe8-9f6b-310547f1bd09",
+      "b3624670-0834-4b49-94b6-de1cfe265c6f"
+    ],
+    "text_unit_ids":[
+      "75941c05-4b54-49ff-844b-588b7b489e66"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 393\/2021",
+    "target":"DECRETO 445\/2021",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 445\/2021 deroga al Decreto 393\/2021 a contar de su fecha.",
+    "document_ids":[
+      "57852ef4-55c0-4fe8-9f6b-310547f1bd09"
+    ],
+    "text_unit_ids":[
+      "2ea5e256-3bf8-48fe-82b4-1ac7e47d7664"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 488\/2021",
+    "target":"DECRETO DE NOMBRAMIENTO DEL RECTOR 01\/2018",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 488\/2021 se basa en el Decreto de nombramiento del Rector 01\/2018 como antecedente.",
+    "document_ids":[
+      "57852ef4-55c0-4fe8-9f6b-310547f1bd09",
+      "a7ef0fce-68a5-4b3b-a486-e637d02d14eb"
+    ],
+    "text_unit_ids":[
+      "0260d6f4-3e95-4a9b-8627-ae939313c873"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 027\/2022",
+    "target":"DECRETO 038\/2010",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 027\/2022 menciona al Decreto 038\/2010 como antecedente, pero no lo modifica ni deroga.",
+    "document_ids":[
+      "a7ef0fce-68a5-4b3b-a486-e637d02d14eb",
+      "f137ed9e-f9d4-4e86-88cd-65394a0f1ffd"
+    ],
+    "text_unit_ids":[
+      "47d244a6-504a-4d91-b522-771aa303d7c7"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 027\/2022",
+    "target":"DECRETO 060\/2010",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 027\/2022 menciona al Decreto 060\/2010 como antecedente, pero no lo modifica ni deroga.",
+    "document_ids":[
+      "a7ef0fce-68a5-4b3b-a486-e637d02d14eb",
+      "f137ed9e-f9d4-4e86-88cd-65394a0f1ffd"
+    ],
+    "text_unit_ids":[
+      "47d244a6-504a-4d91-b522-771aa303d7c7"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 396\/2022",
+    "target":"DECRETO 026\/1999",
+    "relationship_type":"REEMPLAZA",
+    "description":"El Decreto 396\/2022 reemplaza en su totalidad el Decreto 26\/1999.",
+    "document_ids":[
+      "ae0a0791-4271-4e65-8cde-659313484d25",
+      "f137ed9e-f9d4-4e86-88cd-65394a0f1ffd"
+    ],
+    "text_unit_ids":[
+      "32ec595b-efbd-4349-969e-db1d43373819"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 017\/2022",
+    "target":"DECRETO 396\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 396\/2022 menciona el Decreto 017\/2022 como antecedente.",
+    "document_ids":[
+      "ae0a0791-4271-4e65-8cde-659313484d25",
+      "f137ed9e-f9d4-4e86-88cd-65394a0f1ffd"
+    ],
+    "text_unit_ids":[
+      "32ec595b-efbd-4349-969e-db1d43373819"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2018",
+    "target":"DECRETO 405\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 405\/2022 menciona el Decreto 01\/2018, que nombró al Rector de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "39b1432b-f4d1-4f29-9f97-841083c25fb1",
+      "ae0a0791-4271-4e65-8cde-659313484d25"
+    ],
+    "text_unit_ids":[
+      "e0135c0e-8d7b-45cb-a2e8-b642fc3e3d37"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 497\/2022",
+    "target":"DECRETO 445\/2021",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 497\/2022 modifica y actualiza el texto refundido del Reglamento Orgánico de la Administración Superior, que fue promulgado y fijado por el Decreto 445\/2021.",
+    "document_ids":[
+      "39b1432b-f4d1-4f29-9f97-841083c25fb1",
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "c5368272-ffd4-429f-a10e-4695f04e970e"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 497\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 497\/2022 se basa en las facultades conferidas por el Decreto de nombramiento del Rector N°01\/2022 para promulgar modificaciones al Reglamento Orgánico.",
+    "document_ids":[
+      "39b1432b-f4d1-4f29-9f97-841083c25fb1",
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "c5368272-ffd4-429f-a10e-4695f04e970e"
+    ],
+    "weight":4.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 016\/2011",
+    "target":"DECRETO 090\/2016",
+    "relationship_type":"COMPLEMENTA",
+    "description":"El Decreto 090\/2016 complementa el Reglamento Orgánico de la Administración Superior promulgado por el Decreto 016\/2011.",
+    "document_ids":[
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "bbb8ad09-f604-4727-9a6c-aa2f37b77e32"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 090\/2016",
+    "target":"DECRETO 016\/2011",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 090\/2016 modifica el artículo 3 del Reglamento Orgánico de la Administración Superior promulgado por el Decreto 016\/2011.",
+    "document_ids":[
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "bbb8ad09-f604-4727-9a6c-aa2f37b77e32"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 075\/2020",
+    "target":"DECRETO 016\/2011",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 075\/2020 deroga al Decreto 016\/2011 a partir de su fecha de entrada en vigor, anulando sus efectos legales.",
+    "document_ids":[
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "16faf242-2067-4335-b08d-4698d50a2fbc",
+      "26a0a2c8-bbd9-47b8-97b0-5d94cacc1662"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 075\/2020",
+    "target":"DECRETO 052\/2008",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 075\/2020 deroga al Decreto 052\/2008 a partir de su fecha de entrada en vigor, anulando sus efectos legales.",
+    "document_ids":[
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "16faf242-2067-4335-b08d-4698d50a2fbc",
+      "26a0a2c8-bbd9-47b8-97b0-5d94cacc1662"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 396\/2022",
+    "target":"DECRETO 585\/2022",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 585\/2022 deroga el Decreto 396\/2022 a contar de su fecha.",
+    "document_ids":[
+      "577fc128-77ab-49ae-a1b0-bad3568da8c7",
+      "c97a2b96-9cd2-4f02-95ca-99a5a2d544be",
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "575d7e3b-e2e4-4314-9996-12790d8f8510"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 585\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 585\/2022 menciona el Decreto de nombramiento del Rector como antecedente.",
+    "document_ids":[
+      "577fc128-77ab-49ae-a1b0-bad3568da8c7",
+      "c97a2b96-9cd2-4f02-95ca-99a5a2d544be",
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "575d7e3b-e2e4-4314-9996-12790d8f8510"
+    ],
+    "weight":1.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 026\/1999",
+    "target":"DECRETO 069\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 069\/2023 menciona el Decreto 026\/1999 como antecedente.",
+    "document_ids":[
+      "577fc128-77ab-49ae-a1b0-bad3568da8c7",
+      "c97a2b96-9cd2-4f02-95ca-99a5a2d544be",
+      "d7254579-9d44-4651-b483-639286080083"
+    ],
+    "text_unit_ids":[
+      "575d7e3b-e2e4-4314-9996-12790d8f8510"
+    ],
+    "weight":1.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 029\/2001",
+    "target":"DECRETO 026\/1999",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 029\/2001 modifica el Decreto 026\/1999.",
+    "document_ids":[
+      "c97a2b96-9cd2-4f02-95ca-99a5a2d544be"
+    ],
+    "text_unit_ids":[
+      "71aa5f12-d74b-4447-8481-db4503bca853"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 017\/1992",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 106\/2023 menciona el Decreto 017\/1992 en el contexto de la reforma de los Estatutos de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "c97a2b96-9cd2-4f02-95ca-99a5a2d544be",
+      "d38ad86e-134e-447f-b66d-ed5e82254660"
+    ],
+    "text_unit_ids":[
+      "ca3838dd-1b82-4fa6-9e5e-e24345c0b379"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 055\/2020",
+    "target":"DECRETO 126\/2023",
+    "relationship_type":"COMPLEMENTA",
+    "description":"El Decreto 126\/2023 complementa el Decreto 055\/2020, promulgando un nuevo reglamento que amplía y actualiza las normas de bioseguridad y ética científica.",
+    "document_ids":[
+      "172afcbb-5954-4320-bd9d-bbc3b0c9e084",
+      "d38ad86e-134e-447f-b66d-ed5e82254660"
+    ],
+    "text_unit_ids":[
+      "280a258f-20a3-42ae-af2a-6f8578369424"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 126\/2023",
+    "target":"DECRETO DE NOMBRAMIENTO DEL RECTOR N°01\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 126\/2023 menciona el Decreto de nombramiento del Rector 01\/2022 como antecedente para su promulgación.",
+    "document_ids":[
+      "172afcbb-5954-4320-bd9d-bbc3b0c9e084",
+      "d38ad86e-134e-447f-b66d-ed5e82254660"
+    ],
+    "text_unit_ids":[
+      "280a258f-20a3-42ae-af2a-6f8578369424"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 126\/2023",
+    "target":"DECRETO 055\/2020",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 126\/2023 deroga el Decreto 055\/2020, que promulgó el Reglamento Interno del Comité de Bioética y Bioseguridad para la Investigación.",
+    "document_ids":[
+      "172afcbb-5954-4320-bd9d-bbc3b0c9e084",
+      "bc1398a8-0be2-4581-8a6f-78f4a8977c47"
+    ],
+    "text_unit_ids":[
+      "b6c98b52-8c8d-4785-9a3c-b9c749060cd3"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 160\/2023",
+    "target":"DECRETO 055\/2020",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 160\/2023 deroga el Decreto 055\/2020, que promulgó el Reglamento Interno del Comité de Bioética y Bioseguridad para la Investigación.",
+    "document_ids":[
+      "172afcbb-5954-4320-bd9d-bbc3b0c9e084",
+      "bc1398a8-0be2-4581-8a6f-78f4a8977c47"
+    ],
+    "text_unit_ids":[
+      "b6c98b52-8c8d-4785-9a3c-b9c749060cd3"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 175\/2023",
+    "target":"DECRETO 055\/2020",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 175\/2023 deroga al Decreto 055\/2020 a contar de su fecha.",
+    "document_ids":[
+      "bc1398a8-0be2-4581-8a6f-78f4a8977c47",
+      "f4d7d626-9500-46e8-9a8e-09bd61ed0179"
+    ],
+    "text_unit_ids":[
+      "187ed2b7-6a99-4023-89d8-7b6448923270"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 126\/2023",
+    "target":"DECRETO 175\/2023",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 175\/2023 deroga al Decreto 126\/2023 a contar de su fecha.",
+    "document_ids":[
+      "bc1398a8-0be2-4581-8a6f-78f4a8977c47",
+      "f4d7d626-9500-46e8-9a8e-09bd61ed0179"
+    ],
+    "text_unit_ids":[
+      "187ed2b7-6a99-4023-89d8-7b6448923270"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 003\/2010",
+    "target":"DECRETO 175\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 175\/2023 menciona el Decreto 003\/2010 como antecedente.",
+    "document_ids":[
+      "bc1398a8-0be2-4581-8a6f-78f4a8977c47",
+      "f4d7d626-9500-46e8-9a8e-09bd61ed0179"
+    ],
+    "text_unit_ids":[
+      "187ed2b7-6a99-4023-89d8-7b6448923270"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 175\/2023",
+    "target":"DECRETO 182\/2016",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 175\/2023 menciona el Decreto 182\/2016 como antecedente.",
+    "document_ids":[
+      "bc1398a8-0be2-4581-8a6f-78f4a8977c47",
+      "f4d7d626-9500-46e8-9a8e-09bd61ed0179"
+    ],
+    "text_unit_ids":[
+      "187ed2b7-6a99-4023-89d8-7b6448923270"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 175\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 175\/2023 menciona el Decreto 01\/2022 como antecedente.",
+    "document_ids":[
+      "bc1398a8-0be2-4581-8a6f-78f4a8977c47",
+      "f4d7d626-9500-46e8-9a8e-09bd61ed0179"
+    ],
+    "text_unit_ids":[
+      "187ed2b7-6a99-4023-89d8-7b6448923270"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 216\/2023",
+    "target":"DECRETO 003\/2010",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 216\/2023 deroga al Decreto 003\/2010 a contar de su fecha.",
+    "document_ids":[
+      "cebf013f-b388-406a-ad56-7b8bf360cc09",
+      "f4d7d626-9500-46e8-9a8e-09bd61ed0179"
+    ],
+    "text_unit_ids":[
+      "6a22e3fa-2b28-4a6a-93e9-542a57606d28"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 216\/2023",
+    "target":"DECRETO 182\/2016",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 216\/2023 deroga al Decreto 182\/2016 a contar de su fecha.",
+    "document_ids":[
+      "cebf013f-b388-406a-ad56-7b8bf360cc09",
+      "f4d7d626-9500-46e8-9a8e-09bd61ed0179"
+    ],
+    "text_unit_ids":[
+      "6a22e3fa-2b28-4a6a-93e9-542a57606d28"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 321\/2023",
+    "target":"DECRETO 219\/2015",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 321\/2023 deroga al Decreto 219\/2015 a contar de su fecha.",
+    "document_ids":[
+      "cebf013f-b388-406a-ad56-7b8bf360cc09",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "dfa88fe1-61b4-4e61-afe8-5c373f81d770"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 219\/2015",
+    "target":"DECRETO 030\/2009",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 219\/2015 deroga al Decreto 030\/2009 a contar de su fecha.",
+    "document_ids":[
+      "cebf013f-b388-406a-ad56-7b8bf360cc09",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "dfa88fe1-61b4-4e61-afe8-5c373f81d770"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 497\/2022",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 497\/2022 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 039\/2014",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 039\/2014 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 057\/2014",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 057\/2014 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"RESOLUCIÓN 1815\/2014",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga la Resolución 1815\/2014 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 118\/2015",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 118\/2015 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 119\/2015",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 119\/2015 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 143\/2015",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 143\/2015 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 144\/2015",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 144\/2015 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 224\/2016",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 224\/2016 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 225\/2016",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 225\/2016 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 298\/2016",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 298\/2016 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 039\/2019",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 039\/2019 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 433\/2021",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 433\/2021 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 447\/2022",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 447\/2022 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 458\/2022",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 458\/2022 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 459\/2022",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 459\/2022 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 383\/2023",
+    "target":"DECRETO 474\/2022",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 383\/2023 deroga el Decreto 474\/2022 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f2ba1310-b8f5-41fd-89f8-cb3267c4084d"
+    ],
+    "text_unit_ids":[
+      "25667703-6f57-4a6c-9974-a593a069b365"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 390\/2023",
+    "target":"DECRETO 260\/2017",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 390\/2023 deroga al Decreto 260\/2017 a contar de su fecha, el 7 de agosto de 2023.",
+    "document_ids":[
+      "cc043ed3-2dd1-41d3-9efa-34fa436b1dc6",
+      "f3cc1fce-6f6f-4581-be6f-75e89a4d3d07"
+    ],
+    "text_unit_ids":[
+      "d1e601cc-31de-401a-8bc0-c3e81d39e037"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 651\/2023",
+    "target":"DECRETO 030\/2007",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 651\/2023 deroga al Decreto 030\/2007 a contar del 16 de diciembre de 2023.",
+    "document_ids":[
+      "e551d52c-59a5-44f5-9fcb-29ba448fbf6e",
+      "f3cc1fce-6f6f-4581-be6f-75e89a4d3d07"
+    ],
+    "text_unit_ids":[
+      "c5b45ce0-ca52-4fcf-9c85-541bf9b27f7b"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 056\/2024",
+    "target":"DECRETO 175\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 056\/2024 se basa en el Decreto 175\/2023, que promulgó el Reglamento Institucional de Derechos, Deberes y Disciplina del Estudiantado.",
+    "document_ids":[
+      "d2b500d9-b382-4c4b-887b-b0d3c6fdb6eb",
+      "e551d52c-59a5-44f5-9fcb-29ba448fbf6e"
+    ],
+    "text_unit_ids":[
+      "5d8b83ad-648b-46ad-b2fe-fd007e3141ff"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 056\/2024",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 056\/2024 se basa en el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "d2b500d9-b382-4c4b-887b-b0d3c6fdb6eb",
+      "e551d52c-59a5-44f5-9fcb-29ba448fbf6e"
+    ],
+    "text_unit_ids":[
+      "5d8b83ad-648b-46ad-b2fe-fd007e3141ff"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 056\/2024",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 056\/2024 se basa en el Decreto 01\/2022, que nombró al Rector.",
+    "document_ids":[
+      "d2b500d9-b382-4c4b-887b-b0d3c6fdb6eb",
+      "e551d52c-59a5-44f5-9fcb-29ba448fbf6e"
+    ],
+    "text_unit_ids":[
+      "5d8b83ad-648b-46ad-b2fe-fd007e3141ff"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 346\/2024",
+    "target":"DECRETO 651\/2023",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 346\/2024 modifica el Reglamento Interno de Orden, Higiene y Seguridad promulgado por el Decreto 651\/2023, incorporando el Anexo N°2 'Protocolo de Prevención del Acoso Sexual, Laboral y la Violencia en el Trabajo'.",
+    "document_ids":[
+      "5d04b8c8-82e5-4b8a-a368-12ffb318ad3b",
+      "8240c08d-7b4c-4ac2-ba64-2ae88a3896ac",
+      "d2b500d9-b382-4c4b-887b-b0d3c6fdb6eb"
+    ],
+    "text_unit_ids":[
+      "c075c8d2-1d48-49a8-b01e-55575008a367"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 362\/2024",
+    "target":"DECRETO 383\/2023",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 362\/2024 deroga al Decreto 383\/2023 a contar de la fecha del presente Decreto.",
+    "document_ids":[
+      "7b3501c9-e6b7-4c00-97aa-ac14cb82ae74",
+      "8240c08d-7b4c-4ac2-ba64-2ae88a3896ac"
+    ],
+    "text_unit_ids":[
+      "b04f77da-6d9f-4e04-baad-9d3899bb54db"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 362\/2024",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 362\/2024 menciona el Decreto 106\/2023 como antecedente, pero no lo modifica ni deroga.",
+    "document_ids":[
+      "7b3501c9-e6b7-4c00-97aa-ac14cb82ae74",
+      "8240c08d-7b4c-4ac2-ba64-2ae88a3896ac"
+    ],
+    "text_unit_ids":[
+      "b04f77da-6d9f-4e04-baad-9d3899bb54db"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 362\/2024",
+    "target":"DECRETO DE NOMBRAMIENTO DEL RECTOR N°01\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 362\/2024 menciona el Decreto de nombramiento del Rector 01\/2022 como antecedente, pero no lo modifica ni deroga.",
+    "document_ids":[
+      "7b3501c9-e6b7-4c00-97aa-ac14cb82ae74",
+      "8240c08d-7b4c-4ac2-ba64-2ae88a3896ac"
+    ],
+    "text_unit_ids":[
+      "b04f77da-6d9f-4e04-baad-9d3899bb54db"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 362\/2024",
+    "target":"DR 022\/2014",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 362\/2024 modifica la interpretación de los requisitos de jerarquía académica para asumir cargos directivos establecidos en el DR 022\/2014.",
+    "document_ids":[
+      "3bfc86bc-641e-4c98-8205-632ac3717998",
+      "7b3501c9-e6b7-4c00-97aa-ac14cb82ae74",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "3ef4ce10-fa1c-4933-89e8-2330c0fdca34"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 405\/2024",
+    "target":"DECRETO 651\/2023",
+    "relationship_type":"COMPLEMENTA",
+    "description":"El Decreto 405\/2024 establece la entrada en vigencia de las modificaciones al Reglamento Interno de Orden, Higiene y Seguridad promulgado por el Decreto 651\/2023.",
+    "document_ids":[
+      "3bfc86bc-641e-4c98-8205-632ac3717998",
+      "7b3501c9-e6b7-4c00-97aa-ac14cb82ae74",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "3ef4ce10-fa1c-4933-89e8-2330c0fdca34"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 346\/2024",
+    "target":"DECRETO 405\/2024",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 405\/2024 menciona el Decreto 346\/2024, que promulgó las modificaciones al Reglamento Interno de Orden, Higiene y Seguridad.",
+    "document_ids":[
+      "3bfc86bc-641e-4c98-8205-632ac3717998",
+      "7b3501c9-e6b7-4c00-97aa-ac14cb82ae74",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "3ef4ce10-fa1c-4933-89e8-2330c0fdca34"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 405\/2024",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 405\/2024 menciona el Decreto 106\/2023, que promulgó el Estatuto de la Universidad.",
+    "document_ids":[
+      "3bfc86bc-641e-4c98-8205-632ac3717998",
+      "7b3501c9-e6b7-4c00-97aa-ac14cb82ae74",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "3ef4ce10-fa1c-4933-89e8-2330c0fdca34"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 074\/2024",
+    "target":"DECRETO 583\/2024",
+    "relationship_type":"COMPLEMENTA",
+    "description":"El Decreto 583\/2024 complementa la Política General de Seguridad de la Información, de Privacidad y Uso de Datos Personales, y de Gobierno de Datos promulgada por el Decreto 074\/2024.",
+    "document_ids":[
+      "3bfc86bc-641e-4c98-8205-632ac3717998",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "80250acd-f6b5-4e5b-84c3-a3a2b5196db5"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 583\/2024",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 583\/2024 hace referencia al Estatuto de la Universidad promulgado por el Decreto 106\/2023 como antecedente normativo.",
+    "document_ids":[
+      "3bfc86bc-641e-4c98-8205-632ac3717998",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "80250acd-f6b5-4e5b-84c3-a3a2b5196db5"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 583\/2024",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 583\/2024 hace referencia al nombramiento del Rector por el Decreto 001\/2022 como antecedente normativo.",
+    "document_ids":[
+      "3bfc86bc-641e-4c98-8205-632ac3717998",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "80250acd-f6b5-4e5b-84c3-a3a2b5196db5"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2025",
+    "target":"DECRETO 001\/2020",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 001\/2025 modifica el Decreto 001\/2020, incorporando un preámbulo, adecuando el lenguaje inclusivo y modificando el artículo 27.",
+    "document_ids":[
+      "40f4b1ce-178b-45ce-8569-9907327cadee",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "99b46358-b2f2-4a32-90ac-0cb14fb31a19"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2025",
+    "target":"DECRETO 214\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 001\/2025 referencia el Decreto 214\/2025, que nombra a la Sra. Yessica Cartajena Guerra como Presidenta del Consejo Superior.",
+    "document_ids":[
+      "40f4b1ce-178b-45ce-8569-9907327cadee",
+      "cfa1cc0a-8ed1-4d6f-87c8-4e4bd26948c2"
+    ],
+    "text_unit_ids":[
+      "99b46358-b2f2-4a32-90ac-0cb14fb31a19"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 037\/2025",
+    "target":"DECRETO 364\/2019",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto de Rectoría N°037\/2025 deroga el Decreto de Rectoría N°364\/2019 a contar de su fecha de promulgación.",
+    "document_ids":[
+      "2743f91b-eaed-4711-ab98-06e79a0fd07e",
+      "40f4b1ce-178b-45ce-8569-9907327cadee"
+    ],
+    "text_unit_ids":[
+      "928cb3bf-fa5c-440d-a2fe-69d6c40dfaca",
+      "ce0868e7-c919-4160-8f3c-c85e5a3e13b7"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 037\/2025",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto de Rectoría N°037\/2025 referencia el Decreto de Rectoría N°106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "2743f91b-eaed-4711-ab98-06e79a0fd07e",
+      "40f4b1ce-178b-45ce-8569-9907327cadee"
+    ],
+    "text_unit_ids":[
+      "ce0868e7-c919-4160-8f3c-c85e5a3e13b7"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 037\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto de Rectoría N°037\/2025 referencia el Decreto de nombramiento del Rector N°001\/2022, que nombró al Rector de la Universidad.",
+    "document_ids":[
+      "2743f91b-eaed-4711-ab98-06e79a0fd07e",
+      "40f4b1ce-178b-45ce-8569-9907327cadee"
+    ],
+    "text_unit_ids":[
+      "ce0868e7-c919-4160-8f3c-c85e5a3e13b7"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 038\/2025",
+    "target":"DECRETO 321\/2023",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 038\/2025 deroga al Decreto 321\/2023 a contar de su fecha.",
+    "document_ids":[
+      "2743f91b-eaed-4711-ab98-06e79a0fd07e",
+      "a2649744-4986-472a-9ead-fffd67b98e6c"
+    ],
+    "text_unit_ids":[
+      "0bc600f6-afc0-4a92-b8f3-b98857a24af3"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 038\/2025",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 038\/2025 hace referencia al Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "2743f91b-eaed-4711-ab98-06e79a0fd07e",
+      "a2649744-4986-472a-9ead-fffd67b98e6c"
+    ],
+    "text_unit_ids":[
+      "0bc600f6-afc0-4a92-b8f3-b98857a24af3"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 038\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 038\/2025 hace referencia al Decreto 001\/2022, que nombró al Rector de la Universidad.",
+    "document_ids":[
+      "2743f91b-eaed-4711-ab98-06e79a0fd07e",
+      "a2649744-4986-472a-9ead-fffd67b98e6c"
+    ],
+    "text_unit_ids":[
+      "0bc600f6-afc0-4a92-b8f3-b98857a24af3"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 048\/2025",
+    "target":"DECRETO 290\/2021",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 048\/2025 modifica y actualiza el Reglamento del Programa de Incentivos por Publicaciones Científicas y Patentes de Invención promulgado por el Decreto 290\/2021.",
+    "document_ids":[
+      "29f52a13-ea0a-405b-b553-6aab57c63272",
+      "a2649744-4986-472a-9ead-fffd67b98e6c"
+    ],
+    "text_unit_ids":[
+      "41ba66c9-5a5c-4211-9085-f70b0231ce76"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 048\/2025",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 048\/2025 hace referencia al Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "29f52a13-ea0a-405b-b553-6aab57c63272",
+      "a2649744-4986-472a-9ead-fffd67b98e6c"
+    ],
+    "text_unit_ids":[
+      "41ba66c9-5a5c-4211-9085-f70b0231ce76"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 048\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 048\/2025 hace referencia al Decreto 001\/2022, que nombró al Rector de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "29f52a13-ea0a-405b-b553-6aab57c63272",
+      "a2649744-4986-472a-9ead-fffd67b98e6c"
+    ],
+    "text_unit_ids":[
+      "41ba66c9-5a5c-4211-9085-f70b0231ce76"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 048\/2025",
+    "target":"DECRETO 290\/2021",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 048\/2025 deroga al Decreto 290\/2021 a contar del 20 de enero de 2025, salvo para publicaciones aceptadas antes de esa fecha.",
+    "document_ids":[
+      "29f52a13-ea0a-405b-b553-6aab57c63272",
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "f2da31c4-80cf-4a8a-b672-055b75547eda"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 048\/2025",
+    "target":"DECRETO 290\/2021",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 048\/2025 referencia al Decreto 290\/2021 para publicaciones aceptadas antes del 20 de enero de 2025.",
+    "document_ids":[
+      "29f52a13-ea0a-405b-b553-6aab57c63272",
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "f2da31c4-80cf-4a8a-b672-055b75547eda"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 056\/2025",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 056\/2025 referencia el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "29f52a13-ea0a-405b-b553-6aab57c63272",
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "f2da31c4-80cf-4a8a-b672-055b75547eda"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 056\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 056\/2025 referencia el Decreto 001\/2022, que nombró al Rector.",
+    "document_ids":[
+      "29f52a13-ea0a-405b-b553-6aab57c63272",
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "f2da31c4-80cf-4a8a-b672-055b75547eda"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2025",
+    "target":"DECRETO 019\/2013",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2025 deroga al Decreto 019\/2013 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "88159a00-ef61-4023-8ee4-ef763fa23561"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2025",
+    "target":"DECRETO 028\/2010",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2025 deroga al Decreto 028\/2010 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "88159a00-ef61-4023-8ee4-ef763fa23561"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2025",
+    "target":"DECRETO 02\/1990",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2025 deroga al Decreto 02\/1990 a contar de la fecha del presente decreto.",
+    "document_ids":[
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "88159a00-ef61-4023-8ee4-ef763fa23561"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2026",
+    "target":"DECRETO 056\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 001\/2026 se basa en el Decreto 056\/2025, que establece las funciones del Consejo Superior y sus comités, para nombrar a Sergio Mario Torres Guerrero como Contralor General Interino.",
+    "document_ids":[
+      "4a7659c1-5ee9-4930-b776-70d3e6f79585",
+      "8e15a911-548f-476d-abf2-d211d12a38f8"
+    ],
+    "text_unit_ids":[
+      "0ac32d92-a76e-4933-9635-8de65068f39b"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 004\/2026",
+    "target":"DECRETO 086\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 004\/2026 deroga el Decreto 086\/2025, que nombraba a Rafael Solar Arcos como Director Académico de la Sede Concepción.",
+    "document_ids":[
+      "26464a21-85af-460f-b83b-891aae0a5509",
+      "4a7659c1-5ee9-4930-b776-70d3e6f79585"
+    ],
+    "text_unit_ids":[
+      "595a1668-ec72-4c3d-874a-5ffbfd82cc95"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 004\/2026",
+    "target":"DECRETO 375\/2015",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 004\/2026 menciona el Decreto 375\/2015 como antecedente, pero no ejerce acción normativa sobre él.",
+    "document_ids":[
+      "26464a21-85af-460f-b83b-891aae0a5509",
+      "4a7659c1-5ee9-4930-b776-70d3e6f79585"
+    ],
+    "text_unit_ids":[
+      "595a1668-ec72-4c3d-874a-5ffbfd82cc95"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 004\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 004\/2026 menciona el Decreto 106\/2023 como antecedente, pero no ejerce acción normativa sobre él.",
+    "document_ids":[
+      "26464a21-85af-460f-b83b-891aae0a5509",
+      "4a7659c1-5ee9-4930-b776-70d3e6f79585"
+    ],
+    "text_unit_ids":[
+      "595a1668-ec72-4c3d-874a-5ffbfd82cc95"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 004\/2026",
+    "target":"DECRETO 01\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 004\/2026 menciona el Decreto 001\/2022 como antecedente, pero no ejerce acción normativa sobre él.",
+    "document_ids":[
+      "26464a21-85af-460f-b83b-891aae0a5509",
+      "4a7659c1-5ee9-4930-b776-70d3e6f79585"
+    ],
+    "text_unit_ids":[
+      "595a1668-ec72-4c3d-874a-5ffbfd82cc95"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 006\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 006\/2026 menciona el Decreto 106\/2023 como antecedente, pero no realiza ninguna acción normativa sobre él.",
+    "document_ids":[
+      "26464a21-85af-460f-b83b-891aae0a5509",
+      "c3eaa409-a660-4df1-917a-6c155327d653"
+    ],
+    "text_unit_ids":[
+      "9325f724-4839-41b6-945c-a10dd53e5a31"
+    ],
+    "weight":1.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 006\/2026",
+    "target":"DECRETO 01\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 006\/2026 menciona el Decreto 001\/2022 como antecedente, pero no realiza ninguna acción normativa sobre él.",
+    "document_ids":[
+      "26464a21-85af-460f-b83b-891aae0a5509",
+      "c3eaa409-a660-4df1-917a-6c155327d653"
+    ],
+    "text_unit_ids":[
+      "9325f724-4839-41b6-945c-a10dd53e5a31"
+    ],
+    "weight":1.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 010\/2026",
+    "target":"DECRETO 017\/2021",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 010\/2026 modifica el Decreto 017\/2021 al fijar nuevos aranceles de matrícula para el año 2026.",
+    "document_ids":[
+      "3434846f-fefb-4a02-b3d4-2813f4a2d053",
+      "c3eaa409-a660-4df1-917a-6c155327d653"
+    ],
+    "text_unit_ids":[
+      "d0c0e962-4437-4548-abf1-2e34779f81a5"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 010\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 010\/2026 se basa en el Estatuto de la Universidad promulgado por el Decreto 106\/2023.",
+    "document_ids":[
+      "3434846f-fefb-4a02-b3d4-2813f4a2d053",
+      "c3eaa409-a660-4df1-917a-6c155327d653"
+    ],
+    "text_unit_ids":[
+      "d0c0e962-4437-4548-abf1-2e34779f81a5"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 010\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 010\/2026 se basa en el nombramiento del Rector realizado por el Decreto 001\/2022.",
+    "document_ids":[
+      "3434846f-fefb-4a02-b3d4-2813f4a2d053",
+      "c3eaa409-a660-4df1-917a-6c155327d653"
+    ],
+    "text_unit_ids":[
+      "d0c0e962-4437-4548-abf1-2e34779f81a5"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2026",
+    "target":"DECRETO 017\/2021",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 001\/2026 se basa en el Decreto 017\/2021, que reajustó los aranceles de matrícula para estudiantes de cohortes antiguas en carreras de Pregrado y Programas Científicos.",
+    "document_ids":[
+      "8e71720c-676f-48e6-a3e0-9fd4692f8330"
+    ],
+    "text_unit_ids":[
+      "858d08c1-26e3-446d-a20d-20c2a88488e3"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 001\/2026 se basa en el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "8e71720c-676f-48e6-a3e0-9fd4692f8330"
+    ],
+    "text_unit_ids":[
+      "858d08c1-26e3-446d-a20d-20c2a88488e3"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 001\/2026",
+    "target":"DECRETO 01\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 001\/2026 se basa en el Decreto 001\/2022, que nombró al Rector de la Universidad.",
+    "document_ids":[
+      "8e71720c-676f-48e6-a3e0-9fd4692f8330"
+    ],
+    "text_unit_ids":[
+      "858d08c1-26e3-446d-a20d-20c2a88488e3"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 012\/2026",
+    "target":"DECRETO 311\/2021",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 012\/2026 menciona el Decreto 311\/2021 como antecedente en la sección VISTOS.",
+    "document_ids":[
+      "8e71720c-676f-48e6-a3e0-9fd4692f8330",
+      "e015d317-ec01-437b-af7e-d1fec12b66f2"
+    ],
+    "text_unit_ids":[
+      "6135dfe7-3123-456d-ad84-50bbb8e5d4b6"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 012\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 012\/2026 menciona el Decreto 106\/2023 como antecedente en la sección VISTOS.",
+    "document_ids":[
+      "8e71720c-676f-48e6-a3e0-9fd4692f8330",
+      "e015d317-ec01-437b-af7e-d1fec12b66f2"
+    ],
+    "text_unit_ids":[
+      "6135dfe7-3123-456d-ad84-50bbb8e5d4b6"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 012\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 012\/2026 menciona el Decreto 001\/2022 como antecedente en la sección VISTOS.",
+    "document_ids":[
+      "8e71720c-676f-48e6-a3e0-9fd4692f8330",
+      "e015d317-ec01-437b-af7e-d1fec12b66f2"
+    ],
+    "text_unit_ids":[
+      "6135dfe7-3123-456d-ad84-50bbb8e5d4b6"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 013\/2026",
+    "target":"DECRETO 017\/2021",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 013\/2026 se basa en el Decreto 017\/2021, que realizó un reajuste de aranceles de matrícula para estudiantes de cohortes antiguas en carreras de Pregrado y Programas Científicos.",
+    "document_ids":[
+      "474930a3-db48-447c-91b2-3a3354b3cbf5",
+      "e015d317-ec01-437b-af7e-d1fec12b66f2"
+    ],
+    "text_unit_ids":[
+      "75b9f0b4-86c7-48a9-af74-d124bdbd3a32"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 013\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 013\/2026 se basa en el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "474930a3-db48-447c-91b2-3a3354b3cbf5",
+      "e015d317-ec01-437b-af7e-d1fec12b66f2"
+    ],
+    "text_unit_ids":[
+      "75b9f0b4-86c7-48a9-af74-d124bdbd3a32"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 013\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 013\/2026 se basa en el Decreto 001\/2022, que nombró al Rector de la Universidad.",
+    "document_ids":[
+      "474930a3-db48-447c-91b2-3a3354b3cbf5",
+      "e015d317-ec01-437b-af7e-d1fec12b66f2"
+    ],
+    "text_unit_ids":[
+      "75b9f0b4-86c7-48a9-af74-d124bdbd3a32"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 014\/2026",
+    "target":"MEMORÁNDUM DGDP 01\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 014\/2026 se basa en el Memorándum DGDP 01\/2026, que solicitó la bonificación.",
+    "document_ids":[
+      "474930a3-db48-447c-91b2-3a3354b3cbf5",
+      "cc1bd26f-c832-4b6d-8af7-27b3cc6b67d2"
+    ],
+    "text_unit_ids":[
+      "ab336199-4171-4f02-852f-801494e00bed"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 014\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 014\/2026 se basa en el Decreto 106\/2023, que promulgó el Estatuto de la Universidad.",
+    "document_ids":[
+      "474930a3-db48-447c-91b2-3a3354b3cbf5",
+      "cc1bd26f-c832-4b6d-8af7-27b3cc6b67d2"
+    ],
+    "text_unit_ids":[
+      "ab336199-4171-4f02-852f-801494e00bed"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 014\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 014\/2026 se basa en el Decreto 001\/2022, que nombró al Rector de la Universidad.",
+    "document_ids":[
+      "474930a3-db48-447c-91b2-3a3354b3cbf5",
+      "cc1bd26f-c832-4b6d-8af7-27b3cc6b67d2"
+    ],
+    "text_unit_ids":[
+      "ab336199-4171-4f02-852f-801494e00bed"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 025\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 025\/2026 hace referencia al Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "567b0cd8-31eb-4235-a124-7c4110dea2f6",
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "cc1bd26f-c832-4b6d-8af7-27b3cc6b67d2"
+    ],
+    "text_unit_ids":[
+      "7b4a7b98-e195-4cab-b0e4-507f00ddfbc4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 025\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 025\/2026 hace referencia al Decreto 001\/2022, que nombró al Rector.",
+    "document_ids":[
+      "567b0cd8-31eb-4235-a124-7c4110dea2f6",
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "cc1bd26f-c832-4b6d-8af7-27b3cc6b67d2"
+    ],
+    "text_unit_ids":[
+      "7b4a7b98-e195-4cab-b0e4-507f00ddfbc4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 044\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 044\/2026 hace referencia al Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "567b0cd8-31eb-4235-a124-7c4110dea2f6",
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "cc1bd26f-c832-4b6d-8af7-27b3cc6b67d2"
+    ],
+    "text_unit_ids":[
+      "7b4a7b98-e195-4cab-b0e4-507f00ddfbc4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 044\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 044\/2026 hace referencia al Decreto 001\/2022, que nombró al Rector.",
+    "document_ids":[
+      "567b0cd8-31eb-4235-a124-7c4110dea2f6",
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "cc1bd26f-c832-4b6d-8af7-27b3cc6b67d2"
+    ],
+    "text_unit_ids":[
+      "7b4a7b98-e195-4cab-b0e4-507f00ddfbc4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 052\/2026",
+    "target":"DECRETO 622\/2024",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 052\/2026 deroga el Decreto 622\/2024, que designó representantes anteriores en el Consejo de Administración del SEMTRA-2.",
+    "document_ids":[
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "ec9bf6ee-dce0-4e91-9ccd-22ec6ba0be68"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 052\/2026",
+    "target":"DECRETO 316\/2017",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 052\/2026 referencia el Decreto 316\/2017, que promulgó el Reglamento del SEMTRA-2.",
+    "document_ids":[
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "ec9bf6ee-dce0-4e91-9ccd-22ec6ba0be68"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 052\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 052\/2026 referencia el Decreto 106\/2023, que promulgó el Estatuto de la Universidad.",
+    "document_ids":[
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "ec9bf6ee-dce0-4e91-9ccd-22ec6ba0be68"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 052\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 052\/2026 referencia el Decreto 001\/2022, que nombró al Rector.",
+    "document_ids":[
+      "aa0e7f32-1e57-401f-b6f8-8d04ec4883d3",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "ec9bf6ee-dce0-4e91-9ccd-22ec6ba0be68"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 061\/2026",
+    "target":"DECRETO 606\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 061\/2026 deroga el Decreto 606\/2025, que nombró a Claudio Andrés Catalán Huenchur como Secretario Académico de la Sede Concepción.",
+    "document_ids":[
+      "91d4af3d-534d-488e-b0c0-abd10b9d7f86",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "eb88297e-68ba-4ff4-bfb7-b86522433492"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 061\/2026",
+    "target":"DECRETO 375\/2015",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 061\/2026 menciona el Decreto 375\/2015, que promulgó el Reglamento Orgánico de Sedes, como antecedente.",
+    "document_ids":[
+      "91d4af3d-534d-488e-b0c0-abd10b9d7f86",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "eb88297e-68ba-4ff4-bfb7-b86522433492"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 061\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 061\/2026 menciona el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad, como antecedente.",
+    "document_ids":[
+      "91d4af3d-534d-488e-b0c0-abd10b9d7f86",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "eb88297e-68ba-4ff4-bfb7-b86522433492"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 061\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 061\/2026 menciona el Decreto 001\/2022, que nombró al Rector, como antecedente.",
+    "document_ids":[
+      "91d4af3d-534d-488e-b0c0-abd10b9d7f86",
+      "ef371b91-8d0b-45ca-b52e-53a20d47560f"
+    ],
+    "text_unit_ids":[
+      "eb88297e-68ba-4ff4-bfb7-b86522433492"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 064\/2026",
+    "target":"DECRETO 091\/2017",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 064\/2026 rectifica el Decreto 091\/2017, modificando el carácter del Programa de Magíster Científico en Rehabilitación Arquitectónica Sostenible.",
+    "document_ids":[
+      "91d4af3d-534d-488e-b0c0-abd10b9d7f86",
+      "dbdb2d00-9afc-41ca-81bc-89d60aa9b984",
+      "e6c7ff8f-1872-4a60-9085-6fc948fa634d"
+    ],
+    "text_unit_ids":[
+      "b1245acb-40b0-4d5a-bfb3-f98c71f8c15e"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 064\/2026",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 064\/2026 menciona el Decreto 106\/2023 en su VISTOS, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "91d4af3d-534d-488e-b0c0-abd10b9d7f86",
+      "dbdb2d00-9afc-41ca-81bc-89d60aa9b984",
+      "e6c7ff8f-1872-4a60-9085-6fc948fa634d"
+    ],
+    "text_unit_ids":[
+      "b1245acb-40b0-4d5a-bfb3-f98c71f8c15e"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 064\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 064\/2026 menciona el Decreto 001\/2022 en su VISTOS, que nombró al Rector.",
+    "document_ids":[
+      "91d4af3d-534d-488e-b0c0-abd10b9d7f86",
+      "dbdb2d00-9afc-41ca-81bc-89d60aa9b984",
+      "e6c7ff8f-1872-4a60-9085-6fc948fa634d"
+    ],
+    "text_unit_ids":[
+      "b1245acb-40b0-4d5a-bfb3-f98c71f8c15e"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 056\/2024",
+    "target":"DECRETO 129\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 129\/2026 se basa en el Decreto 056\/2024, que promulgó modificaciones previas al Reglamento Institucional de Derechos, Deberes y Disciplina del Estudiantado.",
+    "document_ids":[
+      "7dec4387-6662-4c58-9c2f-f1c4820a0a33",
+      "e6c7ff8f-1872-4a60-9085-6fc948fa634d"
+    ],
+    "text_unit_ids":[
+      "790c24d1-9a54-4ea9-934c-80e0eb889373"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 129\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 129\/2026 se basa en el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "748edfee-8c15-45ef-8343-246930f4f251",
+      "7dec4387-6662-4c58-9c2f-f1c4820a0a33",
+      "e6c7ff8f-1872-4a60-9085-6fc948fa634d"
+    ],
+    "text_unit_ids":[
+      "790c24d1-9a54-4ea9-934c-80e0eb889373",
+      "aa846fe0-6b17-4904-9761-e9e793fb815e"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 129\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 129\/2026 se basa en el Decreto 001\/2022, que nombró a Juan Yuz Eissmann como Rector de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "748edfee-8c15-45ef-8343-246930f4f251",
+      "7dec4387-6662-4c58-9c2f-f1c4820a0a33",
+      "e6c7ff8f-1872-4a60-9085-6fc948fa634d"
+    ],
+    "text_unit_ids":[
+      "790c24d1-9a54-4ea9-934c-80e0eb889373",
+      "aa846fe0-6b17-4904-9761-e9e793fb815e"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 129\/2026",
+    "target":"DECRETO 056\/2024",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 129\/2026 modifica el Reglamento Institucional de Derechos, Deberes y Disciplina del Estudiantado, que fue previamente modificado por el Decreto 056\/2024.",
+    "document_ids":[
+      "748edfee-8c15-45ef-8343-246930f4f251",
+      "7dec4387-6662-4c58-9c2f-f1c4820a0a33"
+    ],
+    "text_unit_ids":[
+      "aa846fe0-6b17-4904-9761-e9e793fb815e"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 134\/2026",
+    "target":"DECRETO 464\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 134\/2026 menciona el Decreto 464\/2025 que promulga el Reglamento General de Elecciones.",
+    "document_ids":[
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "748edfee-8c15-45ef-8343-246930f4f251"
+    ],
+    "text_unit_ids":[
+      "1918272a-5a26-455b-9eb4-e3b175acf71a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 134\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 134\/2026 menciona el Decreto 106\/2023 que promulga el texto refundido y actualizado de los Estatutos de la Universidad.",
+    "document_ids":[
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "748edfee-8c15-45ef-8343-246930f4f251"
+    ],
+    "text_unit_ids":[
+      "1918272a-5a26-455b-9eb4-e3b175acf71a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 134\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 134\/2026 menciona el Decreto 01\/2022 que nombra al Rector.",
+    "document_ids":[
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "748edfee-8c15-45ef-8343-246930f4f251"
+    ],
+    "text_unit_ids":[
+      "1918272a-5a26-455b-9eb4-e3b175acf71a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 106\/2023 menciona el Decreto 01\/2022 como antecedente, que nombró a Juan Yuz Eissmann como Rector.",
+    "document_ids":[
+      "655e1621-8ea1-4393-a262-c67b6d8c562e"
+    ],
+    "text_unit_ids":[
+      "a4201e59-d732-4d46-89d5-34fb20984d49"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 103\/2022",
+    "target":"DECRETO 142\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 142\/2026 menciona al Decreto 103\/2022 como antecedente.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "c853e909-8181-48c4-8ca0-052d12ebe537"
+    ],
+    "text_unit_ids":[
+      "504628c2-e7bd-4a8a-9867-62342b1015d4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 142\/2026",
+    "target":"DECRETO 464\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 142\/2026 menciona al Decreto 464\/2025 como antecedente.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "c853e909-8181-48c4-8ca0-052d12ebe537"
+    ],
+    "text_unit_ids":[
+      "504628c2-e7bd-4a8a-9867-62342b1015d4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 142\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 142\/2026 menciona al Decreto 106\/2023 como antecedente.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "c853e909-8181-48c4-8ca0-052d12ebe537"
+    ],
+    "text_unit_ids":[
+      "504628c2-e7bd-4a8a-9867-62342b1015d4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 142\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 142\/2026 menciona al Decreto 01\/2022 como antecedente.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "c853e909-8181-48c4-8ca0-052d12ebe537"
+    ],
+    "text_unit_ids":[
+      "504628c2-e7bd-4a8a-9867-62342b1015d4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 146\/2026",
+    "target":"DECRETO 018\/2019",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 146\/2026 modifica el Decreto 018\/2019, incorporando cambios al Modelo Institucional de Inglés como Lengua Extranjera en los planes de estudio.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "c853e909-8181-48c4-8ca0-052d12ebe537"
+    ],
+    "text_unit_ids":[
+      "504628c2-e7bd-4a8a-9867-62342b1015d4"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 146\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 146\/2026 menciona al Decreto 106\/2023 como antecedente.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "c853e909-8181-48c4-8ca0-052d12ebe537"
+    ],
+    "text_unit_ids":[
+      "504628c2-e7bd-4a8a-9867-62342b1015d4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 146\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 146\/2026 menciona al Decreto 01\/2022 como antecedente.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "655e1621-8ea1-4393-a262-c67b6d8c562e",
+      "c853e909-8181-48c4-8ca0-052d12ebe537"
+    ],
+    "text_unit_ids":[
+      "504628c2-e7bd-4a8a-9867-62342b1015d4"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 166\/2026",
+    "target":"DECRETO 018\/2019",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 166\/2026 deroga el Decreto 018\/2019 a contar de su fecha, eliminando la exigencia de alcanzar el nivel de inglés 'Independent User' (B1) como requisito de titulación.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "e1b6275c-b6c6-4cc6-ab6e-82445bd4bfcd"
+    ],
+    "text_unit_ids":[
+      "a331cfe5-abbc-4a15-a5b9-7b3af0b8e680"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 166\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 166\/2026 referencia el Decreto 001\/2022, que confiere al Rector las facultades para emitir decretos.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "e1b6275c-b6c6-4cc6-ab6e-82445bd4bfcd"
+    ],
+    "text_unit_ids":[
+      "a331cfe5-abbc-4a15-a5b9-7b3af0b8e680"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 166\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 166\/2026 referencia el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "03070926-486c-4067-a623-8882f4365bbc",
+      "e1b6275c-b6c6-4cc6-ab6e-82445bd4bfcd"
+    ],
+    "text_unit_ids":[
+      "a331cfe5-abbc-4a15-a5b9-7b3af0b8e680"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 175\/2026",
+    "target":"DECRETO 038\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 175\/2026 deroga al Decreto 038\/2025 a partir de su fecha de entrada en vigor.",
+    "document_ids":[
+      "118aa554-4b89-483d-beee-ba60aa8470b5",
+      "a39ba87e-7a6b-4380-847b-d03ce264cb06",
+      "e1b6275c-b6c6-4cc6-ab6e-82445bd4bfcd"
+    ],
+    "text_unit_ids":[
+      "21559877-8aa6-4118-87ab-2c07289d8216",
+      "8cf48e33-0056-4c4f-843f-e9f5323522da"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 175\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 175\/2026 se basa en el Decreto 106\/2023 para promulgar el nuevo Reglamento de Sala del Consejo Normativo de Sedes.",
+    "document_ids":[
+      "a39ba87e-7a6b-4380-847b-d03ce264cb06",
+      "e1b6275c-b6c6-4cc6-ab6e-82445bd4bfcd"
+    ],
+    "text_unit_ids":[
+      "21559877-8aa6-4118-87ab-2c07289d8216"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 175\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 175\/2026 se basa en el Decreto 001\/2022 para promulgar el nuevo Reglamento de Sala del Consejo Normativo de Sedes.",
+    "document_ids":[
+      "a39ba87e-7a6b-4380-847b-d03ce264cb06",
+      "e1b6275c-b6c6-4cc6-ab6e-82445bd4bfcd"
+    ],
+    "text_unit_ids":[
+      "21559877-8aa6-4118-87ab-2c07289d8216"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 176\/2026",
+    "target":"DECRETO 038\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 176\/2026 deroga al Decreto 038\/2025 a contar de su fecha.",
+    "document_ids":[
+      "118aa554-4b89-483d-beee-ba60aa8470b5",
+      "bd6c1c4f-408d-4bb1-837d-85f27dc6516d"
+    ],
+    "text_unit_ids":[
+      "3d94607b-6b06-4811-b5f7-ffbd6fbf7ac3"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 176\/2026",
+    "target":"DECRETO 037\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 176\/2026 deroga al Decreto 037\/2025 a contar de su fecha.",
+    "document_ids":[
+      "5c360840-01b6-4557-8861-b2516a6514c9",
+      "bd6c1c4f-408d-4bb1-837d-85f27dc6516d"
+    ],
+    "text_unit_ids":[
+      "6b658eba-f775-4d04-b32c-add77c92bf33"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 176\/2026",
+    "target":"DECRETO DE NOMBRAMIENTO DEL RECTOR N°01\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 176\/2026 menciona el Decreto de nombramiento del Rector N°001\/2022 como antecedente.",
+    "document_ids":[
+      "5c360840-01b6-4557-8861-b2516a6514c9",
+      "bd6c1c4f-408d-4bb1-837d-85f27dc6516d"
+    ],
+    "text_unit_ids":[
+      "6b658eba-f775-4d04-b32c-add77c92bf33"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 176\/2026",
+    "target":"DECRETO DE RECTORÍA N°106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 176\/2026 menciona el Decreto de Rectoría N°106\/2023 como antecedente.",
+    "document_ids":[
+      "5c360840-01b6-4557-8861-b2516a6514c9",
+      "bd6c1c4f-408d-4bb1-837d-85f27dc6516d"
+    ],
+    "text_unit_ids":[
+      "6b658eba-f775-4d04-b32c-add77c92bf33"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 179\/2026",
+    "target":"DECRETO 065\/2025",
+    "relationship_type":"REEMPLAZA",
+    "description":"El Decreto 179\/2026 reemplaza el nombramiento realizado por el Decreto 065\/2025, nombrando a María Angélica Riscal González en el cargo de Directora de Acompañamiento en la Trayectoria Académica Estudiantil, DATA-E.",
+    "document_ids":[
+      "05606e97-0388-4db5-b2f4-88e3af5c870c",
+      "5c360840-01b6-4557-8861-b2516a6514c9"
+    ],
+    "text_unit_ids":[
+      "76963352-5b35-49ef-a9d6-f4575a16acda"
+    ],
+    "weight":8.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 057\/2025",
+    "target":"DECRETO 179\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 179\/2026 se basa en el Reglamento Orgánico de la Administración Superior promulgado por el Decreto 057\/2025.",
+    "document_ids":[
+      "05606e97-0388-4db5-b2f4-88e3af5c870c",
+      "5c360840-01b6-4557-8861-b2516a6514c9"
+    ],
+    "text_unit_ids":[
+      "76963352-5b35-49ef-a9d6-f4575a16acda"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 179\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 179\/2026 se basa en el Estatuto de la Universidad promulgado por el Decreto 106\/2023.",
+    "document_ids":[
+      "05606e97-0388-4db5-b2f4-88e3af5c870c",
+      "5c360840-01b6-4557-8861-b2516a6514c9"
+    ],
+    "text_unit_ids":[
+      "76963352-5b35-49ef-a9d6-f4575a16acda"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 179\/2026",
+    "target":"DECRETO 037\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 179\/2026 deroga el Decreto 037\/2025 a contar de su fecha.",
+    "document_ids":[
+      "05606e97-0388-4db5-b2f4-88e3af5c870c",
+      "5c360840-01b6-4557-8861-b2516a6514c9"
+    ],
+    "text_unit_ids":[
+      "76963352-5b35-49ef-a9d6-f4575a16acda"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 207\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 207\/2026 hace referencia al Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "05606e97-0388-4db5-b2f4-88e3af5c870c",
+      "5aed0cbb-e762-4072-8687-2bd4e44f1b34"
+    ],
+    "text_unit_ids":[
+      "d9c55bdf-5ada-4c7d-bafb-ea86f424d7b2"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 207\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 207\/2026 hace referencia al Decreto 001\/2022, que nombró a Juan Ignacio Yuz Eissmann como Rector de la Universidad.",
+    "document_ids":[
+      "05606e97-0388-4db5-b2f4-88e3af5c870c",
+      "5aed0cbb-e762-4072-8687-2bd4e44f1b34"
+    ],
+    "text_unit_ids":[
+      "d9c55bdf-5ada-4c7d-bafb-ea86f424d7b2"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 221\/2026",
+    "target":"DECRETO 464\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 221\/2026 menciona el Decreto 464\/2025 como antecedente.",
+    "document_ids":[
+      "5aed0cbb-e762-4072-8687-2bd4e44f1b34",
+      "d00858ec-5346-457d-a57a-dc1990bbf1ab"
+    ],
+    "text_unit_ids":[
+      "4051e3d4-d38a-4ae8-9722-c6ae1f6cf888"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 221\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 221\/2026 menciona los artículos 57 y 58 letra c) de los Estatutos promulgados por el Decreto 106\/2023 como antecedentes.",
+    "document_ids":[
+      "5aed0cbb-e762-4072-8687-2bd4e44f1b34",
+      "d00858ec-5346-457d-a57a-dc1990bbf1ab"
+    ],
+    "text_unit_ids":[
+      "4051e3d4-d38a-4ae8-9722-c6ae1f6cf888"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 221\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 221\/2026 menciona el Decreto de nombramiento del Rector, N°01\/2022, como antecedente.",
+    "document_ids":[
+      "5aed0cbb-e762-4072-8687-2bd4e44f1b34",
+      "d00858ec-5346-457d-a57a-dc1990bbf1ab"
+    ],
+    "text_unit_ids":[
+      "4051e3d4-d38a-4ae8-9722-c6ae1f6cf888"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 291\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 291\/2026 menciona el Decreto 106\/2023 como antecedente.",
+    "document_ids":[
+      "83afc767-005c-4ac1-bac2-571612fb41c2",
+      "d00858ec-5346-457d-a57a-dc1990bbf1ab"
+    ],
+    "text_unit_ids":[
+      "ce10c934-6644-4be8-b836-d5384227eb99"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 291\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 291\/2026 menciona el Decreto 001\/2022 como antecedente.",
+    "document_ids":[
+      "83afc767-005c-4ac1-bac2-571612fb41c2",
+      "d00858ec-5346-457d-a57a-dc1990bbf1ab"
+    ],
+    "text_unit_ids":[
+      "ce10c934-6644-4be8-b836-d5384227eb99"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 299\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 299\/2026 se basa en el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "280df291-1eef-43b0-9f91-682dfd7ee416",
+      "83afc767-005c-4ac1-bac2-571612fb41c2"
+    ],
+    "text_unit_ids":[
+      "9d504006-44b0-491c-b5f3-c4b5a9acdf5f"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 312\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 312\/2026 cita el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad, como antecedente normativo.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "280df291-1eef-43b0-9f91-682dfd7ee416",
+      "ee395379-bc1e-404c-bb6d-dff1381ca472"
+    ],
+    "text_unit_ids":[
+      "18747acb-a92d-46cc-9cfe-37ab4c2be0db"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 312\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 312\/2026 cita el Decreto 001\/2022, que nombra al Rector Juan Yuz Eissmann, como antecedente normativo.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "280df291-1eef-43b0-9f91-682dfd7ee416",
+      "ee395379-bc1e-404c-bb6d-dff1381ca472"
+    ],
+    "text_unit_ids":[
+      "18747acb-a92d-46cc-9cfe-37ab4c2be0db"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 326\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 326\/2026 cita el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad, como antecedente normativo.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "280df291-1eef-43b0-9f91-682dfd7ee416",
+      "ee395379-bc1e-404c-bb6d-dff1381ca472"
+    ],
+    "text_unit_ids":[
+      "18747acb-a92d-46cc-9cfe-37ab4c2be0db"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 326\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 326\/2026 cita el Decreto 001\/2022, que nombra al Rector Juan Yuz Eissmann, como antecedente normativo.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "280df291-1eef-43b0-9f91-682dfd7ee416",
+      "ee395379-bc1e-404c-bb6d-dff1381ca472"
+    ],
+    "text_unit_ids":[
+      "18747acb-a92d-46cc-9cfe-37ab4c2be0db"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 056\/2025",
+    "target":"DECRETO 344\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 344\/2026 establece la nueva composición del Comité de Auditoría del Consejo Superior, basándose en el Reglamento Orgánico del Consejo Superior promulgado por el Decreto 056\/2025.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84",
+      "a7e84e78-2b92-4550-9503-1ea3545ef0dd"
+    ],
+    "text_unit_ids":[
+      "bb195427-a6da-4434-980b-97f9da0d1944"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 344\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 344\/2026 establece la nueva composición del Comité de Auditoría del Consejo Superior, basándose en el Estatuto de la Universidad promulgado por el Decreto 106\/2023.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84",
+      "a7e84e78-2b92-4550-9503-1ea3545ef0dd"
+    ],
+    "text_unit_ids":[
+      "bb195427-a6da-4434-980b-97f9da0d1944"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 344\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 344\/2026 establece la nueva composición del Comité de Auditoría del Consejo Superior, basándose en el nombramiento del Rector por el Decreto 001\/2022.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84",
+      "a7e84e78-2b92-4550-9503-1ea3545ef0dd"
+    ],
+    "text_unit_ids":[
+      "bb195427-a6da-4434-980b-97f9da0d1944"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 056\/2025",
+    "target":"DECRETO 345\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 345\/2026 nombra a los integrantes del Consejo Superior como Presidenta y Vicepresidente, basándose en el Reglamento Orgánico del Consejo Superior promulgado por el Decreto 056\/2025.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84",
+      "a7e84e78-2b92-4550-9503-1ea3545ef0dd"
+    ],
+    "text_unit_ids":[
+      "bb195427-a6da-4434-980b-97f9da0d1944"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 345\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 345\/2026 nombra a los integrantes del Consejo Superior como Presidenta y Vicepresidente, basándose en el Estatuto de la Universidad promulgado por el Decreto 106\/2023.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84",
+      "a7e84e78-2b92-4550-9503-1ea3545ef0dd"
+    ],
+    "text_unit_ids":[
+      "bb195427-a6da-4434-980b-97f9da0d1944"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 345\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 345\/2026 nombra a los integrantes del Consejo Superior como Presidenta y Vicepresidente, basándose en el nombramiento del Rector por el Decreto 001\/2022.",
+    "document_ids":[
+      "18c2ba99-274f-4ba2-a7e5-9b7e8fc86b5a",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84",
+      "a7e84e78-2b92-4550-9503-1ea3545ef0dd"
+    ],
+    "text_unit_ids":[
+      "bb195427-a6da-4434-980b-97f9da0d1944"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 346\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 346\/2026 se basa en el Decreto 106\/2023, que promulgó el Estatuto de la Universidad.",
+    "document_ids":[
+      "0a2a754f-a634-49f5-8159-69674592a4a5",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84"
+    ],
+    "text_unit_ids":[
+      "4ef90809-d315-4092-bdd6-8b096dfac963"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 346\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 346\/2026 se basa en el Decreto 001\/2022, que nombró a Juan Yuz Eissmann como Rector.",
+    "document_ids":[
+      "0a2a754f-a634-49f5-8159-69674592a4a5",
+      "49659cd5-e2fb-4147-ba64-1d75b3b2cd84"
+    ],
+    "text_unit_ids":[
+      "4ef90809-d315-4092-bdd6-8b096dfac963"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 057\/2025",
+    "target":"DECRETO 360\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 360\/2026 hace referencia al Decreto 057\/2025, que promulgó el texto refundido del Reglamento Orgánico de la Administración Superior.",
+    "document_ids":[
+      "0a2a754f-a634-49f5-8159-69674592a4a5",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6",
+      "f7d2a5b8-e2be-4f41-8289-93cb755fb8d1"
+    ],
+    "text_unit_ids":[
+      "5cbc92d2-b288-4f74-a541-b7e7d1d8fd28"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 360\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 360\/2026 hace referencia al Decreto 106\/2023, que promulgó el texto refundido del Estatuto de la Universidad.",
+    "document_ids":[
+      "0a2a754f-a634-49f5-8159-69674592a4a5",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6",
+      "f7d2a5b8-e2be-4f41-8289-93cb755fb8d1"
+    ],
+    "text_unit_ids":[
+      "5cbc92d2-b288-4f74-a541-b7e7d1d8fd28"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 360\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 360\/2026 hace referencia al Decreto 001\/2022, que nombró a Juan Yuz Eissmann como Rector de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "0a2a754f-a634-49f5-8159-69674592a4a5",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6",
+      "f7d2a5b8-e2be-4f41-8289-93cb755fb8d1"
+    ],
+    "text_unit_ids":[
+      "5cbc92d2-b288-4f74-a541-b7e7d1d8fd28"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 374\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 374\/2026 hace referencia al Decreto 106\/2023, que promulgó el texto refundido del Estatuto de la Universidad.",
+    "document_ids":[
+      "0a2a754f-a634-49f5-8159-69674592a4a5",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6",
+      "f7d2a5b8-e2be-4f41-8289-93cb755fb8d1"
+    ],
+    "text_unit_ids":[
+      "5cbc92d2-b288-4f74-a541-b7e7d1d8fd28"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 374\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 374\/2026 hace referencia al Decreto 001\/2022, que nombró a Juan Yuz Eissmann como Rector de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "0a2a754f-a634-49f5-8159-69674592a4a5",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6",
+      "f7d2a5b8-e2be-4f41-8289-93cb755fb8d1"
+    ],
+    "text_unit_ids":[
+      "5cbc92d2-b288-4f74-a541-b7e7d1d8fd28"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 107\/2022",
+    "target":"DECRETO 388\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 388\/2026 referencia al Decreto 107\/2022, que designó integrantes de los TRICELES para los Campus Vitacura y San Joaquín.",
+    "document_ids":[
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6"
+    ],
+    "text_unit_ids":[
+      "52172b75-cb7f-4795-9ca3-5a51236921ae"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 388\/2026",
+    "target":"DECRETO 464\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 388\/2026 referencia al Decreto 464\/2025, que promulgó el Reglamento General de Elecciones.",
+    "document_ids":[
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6"
+    ],
+    "text_unit_ids":[
+      "52172b75-cb7f-4795-9ca3-5a51236921ae"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 388\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 388\/2026 referencia al Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad.",
+    "document_ids":[
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6"
+    ],
+    "text_unit_ids":[
+      "52172b75-cb7f-4795-9ca3-5a51236921ae"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 388\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 388\/2026 referencia al Decreto 01\/2022, que nombró al Rector Juan Yuz Eissmann.",
+    "document_ids":[
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "99ef89aa-2b2f-4696-9b72-9682e05b86f6"
+    ],
+    "text_unit_ids":[
+      "52172b75-cb7f-4795-9ca3-5a51236921ae"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 389\/2026",
+    "target":"DECRETO 464\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 389\/2026 menciona el Reglamento General de Elecciones promulgado por el Decreto 464\/2025 como antecedente.",
+    "document_ids":[
+      "1e4914fb-43be-41b7-99df-4b92f216058e",
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "c2b68399-3f34-4803-805b-5678588353d0"
+    ],
+    "text_unit_ids":[
+      "92732ced-4825-4fe5-975c-b3173acd63de"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 389\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 389\/2026 menciona el texto refundido y actualizado del Estatuto de la Universidad promulgado por el Decreto 106\/2023 como antecedente.",
+    "document_ids":[
+      "1e4914fb-43be-41b7-99df-4b92f216058e",
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "c2b68399-3f34-4803-805b-5678588353d0"
+    ],
+    "text_unit_ids":[
+      "92732ced-4825-4fe5-975c-b3173acd63de"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 389\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 389\/2026 menciona el nombramiento del Rector promulgado por el Decreto 01\/2022 como antecedente.",
+    "document_ids":[
+      "1e4914fb-43be-41b7-99df-4b92f216058e",
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "c2b68399-3f34-4803-805b-5678588353d0"
+    ],
+    "text_unit_ids":[
+      "92732ced-4825-4fe5-975c-b3173acd63de"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 416\/2026",
+    "target":"DECRETO 464\/2025",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 416\/2026 menciona el Reglamento General de Elecciones promulgado por el Decreto 464\/2025 como antecedente.",
+    "document_ids":[
+      "1e4914fb-43be-41b7-99df-4b92f216058e",
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "c2b68399-3f34-4803-805b-5678588353d0"
+    ],
+    "text_unit_ids":[
+      "92732ced-4825-4fe5-975c-b3173acd63de"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 416\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 416\/2026 menciona el texto refundido y actualizado del Estatuto de la Universidad promulgado por el Decreto 106\/2023 como antecedente.",
+    "document_ids":[
+      "1e4914fb-43be-41b7-99df-4b92f216058e",
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "c2b68399-3f34-4803-805b-5678588353d0"
+    ],
+    "text_unit_ids":[
+      "92732ced-4825-4fe5-975c-b3173acd63de"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 416\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 416\/2026 menciona el nombramiento del Rector promulgado por el Decreto 01\/2022 como antecedente.",
+    "document_ids":[
+      "1e4914fb-43be-41b7-99df-4b92f216058e",
+      "99df3650-96e2-4a9c-9505-1669ba11307d",
+      "c2b68399-3f34-4803-805b-5678588353d0"
+    ],
+    "text_unit_ids":[
+      "92732ced-4825-4fe5-975c-b3173acd63de"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 443\/2026",
+    "target":"DECRETO 605\/2025",
+    "relationship_type":"MODIFICA",
+    "description":"El Decreto 443\/2026 modifica el artículo 49 del Reglamento de la Carrera Académica, promulgado por el Decreto 605\/2025.",
+    "document_ids":[
+      "c2b68399-3f34-4803-805b-5678588353d0",
+      "c4476595-4015-4b2e-bdc5-a193d88edf6a",
+      "c9a77f20-cb25-40db-b44f-deb46e1f6b89"
+    ],
+    "text_unit_ids":[
+      "ca04e851-b8b3-4b51-ad60-3164e9870b1a",
+      "eafb2ac0-e664-4ba3-96b4-8c6b564f4875"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 443\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 443\/2026 referencia el Decreto 001\/2022 del Presidente del Consejo Superior, que establece disposiciones relacionadas con la Carrera Académica.",
+    "document_ids":[
+      "c2b68399-3f34-4803-805b-5678588353d0",
+      "c4476595-4015-4b2e-bdc5-a193d88edf6a",
+      "c9a77f20-cb25-40db-b44f-deb46e1f6b89"
+    ],
+    "text_unit_ids":[
+      "ca04e851-b8b3-4b51-ad60-3164e9870b1a",
+      "eafb2ac0-e664-4ba3-96b4-8c6b564f4875"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 605\/2025",
+    "target":"DECRETO 288\/2020",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 288\/2020 deroga al Decreto 605\/2025 a contar de su fecha de promulgación.",
+    "document_ids":[
+      "c9a77f20-cb25-40db-b44f-deb46e1f6b89"
+    ],
+    "text_unit_ids":[
+      "d329048e-c2b6-42d1-b789-7b797f2b5b8f"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 443\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 443\/2026 referencia el Decreto 106\/2023, que promulgó los Estatutos de la Universidad.",
+    "document_ids":[
+      "c4476595-4015-4b2e-bdc5-a193d88edf6a",
+      "c9a77f20-cb25-40db-b44f-deb46e1f6b89"
+    ],
+    "text_unit_ids":[
+      "ca04e851-b8b3-4b51-ad60-3164e9870b1a"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"REGLOMENETO DE CARRERA ACADEMICA APROBADO POR DECRETO 605\/2025",
+    "target":"DECRETO 288\/2020",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 288\/2020 deroga el Reglamento de Carrera Académica aprobado por Decreto 605\/2025 a contar de su fecha de promulgación.",
+    "document_ids":[
+      "c4476595-4015-4b2e-bdc5-a193d88edf6a"
+    ],
+    "text_unit_ids":[
+      "a61bb986-4abc-4b17-98cd-4c522f2c479c"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 448\/2026",
+    "target":"DECRETO 605\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 448\/2026 deroga el Reglamento de Carrera Académica aprobado por el Decreto 605\/2025 a contar de su fecha.",
+    "document_ids":[
+      "9364cebd-322a-4439-8a84-30313db2256f",
+      "c9a77f20-cb25-40db-b44f-deb46e1f6b89"
+    ],
+    "text_unit_ids":[
+      "382e5a89-7f1a-44b7-ac85-bcc42647ce35"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 448\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 448\/2026 menciona el Decreto 106\/2023 como antecedente en la sección VISTOS.",
+    "document_ids":[
+      "9364cebd-322a-4439-8a84-30313db2256f",
+      "c9a77f20-cb25-40db-b44f-deb46e1f6b89"
+    ],
+    "text_unit_ids":[
+      "382e5a89-7f1a-44b7-ac85-bcc42647ce35"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 448\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 448\/2026 menciona el Decreto 001\/2022 como antecedente en la sección VISTOS.",
+    "document_ids":[
+      "9364cebd-322a-4439-8a84-30313db2256f",
+      "c9a77f20-cb25-40db-b44f-deb46e1f6b89"
+    ],
+    "text_unit_ids":[
+      "382e5a89-7f1a-44b7-ac85-bcc42647ce35"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 486\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 486\/2026 cita el Decreto 106\/2023 como antecedente, que promulgó el Estatuto de la Universidad.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 486\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 486\/2026 cita el Decreto 01\/2022 como antecedente, que nombró a Juan Yuz Eissmann como Rector de la Universidad.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 488\/2026",
+    "target":"DECRETO 13\/1990",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 488\/2026 deroga el Decreto 13\/1990, que fijó remuneraciones para jefes de carrera en 1990.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 488\/2026",
+    "target":"DECRETO 011\/1992",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 488\/2026 deroga el Decreto 011\/1992, que fijó remuneraciones para docentes en 1992.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 488\/2026",
+    "target":"DECRETO 011\/2005",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 488\/2026 deroga el Decreto 011\/2005, que estableció incentivos para jefes de carrera en 2005.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 488\/2026",
+    "target":"DECRETO 013\/2005",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 488\/2026 deroga el Decreto 013\/2005, que modificó y prorrogó incentivos para jefes de carrera en 2005.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 488\/2026",
+    "target":"DECRETO 005\/2006",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 488\/2026 deroga el Decreto 005\/2006, que estableció incentivos para jefes de carrera en 2006.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 488\/2026",
+    "target":"DECRETO 044\/2007",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 488\/2026 deroga el Decreto 044\/2007, que modificó el Decreto 011\/2005.",
+    "document_ids":[
+      "1199f446-fd4a-4a7f-9309-f5e23a9600a5",
+      "70c540d6-478a-4e70-8066-13648e19a853",
+      "9364cebd-322a-4439-8a84-30313db2256f"
+    ],
+    "text_unit_ids":[
+      "2caca9c9-27a0-487f-866e-01cd45a60148"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2023",
+    "target":"DECRETO 011\/2005",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2023 deroga el Decreto 011\/2005 a contar de su entrada en vigencia.",
+    "document_ids":[
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "f8df281b-7b25-4812-a115-c3e4b5ec20f2"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2023",
+    "target":"DECRETO 013\/2005",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2023 deroga el Decreto 013\/2005 a contar de su entrada en vigencia.",
+    "document_ids":[
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "f8df281b-7b25-4812-a115-c3e4b5ec20f2"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2023",
+    "target":"DECRETO 005\/2006",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2023 deroga el Decreto 005\/2006 a contar de su entrada en vigencia.",
+    "document_ids":[
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "f8df281b-7b25-4812-a115-c3e4b5ec20f2"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2023",
+    "target":"DECRETO 044\/2007",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2023 deroga el Decreto 044\/2007 a contar de su entrada en vigencia.",
+    "document_ids":[
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "f8df281b-7b25-4812-a115-c3e4b5ec20f2"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2023",
+    "target":"DECRETO 024\/2008",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 089\/2023 deroga el Decreto 024\/2008 a contar de su entrada en vigencia.",
+    "document_ids":[
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "f8df281b-7b25-4812-a115-c3e4b5ec20f2"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 089\/2023",
+    "target":"DECRETO 106\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 089\/2023 menciona el Decreto 106\/2023 en su VISTOS, pero no realiza ninguna acción sobre él.",
+    "document_ids":[
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "f8df281b-7b25-4812-a115-c3e4b5ec20f2"
+    ],
+    "weight":1.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 089\/2023",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 089\/2023 menciona el Decreto 001\/2022 en su VISTOS, pero no realiza ninguna acción sobre él.",
+    "document_ids":[
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "f8df281b-7b25-4812-a115-c3e4b5ec20f2"
+    ],
+    "weight":1.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 516\/2026",
+    "target":"DECRETO 446\/2025",
+    "relationship_type":"DEROGA",
+    "description":"El Decreto 516\/2026 deroga el Decreto 446\/2025 a partir de su fecha.",
+    "document_ids":[
+      "1b79ac72-03ef-47be-9fa9-abcb63ce96b3",
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "2ffec7bc-285f-4801-86ef-9f5e3913a97d"
+    ],
+    "weight":10.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 160\/2023",
+    "target":"DECRETO 516\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 516\/2026 menciona el Decreto 160\/2023 como antecedente.",
+    "document_ids":[
+      "1b79ac72-03ef-47be-9fa9-abcb63ce96b3",
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "2ffec7bc-285f-4801-86ef-9f5e3913a97d"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 516\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 516\/2026 menciona el Decreto 106\/2023 como antecedente.",
+    "document_ids":[
+      "1b79ac72-03ef-47be-9fa9-abcb63ce96b3",
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "2ffec7bc-285f-4801-86ef-9f5e3913a97d"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 516\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 516\/2026 menciona el Decreto 001\/2022 como antecedente.",
+    "document_ids":[
+      "1b79ac72-03ef-47be-9fa9-abcb63ce96b3",
+      "70c540d6-478a-4e70-8066-13648e19a853"
+    ],
+    "text_unit_ids":[
+      "2ffec7bc-285f-4801-86ef-9f5e3913a97d"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 518\/2026",
+    "target":"DECRETO SUPREMO 0189\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 518\/2026 se basa en el Decreto Supremo 0189\/2026, que designa a Marcelo Fernando Pardo Olguín como representante del Presidente de la República en el Consejo Superior de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "1b79ac72-03ef-47be-9fa9-abcb63ce96b3",
+      "6ddb4eb5-38fd-4460-bc44-3405232e091b"
+    ],
+    "text_unit_ids":[
+      "0050c935-3d0e-4372-a2c0-7ef6688accee"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 106\/2023",
+    "target":"DECRETO 518\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 518\/2026 se basa en el Decreto 106\/2023, que promulgó el texto refundido y actualizado del Estatuto de la Universidad Técnica Federico Santa María.",
+    "document_ids":[
+      "1b79ac72-03ef-47be-9fa9-abcb63ce96b3",
+      "6ddb4eb5-38fd-4460-bc44-3405232e091b"
+    ],
+    "text_unit_ids":[
+      "0050c935-3d0e-4372-a2c0-7ef6688accee"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 518\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 518\/2026 se basa en el Decreto 01\/2022, que confiere facultades al Rector para incorporar miembros al Consejo Superior.",
+    "document_ids":[
+      "1b79ac72-03ef-47be-9fa9-abcb63ce96b3",
+      "6ddb4eb5-38fd-4460-bc44-3405232e091b"
+    ],
+    "text_unit_ids":[
+      "0050c935-3d0e-4372-a2c0-7ef6688accee"
+    ],
+    "weight":5.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2022",
+    "target":"DECRETO 523\/2026",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 523\/2026 referencia el Decreto 01\/2022 de nombramiento del Rector como antecedente.",
+    "document_ids":[
+      "6ddb4eb5-38fd-4460-bc44-3405232e091b",
+      "cb599fa2-95de-429e-87bc-9f8b80051356",
+      "eb7094ef-ed82-47c9-bacc-cbf4eefcdb3f"
+    ],
+    "text_unit_ids":[
+      "7bb7579a-b2fb-4062-95a7-7e3963e6c29c"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 01\/2018",
+    "target":"DECRETO 227\/2022",
+    "relationship_type":"REFERENCIA",
+    "description":"El Decreto 227\/2022 referencia el Decreto 01\/2018 de nombramiento del Rector como antecedente.",
+    "document_ids":[
+      "6ddb4eb5-38fd-4460-bc44-3405232e091b",
+      "cb599fa2-95de-429e-87bc-9f8b80051356",
+      "eb7094ef-ed82-47c9-bacc-cbf4eefcdb3f"
+    ],
+    "text_unit_ids":[
+      "7bb7579a-b2fb-4062-95a7-7e3963e6c29c"
+    ],
+    "weight":3.0,
+    "confidence":1.0
+  },
+  {
+    "source":"DECRETO 227\/2022",
+    "target":"DECRETO 288\/2020",
+    "relationship_type":"COMPLEMENTA",
+    "description":"El Decreto 227\/2022 complementa el Decreto 288\/2020, que promulgó el Reglamento de la Carrera Académica, al promulgar la Guía sobre Criterios de Adscripción y Jerarquización en la Carrera Académica.",
+    "document_ids":[
+      "6ddb4eb5-38fd-4460-bc44-3405232e091b",
+      "cb599fa2-95de-429e-87bc-9f8b80051356",
+      "eb7094ef-ed82-47c9-bacc-cbf4eefcdb3f"
+    ],
+    "text_unit_ids":[
+      "7bb7579a-b2fb-4062-95a7-7e3963e6c29c"
+    ],
+    "weight":7.0,
+    "confidence":1.0
+  }
+]
