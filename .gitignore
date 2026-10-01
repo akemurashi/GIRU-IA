@@ -1,0 +1,18 @@
+# Entorno y artefactos
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Datos institucionales y artefactos pesados: NO subir (on-premise)
+input/
+output/
+cache/
+lancedb*/
+*.lance
+*.parquet
+*.graphml
+*.rar
+*.db
+sesiones_datos/
+*.log
