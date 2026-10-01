@@ -1,0 +1,30 @@
+project_name: sandbox-roas
+root_dir: .
+mode: knowledge_base
+
+llm:
+  endpoint: ollama
+  model: qwen2.5:72b       
+  cache_enabled: true       
+
+embeddings:
+  endpoint: ollama
+  model: bge-m3
+  max_batch_size: 16        # evita el bug /v1/embeddings de Ollama en la GPU Blackwell
+
+indexing:
+  entity_types: [norma, organismo, cargo, materia, evento]
+  extract_relationship_types: true
+  relationship_types: [DEROGA, MODIFICA, REEMPLAZA, COMPLEMENTA, REFERENCIA]
+
+prompts:
+  custom_paths: ["custom_prompts"]   # <-- aquí se activa el override
+  strict: false
+
+vectorstore:
+  backend: lancedb
+
+storage:
+  backend: local
+  root: .
+
