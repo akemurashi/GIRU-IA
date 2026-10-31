@@ -1,0 +1,11 @@
+{
+  "_nota": "Sigla -> forma larga. Solo siglas cuyo significado esta confirmado en el corpus. Se usa para expandir la consulta de busqueda (giru_consulta.py). Agregar mas a mano; nunca generarlas con el LLM.",
+  "VTR": "Veces Tomado el Ramo",
+  "ROAS": "Reglamento Orgánico de la Administración Superior",
+  "ROCS": "Reglamento Orgánico del Consejo Superior",
+  "ROS": "Reglamento Orgánico de Sedes",
+  "RIOHS": "Reglamento Interno de Orden, Higiene y Seguridad",
+  "CNS": "Consejo Normativo de Sedes",
+  "EDDA": "Evaluación de Desempeño Docente-Académico",
+  "SIGA": "Sistema de Información de Gestión Académica"
+}
